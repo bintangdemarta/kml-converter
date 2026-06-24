@@ -15,7 +15,6 @@ function parseKML($content) {
 
     $result = [];
 
-    // 🔥 1. Ambil semua <coordinates>
     $coords = $xml->xpath('//*[local-name()="coordinates"]');
 
     foreach ($coords as $block) {
@@ -35,7 +34,6 @@ function parseKML($content) {
         }
     }
 
-    // 🔥 2. Handle gx:coord (Google Earth Track)
     $gxCoords = $xml->xpath('//*[local-name()="coord"]');
 
     foreach ($gxCoords as $c) {
@@ -95,6 +93,7 @@ function extractCoords($coordBlocks) {
 
         foreach ($points as $p) {
             $parts = explode(',', $p);
+
             if (count($parts) >= 2) {
                 $lat = trim($parts[1]);
                 $lon = trim($parts[0]);
@@ -122,4 +121,46 @@ function generateHolding($lat, $lon, $radius = 5) {
     }
 
     return $points;
+}
+
+/*
+|--------------------------------------------------------------------------
+| DISTANCE CALCULATOR (NM)
+|--------------------------------------------------------------------------
+*/
+
+function calculateDistanceNM($coords)
+{
+    $totalNM = 0;
+
+    for ($i = 0; $i < count($coords) - 1; $i++) {
+
+        [$lat1, $lon1] = array_map('floatval', explode(',', $coords[$i]));
+        [$lat2, $lon2] = array_map('floatval', explode(',', $coords[$i + 1]));
+
+        $earthRadiusKm = 6371;
+
+        $dLat = deg2rad($lat2 - $lat1);
+        $dLon = deg2rad($lon2 - $lon1);
+
+        $a =
+            sin($dLat / 2) * sin($dLat / 2) +
+            cos(deg2rad($lat1)) *
+            cos(deg2rad($lat2)) *
+            sin($dLon / 2) *
+            sin($dLon / 2);
+
+        $c = 2 * atan2(
+            sqrt($a),
+            sqrt(1 - $a)
+        );
+
+        $distanceKm = $earthRadiusKm * $c;
+
+        $distanceNM = $distanceKm * 0.539957;
+
+        $totalNM += $distanceNM;
+    }
+
+    return round($totalNM, 2);
 }

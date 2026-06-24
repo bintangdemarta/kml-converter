@@ -50,7 +50,15 @@ button {
 <h3>Output:</h3>
 <textarea id="output"></textarea>
 <button onclick="copyText()">Copy</button>
-
+<div id="stats" style="
+    margin-top:15px;
+    padding:15px;
+    background:#0f172a;
+    border-radius:10px;
+    font-size:15px;
+    ">
+Distance: -
+</div>
 <hr>
 
 <h3>Generate Holding Pattern</h3>
@@ -98,10 +106,19 @@ async function uploadFile() {
         body: formData
     });
 
-    const data = await res.text();
+    const data = await res.json();
 
-    document.getElementById('output').value = data;
-    drawRoute(data);
+document.getElementById('output').value = data.route;
+
+document.getElementById('stats').innerHTML =
+`
+<b>Total Distance:</b> ${data.distance_nm} NM<br>
+<b>Waypoints:</b> ${data.waypoints}<br>
+<b>XCub @110 KT:</b> ${(data.distance_nm / 110 * 60).toFixed(0)} min<br>
+<b>C172 @120 KT:</b> ${(data.distance_nm / 120 * 60).toFixed(0)} min
+`;
+
+drawRoute(data.route);
 }
 
 function generateHolding() {
@@ -109,10 +126,18 @@ function generateHolding() {
     const lon = document.getElementById('lon').value;
 
     fetch(`convert.php?mode=holding&lat=${lat}&lon=${lon}`)
-    .then(res => res.text())
+    .then(res => res.json())
     .then(data => {
-        document.getElementById('output').value = data;
-        drawRoute(data);
+
+        document.getElementById('output').value = data.route;
+
+        document.getElementById('stats').innerHTML =
+        `
+        <b>Total Distance:</b> ${data.distance_nm} NM<br>
+        <b>Waypoints:</b> ${data.waypoints}
+        `;
+
+        drawRoute(data.route);
     });
 }
 
