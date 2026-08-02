@@ -75,3 +75,9 @@ function status_badge(string $status): string
     $s = strtolower($status);
     return '<span class="badge ' . e($s) . '">' . e($status) . '</span>';
 }
+
+/** Kategori rute yang valid untuk Live Map Dashboard. */
+function route_categories(): array
+{
+    return ['Holding', 'SID', 'STAR', 'Taxiway', 'Route', 'Other'];
+}

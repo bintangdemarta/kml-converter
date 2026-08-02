@@ -121,6 +121,7 @@ $title = isset($page_title) ? $page_title . ' — IFFI FlightOps' : 'IFFI Flight
 <div class="topbar">
     <div class="brand">IFFI <span>FlightOps</span></div>
     <nav>
+        <a href="<?= url('/map/index.php') ?>">Map Dashboard</a>
         <?php if ($u): ?>
             <a href="<?= url('/pilot/dashboard.php') ?>">Dashboard</a>
             <a href="<?= url('/pilot/request-new.php') ?>">New Request</a>

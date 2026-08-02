@@ -79,4 +79,19 @@ function init_schema(PDO $pdo): void
             filed_at     TEXT NOT NULL
         )
     ");
+
+    $pdo->exec("
+        CREATE TABLE IF NOT EXISTS routes (
+            id           INTEGER PRIMARY KEY AUTOINCREMENT,
+            name         TEXT NOT NULL,
+            category     TEXT NOT NULL DEFAULT 'Route',
+            icao         TEXT,
+            waypoints    TEXT NOT NULL,
+            distance_nm  REAL NOT NULL DEFAULT 0,
+            notes        TEXT,
+            owner_id     INTEGER NOT NULL REFERENCES users(id),
+            created_at   TEXT NOT NULL,
+            updated_at   TEXT NOT NULL
+        )
+    ");
 }
