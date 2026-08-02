@@ -94,4 +94,36 @@ function init_schema(PDO $pdo): void
             updated_at   TEXT NOT NULL
         )
     ");
+
+    $pdo->exec("
+        CREATE TABLE IF NOT EXISTS taxi_nodes (
+            id           INTEGER PRIMARY KEY AUTOINCREMENT,
+            icao         TEXT NOT NULL,
+            ref_code     TEXT,
+            name         TEXT NOT NULL,
+            type         TEXT NOT NULL,
+            lat          REAL NOT NULL,
+            lon          REAL NOT NULL,
+            notes        TEXT,
+            created_at   TEXT NOT NULL,
+            updated_at   TEXT NOT NULL
+        )
+    ");
+    $pdo->exec('CREATE INDEX IF NOT EXISTS idx_taxi_nodes_icao ON taxi_nodes(icao)');
+
+    $pdo->exec("
+        CREATE TABLE IF NOT EXISTS taxi_edges (
+            id             INTEGER PRIMARY KEY AUTOINCREMENT,
+            icao           TEXT NOT NULL,
+            from_node_id   INTEGER NOT NULL REFERENCES taxi_nodes(id) ON DELETE CASCADE,
+            to_node_id     INTEGER NOT NULL REFERENCES taxi_nodes(id) ON DELETE CASCADE,
+            taxiway_name   TEXT,
+            bidirectional  INTEGER NOT NULL DEFAULT 1,
+            distance_m     REAL NOT NULL DEFAULT 0,
+            created_at     TEXT NOT NULL
+        )
+    ");
+    $pdo->exec('CREATE INDEX IF NOT EXISTS idx_taxi_edges_icao ON taxi_edges(icao)');
+    $pdo->exec('CREATE INDEX IF NOT EXISTS idx_taxi_edges_from ON taxi_edges(from_node_id)');
+    $pdo->exec('CREATE INDEX IF NOT EXISTS idx_taxi_edges_to ON taxi_edges(to_node_id)');
 }
