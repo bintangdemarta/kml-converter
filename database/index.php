@@ -514,7 +514,9 @@ items.forEach(it => {
     marker.bindPopup(popup);
 });
 
-if (items.length > 1) {
+if (items.length === 1) {
+    map.setView([items[0].lat, items[0].lon], 13);
+} else if (items.length > 1) {
     map.fitBounds(items.map(it => [it.lat, it.lon]), { padding: [30, 30] });
 }
 
