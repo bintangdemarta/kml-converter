@@ -49,6 +49,33 @@ if ($cat === 'airport') {
         $editItem = $stmt->fetch();
         if ($editItem) $mode = 'edit';
     }
+} elseif ($cat === 'reporting_point') {
+    $q = trim($_GET['q'] ?? '');
+    $type = $_GET['type'] ?? '';
+
+    $where = [];
+    $params = [];
+    if ($q !== '') {
+        $where[] = '(ident LIKE :q OR region LIKE :q)';
+        $params[':q'] = '%' . $q . '%';
+    }
+    if ($type !== '' && in_array($type, reporting_point_types(), true)) {
+        $where[] = 'type = :t';
+        $params[':t'] = $type;
+    }
+    $sql = 'SELECT * FROM reporting_points' . ($where ? ' WHERE ' . implode(' AND ', $where) : '') . ' ORDER BY ident LIMIT 1000';
+    $stmt = $pdo->prepare($sql);
+    $stmt->execute($params);
+    $items = $stmt->fetchAll();
+
+    if (isset($_GET['new']) && $canEdit) {
+        $mode = 'create';
+    } elseif (isset($_GET['edit']) && $canEdit) {
+        $stmt = $pdo->prepare('SELECT * FROM reporting_points WHERE id = :id');
+        $stmt->execute([':id' => (int)$_GET['edit']]);
+        $editItem = $stmt->fetch();
+        if ($editItem) $mode = 'edit';
+    }
 }
 
 $page_title = 'Indonesia Database';
@@ -82,12 +109,12 @@ require __DIR__ . '/../partials/header.php';
     <div class="flash <?= e($f['type']) ?>"><?= e($f['message']) ?></div>
 <?php endforeach; ?>
 
-<?php if ($cat !== 'airport'): ?>
+<?php if (!in_array($cat, ['airport', 'reporting_point'], true)): ?>
     <div class="card">
         <h2 style="margin-top:0;"><?= e($cats[$cat]['label']) ?></h2>
         <p class="muted">Coming soon — kategori ini sedang dalam pengembangan.</p>
     </div>
-<?php else: ?>
+<?php elseif ($cat === 'airport'): ?>
 <div class="db-layout">
     <div class="db-sidebar">
         <div class="card">
@@ -213,14 +240,124 @@ require __DIR__ . '/../partials/header.php';
         </div>
     </div>
 </div>
+<?php elseif ($cat === 'reporting_point'): ?>
+<div class="db-layout">
+    <div class="db-sidebar">
+        <div class="card">
+            <h3 style="margin-top:0;">Filter Reporting Point</h3>
+            <form method="get">
+                <input type="hidden" name="cat" value="reporting_point">
+                <label>Cari (ident/region)</label>
+                <input name="q" value="<?= e($q) ?>" placeholder="PARDI / WIII FIR">
+                <label>Tipe</label>
+                <select name="type">
+                    <option value="">Semua Tipe</option>
+                    <?php foreach (reporting_point_types() as $t): ?>
+                        <option value="<?= e($t) ?>" <?= $type === $t ? 'selected' : '' ?>><?= e(reporting_point_type_label($t)) ?></option>
+                    <?php endforeach; ?>
+                </select>
+                <button type="submit" class="btn-ghost">Filter</button>
+            </form>
+
+            <?php if ($canEdit): ?>
+                <a class="btn" href="<?= url('/database/index.php?cat=reporting_point&new=1') ?>" style="width:100%;text-align:center;box-sizing:border-box;">+ Add Reporting Point</a>
+            <?php endif; ?>
+
+            <p class="muted" style="font-size:12px;margin-top:10px;"><?= count($items) ?> titik ditampilkan. <?php if (!$items): ?>Menunggu data OpenAIP atau input manual.<?php endif; ?></p>
+
+            <div class="item-list">
+                <?php foreach ($items as $it): ?>
+                    <div class="item-row">
+                        <div>
+                            <b><?= e($it['ident']) ?></b>
+                            <span class="cat-chip"><?= e(reporting_point_type_label($it['type'])) ?></span>
+                            <div class="meta"><?= $it['frequency'] ? e($it['frequency']) . ' · ' : '' ?><?= $it['region'] ? e($it['region']) : '' ?></div>
+                        </div>
+                        <?php if ($canEdit): ?>
+                            <div style="display:flex;gap:6px;">
+                                <a class="btn btn-ghost" style="margin:0;padding:4px 8px;font-size:12px;" href="<?= url('/database/index.php?cat=reporting_point&edit=' . (int)$it['id']) ?>">Edit</a>
+                                <form method="post" action="<?= url('/database/delete.php') ?>" onsubmit="return confirm('Hapus <?= e(addslashes($it['ident'])) ?>?');">
+                                    <?= csrf_field() ?>
+                                    <input type="hidden" name="cat" value="reporting_point">
+                                    <input type="hidden" name="id" value="<?= (int)$it['id'] ?>">
+                                    <button type="submit" class="btn-danger">Del</button>
+                                </form>
+                            </div>
+                        <?php endif; ?>
+                    </div>
+                <?php endforeach; ?>
+                <?php if (!$items): ?><div style="padding:14px;" class="muted">Tidak ada hasil.</div><?php endif; ?>
+            </div>
+        </div>
+    </div>
+
+    <div class="db-main">
+        <?php if ($mode === 'create' || $mode === 'edit'): ?>
+            <div class="card" style="max-width:520px;">
+                <h3 style="margin-top:0;"><?= $mode === 'edit' ? 'Edit Reporting Point' : 'Add Reporting Point' ?></h3>
+                <p class="muted">Klik peta untuk isi koordinat otomatis, atau isi manual.</p>
+                <form method="post" action="<?= url('/database/reporting-point-save.php') ?>" id="rpForm">
+                    <?= csrf_field() ?>
+                    <input type="hidden" name="id" value="<?= (int)($editItem['id'] ?? 0) ?>">
+                    <div class="row">
+                        <div>
+                            <label>Ident</label>
+                            <input name="ident" value="<?= e($editItem['ident'] ?? '') ?>" placeholder="PARDI / ABC" required style="text-transform:uppercase">
+                        </div>
+                        <div>
+                            <label>Tipe</label>
+                            <select name="type">
+                                <?php foreach (reporting_point_types() as $t): ?>
+                                    <option value="<?= e($t) ?>" <?= ($editItem['type'] ?? '') === $t ? 'selected' : '' ?>><?= e(reporting_point_type_label($t)) ?></option>
+                                <?php endforeach; ?>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div>
+                            <label>Latitude</label>
+                            <input name="lat" id="rp_lat" value="<?= e($editItem['lat'] ?? '') ?>" required>
+                        </div>
+                        <div>
+                            <label>Longitude</label>
+                            <input name="lon" id="rp_lon" value="<?= e($editItem['lon'] ?? '') ?>" required>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div>
+                            <label>Frequency <span class="muted">(opsional, VOR/NDB)</span></label>
+                            <input name="frequency" value="<?= e($editItem['frequency'] ?? '') ?>" placeholder="112.500">
+                        </div>
+                        <div>
+                            <label>Region <span class="muted">(opsional)</span></label>
+                            <input name="region" value="<?= e($editItem['region'] ?? '') ?>" placeholder="WIII FIR">
+                        </div>
+                    </div>
+                    <label>Notes</label>
+                    <textarea name="notes"><?= e($editItem['notes'] ?? '') ?></textarea>
+                    <button type="submit">Save Reporting Point</button>
+                    <a class="btn btn-ghost" href="<?= url('/database/index.php?cat=reporting_point') ?>">Batal</a>
+                </form>
+            </div>
+        <?php endif; ?>
+        <div class="card">
+            <div id="map"></div>
+        </div>
+    </div>
+</div>
 <?php endif; ?>
 
 <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
 <script>
+const cat = <?= json_encode($cat) ?>;
 const items = <?= json_encode($items) ?>;
 const canEdit = <?= json_encode($canEdit) ?>;
 const editMode = <?= json_encode($mode === 'create' || $mode === 'edit') ?>;
-const typeColors = <?= json_encode(array_combine(airport_types(), array_map('airport_type_color', airport_types()))) ?>;
+const typeColorsByCat = {
+    airport: <?= json_encode(array_combine(airport_types(), array_map('airport_type_color', airport_types()))) ?>,
+    reporting_point: <?= json_encode(array_combine(reporting_point_types(), array_map('reporting_point_type_color', reporting_point_types()))) ?>
+};
+const typeColors = typeColorsByCat[cat] || {};
 
 const center = items.length ? [items[0].lat, items[0].lon] : [-2.5, 118];
 const map = L.map('map').setView(center, items.length ? 6 : 5);
@@ -233,10 +370,17 @@ items.forEach(it => {
     const marker = L.circleMarker([it.lat, it.lon], {
         radius: 6, color: '#0b1220', weight: 1.5, fillColor: typeColors[it.type] || '#94a3b8', fillOpacity: 0.9
     }).addTo(map);
-    let popup = '<b>' + it.name + '</b>';
-    if (it.icao) popup += '<br>ICAO: ' + it.icao;
-    if (it.iata) popup += ' · IATA: ' + it.iata;
-    popup += '<br>' + it.type;
+    let popup;
+    if (cat === 'reporting_point') {
+        popup = '<b>' + it.ident + '</b><br>' + it.type;
+        if (it.frequency) popup += ' · ' + it.frequency;
+        if (it.region) popup += '<br>' + it.region;
+    } else {
+        popup = '<b>' + it.name + '</b>';
+        if (it.icao) popup += '<br>ICAO: ' + it.icao;
+        if (it.iata) popup += ' · IATA: ' + it.iata;
+        popup += '<br>' + it.type;
+    }
     marker.bindPopup(popup);
 });
 
@@ -246,8 +390,10 @@ if (items.length > 1) {
 
 if (editMode && canEdit) {
     map.on('click', e => {
-        document.getElementById('af_lat').value = e.latlng.lat.toFixed(6);
-        document.getElementById('af_lon').value = e.latlng.lng.toFixed(6);
+        const latField = document.getElementById(cat === 'reporting_point' ? 'rp_lat' : 'af_lat');
+        const lonField = document.getElementById(cat === 'reporting_point' ? 'rp_lon' : 'af_lon');
+        if (latField) latField.value = e.latlng.lat.toFixed(6);
+        if (lonField) lonField.value = e.latlng.lng.toFixed(6);
     });
 }
 </script>
