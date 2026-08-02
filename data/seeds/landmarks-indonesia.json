@@ -1,0 +1,4578 @@
+[
+    {
+        "name": "Gunung Bromo",
+        "type": "mountain",
+        "lat": -7.942069,
+        "lon": 112.952977,
+        "elevation_m": 2329,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 59073041)"
+    },
+    {
+        "name": "Gunung Merbabu",
+        "type": "mountain",
+        "lat": -7.452438,
+        "lon": 110.44082,
+        "elevation_m": 3145,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 262268929)"
+    },
+    {
+        "name": "Gunung Sumbing",
+        "type": "mountain",
+        "lat": -7.381893,
+        "lon": 110.075819,
+        "elevation_m": 3320,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 262268947)"
+    },
+    {
+        "name": "Gunung Sindoro",
+        "type": "mountain",
+        "lat": -7.301139,
+        "lon": 109.996699,
+        "elevation_m": 3136,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 262268965)"
+    },
+    {
+        "name": "Gunung Batur",
+        "type": "mountain",
+        "lat": -8.239415,
+        "lon": 115.37796,
+        "elevation_m": 1717,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 292801401)"
+    },
+    {
+        "name": "Pulau Weh",
+        "type": "mountain",
+        "lat": 5.821062,
+        "lon": 95.293304,
+        "elevation_m": 617,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 295339756)"
+    },
+    {
+        "name": "Anak Krakatau",
+        "type": "mountain",
+        "lat": -6.10295,
+        "lon": 105.422176,
+        "elevation_m": 110,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 448446512)"
+    },
+    {
+        "name": "Bukit Amasing",
+        "type": "mountain",
+        "lat": -0.524766,
+        "lon": 127.502575,
+        "elevation_m": 1030,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 448464302)"
+    },
+    {
+        "name": "Arjuno-Welirang",
+        "type": "mountain",
+        "lat": -7.734262,
+        "lon": 112.574994,
+        "elevation_m": 3339,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 449697393)"
+    },
+    {
+        "name": "Gunung Kelud",
+        "type": "mountain",
+        "lat": -7.938922,
+        "lon": 112.305249,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 449702647)"
+    },
+    {
+        "name": "Gunung Semeru",
+        "type": "mountain",
+        "lat": -8.107843,
+        "lon": 112.92248,
+        "elevation_m": 3676,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 449713444)"
+    },
+    {
+        "name": "Gunung Manado Tua",
+        "type": "mountain",
+        "lat": 1.632908,
+        "lon": 124.69698,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 534692944)"
+    },
+    {
+        "name": "Gunung Lokon",
+        "type": "mountain",
+        "lat": 1.364198,
+        "lon": 124.799227,
+        "elevation_m": 1109,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 541998915)"
+    },
+    {
+        "name": "Gunung Empung",
+        "type": "mountain",
+        "lat": 1.374544,
+        "lon": 124.803237,
+        "elevation_m": 1340,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 542000028)"
+    },
+    {
+        "name": "Gunung Mahawu",
+        "type": "mountain",
+        "lat": 1.353165,
+        "lon": 124.862891,
+        "elevation_m": 1331,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 542000030)"
+    },
+    {
+        "name": "Gunung Lubuk Raya",
+        "type": "mountain",
+        "lat": 1.477956,
+        "lon": 99.209931,
+        "elevation_m": 1886,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 545640131)"
+    },
+    {
+        "name": "Gunung Marapi",
+        "type": "mountain",
+        "lat": -0.391113,
+        "lon": 100.457143,
+        "elevation_m": 2891,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 545640257)"
+    },
+    {
+        "name": "Kembar",
+        "type": "mountain",
+        "lat": 3.854025,
+        "lon": 97.66385,
+        "elevation_m": 2245,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 545640366)"
+    },
+    {
+        "name": "Gunung Dempo",
+        "type": "mountain",
+        "lat": -4.015507,
+        "lon": 103.127987,
+        "elevation_m": 3173,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 545640617)"
+    },
+    {
+        "name": "Gunung Puet Sague",
+        "type": "mountain",
+        "lat": 4.909395,
+        "lon": 96.325183,
+        "elevation_m": 2801,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 545641232)"
+    },
+    {
+        "name": "Gunung Sibayak",
+        "type": "mountain",
+        "lat": 3.239352,
+        "lon": 98.504758,
+        "elevation_m": 2212,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 545690183)"
+    },
+    {
+        "name": "Dolok Sibualbuali",
+        "type": "mountain",
+        "lat": 1.550343,
+        "lon": 99.259012,
+        "elevation_m": 1819,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 545691848)"
+    },
+    {
+        "name": "Gunung Singgalang",
+        "type": "mountain",
+        "lat": -0.393693,
+        "lon": 100.333115,
+        "elevation_m": 2877,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 545696097)"
+    },
+    {
+        "name": "Gunugn Sorikmarapi",
+        "type": "mountain",
+        "lat": 0.683253,
+        "lon": 99.541036,
+        "elevation_m": 2145,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 545697898)"
+    },
+    {
+        "name": "Gunung Ophir",
+        "type": "mountain",
+        "lat": 0.079198,
+        "lon": 99.983248,
+        "elevation_m": 2919,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 545722693)"
+    },
+    {
+        "name": "Gunung Talang",
+        "type": "mountain",
+        "lat": -0.979025,
+        "lon": 100.679955,
+        "elevation_m": 2597,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 545724319)"
+    },
+    {
+        "name": "Gunung Tandikat",
+        "type": "mountain",
+        "lat": -0.431172,
+        "lon": 100.319422,
+        "elevation_m": 2438,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 545736009)"
+    },
+    {
+        "name": "Gunung Kerinci",
+        "type": "mountain",
+        "lat": -1.697181,
+        "lon": 101.264654,
+        "elevation_m": 3805,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 545747274)"
+    },
+    {
+        "name": "Bukit Kaba",
+        "type": "mountain",
+        "lat": -3.512257,
+        "lon": 102.623225,
+        "elevation_m": 1938,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 545751064)"
+    },
+    {
+        "name": "Gunung Gamkonora",
+        "type": "mountain",
+        "lat": 1.379072,
+        "lon": 127.532281,
+        "elevation_m": 1571,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 545786074)"
+    },
+    {
+        "name": "Gunung Hiri",
+        "type": "mountain",
+        "lat": 0.897923,
+        "lon": 127.318469,
+        "elevation_m": 630,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 545804372)"
+    },
+    {
+        "name": "Gunung Gamalama",
+        "type": "mountain",
+        "lat": 0.80988,
+        "lon": 127.332343,
+        "elevation_m": 1715,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 545808767)"
+    },
+    {
+        "name": "Gunung Kiematabu",
+        "type": "mountain",
+        "lat": 0.66206,
+        "lon": 127.402411,
+        "elevation_m": 1750,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 545812291)"
+    },
+    {
+        "name": "Gunung Jailolo",
+        "type": "mountain",
+        "lat": 1.079431,
+        "lon": 127.438497,
+        "elevation_m": 1130,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 545939215)"
+    },
+    {
+        "name": "Gunung Mare",
+        "type": "mountain",
+        "lat": 0.575321,
+        "lon": 127.397768,
+        "elevation_m": 308,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 545970160)"
+    },
+    {
+        "name": "Gunung Moti",
+        "type": "mountain",
+        "lat": 0.458583,
+        "lon": 127.408068,
+        "elevation_m": 950,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 545988808)"
+    },
+    {
+        "name": "Gunung Kiebesi",
+        "type": "mountain",
+        "lat": 0.331737,
+        "lon": 127.391931,
+        "elevation_m": 1357,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 545994996)"
+    },
+    {
+        "name": "Gunung Tarakan Lamo",
+        "type": "mountain",
+        "lat": 1.830169,
+        "lon": 127.827764,
+        "elevation_m": 318,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 546036004)"
+    },
+    {
+        "name": "Gunung Tobaru",
+        "type": "mountain",
+        "lat": 1.634169,
+        "lon": 127.670716,
+        "elevation_m": 1035,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 546074865)"
+    },
+    {
+        "name": "Gunung Dukono",
+        "type": "mountain",
+        "lat": 1.698949,
+        "lon": 127.879124,
+        "elevation_m": 1335,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 546079687)"
+    },
+    {
+        "name": "Gunung Mamuya",
+        "type": "mountain",
+        "lat": 1.783848,
+        "lon": 127.920349,
+        "elevation_m": 750,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 546091266)"
+    },
+    {
+        "name": "Gunung Todoko-Ranu",
+        "type": "mountain",
+        "lat": 1.224085,
+        "lon": 127.456439,
+        "elevation_m": 979,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 546391084)"
+    },
+    {
+        "name": "Gunung Ijen",
+        "type": "mountain",
+        "lat": -8.057933,
+        "lon": 114.243098,
+        "elevation_m": 2769,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 546415220)"
+    },
+    {
+        "name": "Gunung Raung",
+        "type": "mountain",
+        "lat": -8.119636,
+        "lon": 114.055025,
+        "elevation_m": 3332,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 546451027)"
+    },
+    {
+        "name": "Gunung Galunggung",
+        "type": "mountain",
+        "lat": -7.256152,
+        "lon": 108.076093,
+        "elevation_m": 2168,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 546511093)"
+    },
+    {
+        "name": "Gunung Gede",
+        "type": "mountain",
+        "lat": -6.787841,
+        "lon": 106.981717,
+        "elevation_m": 2958,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 546519996)"
+    },
+    {
+        "name": "Gunung Kiaraberes-Gagak",
+        "type": "mountain",
+        "lat": -6.729319,
+        "lon": 106.65049,
+        "elevation_m": 1511,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 546562831)"
+    },
+    {
+        "name": "Gunung Lemongan Tarub",
+        "type": "mountain",
+        "lat": -7.980627,
+        "lon": 113.341702,
+        "elevation_m": 1667,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 546584947)"
+    },
+    {
+        "name": "Gunung Patuha II",
+        "type": "mountain",
+        "lat": -7.159755,
+        "lon": 107.418059,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 547829787)"
+    },
+    {
+        "name": "Gunung Penanggungan",
+        "type": "mountain",
+        "lat": -7.61566,
+        "lon": 112.620057,
+        "elevation_m": 1653,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 547834427)"
+    },
+    {
+        "name": "Gunung Salak",
+        "type": "mountain",
+        "lat": -6.713607,
+        "lon": 106.73854,
+        "elevation_m": 2211,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 547843884)"
+    },
+    {
+        "name": "Gunung Wilis",
+        "type": "mountain",
+        "lat": -7.820585,
+        "lon": 111.757163,
+        "elevation_m": 2563,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 547878299)"
+    },
+    {
+        "name": "Gunung Api (Banda)",
+        "type": "mountain",
+        "lat": -4.522592,
+        "lon": 129.879849,
+        "elevation_m": 640,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 547903342)"
+    },
+    {
+        "name": "Gunung Batu Tara",
+        "type": "mountain",
+        "lat": -7.790646,
+        "lon": 123.586581,
+        "elevation_m": 748,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 547905001)"
+    },
+    {
+        "name": "Ebulobo",
+        "type": "mountain",
+        "lat": -8.815484,
+        "lon": 121.191373,
+        "elevation_m": 2124,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 547907212)"
+    },
+    {
+        "name": "Gunung Egon",
+        "type": "mountain",
+        "lat": -8.678095,
+        "lon": 122.454126,
+        "elevation_m": 1703,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 547910568)"
+    },
+    {
+        "name": "Gunungapi Wetar",
+        "type": "mountain",
+        "lat": -6.635563,
+        "lon": 126.660343,
+        "elevation_m": 282,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 547913707)"
+    },
+    {
+        "name": "Ililabalekan",
+        "type": "mountain",
+        "lat": -8.546775,
+        "lon": 123.383605,
+        "elevation_m": 1621,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 547924523)"
+    },
+    {
+        "name": "Ilimuda",
+        "type": "mountain",
+        "lat": -8.495148,
+        "lon": 122.683531,
+        "elevation_m": 1100,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 548114565)"
+    },
+    {
+        "name": "Ili Lewotobi Perempuan",
+        "type": "mountain",
+        "lat": -8.551693,
+        "lon": 122.780647,
+        "elevation_m": 1703,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 548117569)"
+    },
+    {
+        "name": "Wolo Inelika",
+        "type": "mountain",
+        "lat": -8.722329,
+        "lon": 120.975662,
+        "elevation_m": 1559,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 548134213)"
+    },
+    {
+        "name": "Ili Werung",
+        "type": "mountain",
+        "lat": -8.53205,
+        "lon": 123.573458,
+        "elevation_m": 1018,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 548134215)"
+    },
+    {
+        "name": "Inerie",
+        "type": "mountain",
+        "lat": -8.878215,
+        "lon": 120.955775,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 548140561)"
+    },
+    {
+        "name": "Iya",
+        "type": "mountain",
+        "lat": -8.891813,
+        "lon": 121.641097,
+        "elevation_m": 637,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 548146394)"
+    },
+    {
+        "name": "Gunung Kelimutu",
+        "type": "mountain",
+        "lat": -8.76517,
+        "lon": 121.813343,
+        "elevation_m": 1639,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 548151997)"
+    },
+    {
+        "name": "Gunung Leroboleng",
+        "type": "mountain",
+        "lat": -8.351376,
+        "lon": 122.85024,
+        "elevation_m": 1117,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 548160370)"
+    },
+    {
+        "name": "Ili Lewotolok",
+        "type": "mountain",
+        "lat": -8.272765,
+        "lon": 123.506739,
+        "elevation_m": 1423,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 548161868)"
+    },
+    {
+        "name": "Gunung Manuk",
+        "type": "mountain",
+        "lat": -5.545669,
+        "lon": 130.305965,
+        "elevation_m": 282,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 548173550)"
+    },
+    {
+        "name": "Laworkawra",
+        "type": "mountain",
+        "lat": -6.740889,
+        "lon": 129.513647,
+        "elevation_m": 781,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 548192198)"
+    },
+    {
+        "name": "Gunung Poco Leok",
+        "type": "mountain",
+        "lat": -8.669479,
+        "lon": 120.459057,
+        "elevation_m": 1675,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 548198393)"
+    },
+    {
+        "name": "Anak Ranakah",
+        "type": "mountain",
+        "lat": -8.633809,
+        "lon": 120.532386,
+        "elevation_m": 2247,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 548201380)"
+    },
+    {
+        "name": "Gunung Barujari",
+        "type": "mountain",
+        "lat": -8.411405,
+        "lon": 116.422518,
+        "elevation_m": 2292,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 548213956)"
+    },
+    {
+        "name": "Gunung Rokatenda",
+        "type": "mountain",
+        "lat": -8.333862,
+        "lon": 121.710371,
+        "elevation_m": 875,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 548217566)"
+    },
+    {
+        "name": "Wuarlapna",
+        "type": "mountain",
+        "lat": -6.312334,
+        "lon": 130.017029,
+        "elevation_m": 641,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 548234725)"
+    },
+    {
+        "name": "Gunung Sirung",
+        "type": "mountain",
+        "lat": -8.499553,
+        "lon": 124.127979,
+        "elevation_m": 862,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 548239934)"
+    },
+    {
+        "name": "Gunung Teon",
+        "type": "mountain",
+        "lat": -6.970021,
+        "lon": 129.145035,
+        "elevation_m": 655,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 548604567)"
+    },
+    {
+        "name": "Gunung Wai Sano",
+        "type": "mountain",
+        "lat": -8.739555,
+        "lon": 120.017683,
+        "elevation_m": 903,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 548612367)"
+    },
+    {
+        "name": "Gunung Wurlali",
+        "type": "mountain",
+        "lat": -7.12187,
+        "lon": 128.673519,
+        "elevation_m": 868,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 548617400)"
+    },
+    {
+        "name": "Gunung Karangetang",
+        "type": "mountain",
+        "lat": 2.777526,
+        "lon": 125.406063,
+        "elevation_m": 1827,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 548631314)"
+    },
+    {
+        "name": "Gunung Awu Crater",
+        "type": "mountain",
+        "lat": 3.681306,
+        "lon": 125.45348,
+        "elevation_m": 920,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 548647873)"
+    },
+    {
+        "name": "Gunung Ruang",
+        "type": "mountain",
+        "lat": 2.304852,
+        "lon": 125.366548,
+        "elevation_m": 725,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 549710252)"
+    },
+    {
+        "name": "Gunung Sempu",
+        "type": "mountain",
+        "lat": 1.135947,
+        "lon": 124.751697,
+        "elevation_m": 1549,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 549710962)"
+    },
+    {
+        "name": "Gunung Perbakti",
+        "type": "mountain",
+        "lat": -6.743044,
+        "lon": 106.697549,
+        "elevation_m": 1699,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 549726263)"
+    },
+    {
+        "name": "Gunung Colo",
+        "type": "mountain",
+        "lat": -0.162385,
+        "lon": 121.60108,
+        "elevation_m": 445,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 549915006)"
+    },
+    {
+        "name": "Gunung Ambang",
+        "type": "mountain",
+        "lat": 0.755617,
+        "lon": 124.41308,
+        "elevation_m": 1795,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 549918071)"
+    },
+    {
+        "name": "Gunung Malintang",
+        "type": "mountain",
+        "lat": 0.476755,
+        "lon": 99.650736,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 590594393)"
+    },
+    {
+        "name": "Gunung Kukusan",
+        "type": "mountain",
+        "lat": -8.00053,
+        "lon": 114.237873,
+        "elevation_m": 2107,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 604694609)"
+    },
+    {
+        "name": "Gunung Argopuro",
+        "type": "mountain",
+        "lat": -7.964402,
+        "lon": 113.566332,
+        "elevation_m": 3088,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 703855928)"
+    },
+    {
+        "name": "Gunung Cikuray",
+        "type": "mountain",
+        "lat": -7.322513,
+        "lon": 107.859865,
+        "elevation_m": 2821,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 912984986)"
+    },
+    {
+        "name": "Lewotobi laki laki",
+        "type": "mountain",
+        "lat": -8.537453,
+        "lon": 122.767579,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 959182494)"
+    },
+    {
+        "name": "Gunung Agung",
+        "type": "mountain",
+        "lat": -8.342892,
+        "lon": 115.507208,
+        "elevation_m": 3014,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 1070157207)"
+    },
+    {
+        "name": "Gunung Sebesi",
+        "type": "mountain",
+        "lat": -5.954303,
+        "lon": 105.482782,
+        "elevation_m": 844,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 1070164666)"
+    },
+    {
+        "name": "Sangeang",
+        "type": "mountain",
+        "lat": -8.195864,
+        "lon": 119.069789,
+        "elevation_m": 1949,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 1070169446)"
+    },
+    {
+        "name": "Gunung Api Tigalalu",
+        "type": "mountain",
+        "lat": 0.069306,
+        "lon": 127.424606,
+        "elevation_m": 422,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 1070169668)"
+    },
+    {
+        "name": "Cot Seulawah Agam",
+        "type": "mountain",
+        "lat": 5.4475,
+        "lon": 95.6554,
+        "elevation_m": 1810,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 1070170146)"
+    },
+    {
+        "name": "Gunung Genteng",
+        "type": "mountain",
+        "lat": -8.064901,
+        "lon": 114.16159,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 1070170823)"
+    },
+    {
+        "name": "Gunung Lawu",
+        "type": "mountain",
+        "lat": -7.627382,
+        "lon": 111.194316,
+        "elevation_m": 3265,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 1070172240)"
+    },
+    {
+        "name": "Gunung Sinabung",
+        "type": "mountain",
+        "lat": 3.170953,
+        "lon": 98.392048,
+        "elevation_m": 2460,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 1070172279)"
+    },
+    {
+        "name": "Gunung Pangrango",
+        "type": "mountain",
+        "lat": -6.769814,
+        "lon": 106.964029,
+        "elevation_m": 3019,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 1070173500)"
+    },
+    {
+        "name": "Gunung Arjuno",
+        "type": "mountain",
+        "lat": -7.765444,
+        "lon": 112.590647,
+        "elevation_m": 3339,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 1070175100)"
+    },
+    {
+        "name": "Moncong Lompobattang",
+        "type": "mountain",
+        "lat": -5.346826,
+        "lon": 119.931786,
+        "elevation_m": 2874,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 1070175945)"
+    },
+    {
+        "name": "Gunung Welirang",
+        "type": "mountain",
+        "lat": -7.7326,
+        "lon": 112.5747,
+        "elevation_m": 3245,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 1070176383)"
+    },
+    {
+        "name": "Ili Ujolewung",
+        "type": "mountain",
+        "lat": -8.213558,
+        "lon": 123.775708,
+        "elevation_m": 1523,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 1070177048)"
+    },
+    {
+        "name": "Gunung Ratai",
+        "type": "mountain",
+        "lat": -5.513292,
+        "lon": 105.095124,
+        "elevation_m": 1682,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 1070177697)"
+    },
+    {
+        "name": "Poco Ngandonalu",
+        "type": "mountain",
+        "lat": -8.651709,
+        "lon": 120.448002,
+        "elevation_m": 2367,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 1070178337)"
+    },
+    {
+        "name": "Gunung Cereme",
+        "type": "mountain",
+        "lat": -6.892876,
+        "lon": 108.406823,
+        "elevation_m": 3078,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 1070182218)"
+    },
+    {
+        "name": "Ile Wukoh",
+        "type": "mountain",
+        "lat": -8.571,
+        "lon": 122.6549,
+        "elevation_m": 1431,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 1070182885)"
+    },
+    {
+        "name": "Gunung Pakuwaja",
+        "type": "mountain",
+        "lat": -7.229087,
+        "lon": 109.922515,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 1070183867)"
+    },
+    {
+        "name": "Gunung Batukaru",
+        "type": "mountain",
+        "lat": -8.334887,
+        "lon": 115.088284,
+        "elevation_m": 2276,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 1070186421)"
+    },
+    {
+        "name": "Rinjani",
+        "type": "mountain",
+        "lat": -8.411727,
+        "lon": 116.458106,
+        "elevation_m": 3726,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 1070187538)"
+    },
+    {
+        "name": "Gunung Patah",
+        "type": "mountain",
+        "lat": -4.257273,
+        "lon": 103.305885,
+        "elevation_m": 2852,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 1070188152)"
+    },
+    {
+        "name": "Gunung Batok",
+        "type": "mountain",
+        "lat": -7.934768,
+        "lon": 112.94729,
+        "elevation_m": 2470,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 1070195603)"
+    },
+    {
+        "name": "Gunung Muria",
+        "type": "mountain",
+        "lat": -6.616247,
+        "lon": 110.890301,
+        "elevation_m": 1625,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 1070196349)"
+    },
+    {
+        "name": "Gunung Batuangus",
+        "type": "mountain",
+        "lat": 1.50823,
+        "lon": 125.21931,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 1898058589)"
+    },
+    {
+        "name": "Gunung Tangkoko",
+        "type": "mountain",
+        "lat": 1.512312,
+        "lon": 125.195243,
+        "elevation_m": 1149,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 1898062616)"
+    },
+    {
+        "name": "Kailupa Cone",
+        "type": "mountain",
+        "lat": 1.039353,
+        "lon": 127.421269,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 2144506200)"
+    },
+    {
+        "name": "Doro Mboha di",
+        "type": "mountain",
+        "lat": -8.490113,
+        "lon": 118.793981,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 2267961372)"
+    },
+    {
+        "name": "Lapindo",
+        "type": "mountain",
+        "lat": -7.526921,
+        "lon": 112.711466,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 2764591712)"
+    },
+    {
+        "name": "Kawah Candradimuka",
+        "type": "mountain",
+        "lat": -7.188865,
+        "lon": 109.853493,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 3172175514)"
+    },
+    {
+        "name": "Amasing",
+        "type": "mountain",
+        "lat": -0.53,
+        "lon": 127.48,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 3891185609)"
+    },
+    {
+        "name": "Ambang",
+        "type": "mountain",
+        "lat": 0.75,
+        "lon": 124.42,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 3891185610)"
+    },
+    {
+        "name": "Banua Wuhu",
+        "type": "mountain",
+        "lat": 3.145518,
+        "lon": 125.442543,
+        "elevation_m": -5,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 3891185615)"
+    },
+    {
+        "name": "Besar",
+        "type": "mountain",
+        "lat": -4.43,
+        "lon": 103.67,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 3891185618)"
+    },
+    {
+        "name": "Bibinoi",
+        "type": "mountain",
+        "lat": -0.77,
+        "lon": 127.72,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 3891185619)"
+    },
+    {
+        "name": "Burni Telong",
+        "type": "mountain",
+        "lat": 4.768998,
+        "lon": 96.820992,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 3891185622)"
+    },
+    {
+        "name": "Geureudong",
+        "type": "mountain",
+        "lat": 4.813,
+        "lon": 96.82,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 3891185635)"
+    },
+    {
+        "name": "Guntur",
+        "type": "mountain",
+        "lat": -7.155016,
+        "lon": 107.851243,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 3891185636)"
+    },
+    {
+        "name": "Hulubelu",
+        "type": "mountain",
+        "lat": -5.35,
+        "lon": 104.6,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 3891185639)"
+    },
+    {
+        "name": "Ibu",
+        "type": "mountain",
+        "lat": 1.490744,
+        "lon": 127.63054,
+        "elevation_m": 1377,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 3891185641)"
+    },
+    {
+        "name": "Ilikedeka",
+        "type": "mountain",
+        "lat": -8.301722,
+        "lon": 122.905841,
+        "elevation_m": 871,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 3891185644)"
+    },
+    {
+        "name": "Ilimuda",
+        "type": "mountain",
+        "lat": -8.478,
+        "lon": 122.671,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 3891185646)"
+    },
+    {
+        "name": "Imun",
+        "type": "mountain",
+        "lat": 2.158,
+        "lon": 98.93,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 3891185648)"
+    },
+    {
+        "name": "Jaboi",
+        "type": "mountain",
+        "lat": 5.803789,
+        "lon": 95.323848,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 3891185653)"
+    },
+    {
+        "name": "Kamojang, Kawah",
+        "type": "mountain",
+        "lat": -7.125,
+        "lon": 107.8,
+        "elevation_m": 1730,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 3891185656)"
+    },
+    {
+        "name": "Kendang",
+        "type": "mountain",
+        "lat": -7.23,
+        "lon": 107.72,
+        "elevation_m": 2608,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 3891186263)"
+    },
+    {
+        "name": "Klabat",
+        "type": "mountain",
+        "lat": 1.454054,
+        "lon": 125.030704,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 3891186265)"
+    },
+    {
+        "name": "Gunung Kunyit",
+        "type": "mountain",
+        "lat": -2.275919,
+        "lon": 101.489555,
+        "elevation_m": 2151,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 3891186267)"
+    },
+    {
+        "name": "Lokon-Empung",
+        "type": "mountain",
+        "lat": 1.369653,
+        "lon": 124.801089,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 3891186273)"
+    },
+    {
+        "name": "Lumut Balai, Bukit",
+        "type": "mountain",
+        "lat": -4.22,
+        "lon": 103.62,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 3891186275)"
+    },
+    {
+        "name": "Lurus",
+        "type": "mountain",
+        "lat": -7.73,
+        "lon": 113.58,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 3891186276)"
+    },
+    {
+        "name": "Makian",
+        "type": "mountain",
+        "lat": 0.32,
+        "lon": 127.4,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 3891186278)"
+    },
+    {
+        "name": "Malabar",
+        "type": "mountain",
+        "lat": -7.13379,
+        "lon": 107.638267,
+        "elevation_m": 2343,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 3891186279)"
+    },
+    {
+        "name": "Malang Plain",
+        "type": "mountain",
+        "lat": -8.02,
+        "lon": 112.68,
+        "elevation_m": 680,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 3891186280)"
+    },
+    {
+        "name": "Malintang",
+        "type": "mountain",
+        "lat": 0.47,
+        "lon": 99.67,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 3891186281)"
+    },
+    {
+        "name": "Manuk",
+        "type": "mountain",
+        "lat": -5.53,
+        "lon": 130.292,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 3891186282)"
+    },
+    {
+        "name": "Mare",
+        "type": "mountain",
+        "lat": 0.57,
+        "lon": 127.4,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 3891186284)"
+    },
+    {
+        "name": "Moti",
+        "type": "mountain",
+        "lat": 0.45,
+        "lon": 127.4,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 3891186287)"
+    },
+    {
+        "name": "Paluweh",
+        "type": "mountain",
+        "lat": -8.32,
+        "lon": 121.708,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 3891186290)"
+    },
+    {
+        "name": "Papandayan",
+        "type": "mountain",
+        "lat": -7.325304,
+        "lon": 107.736412,
+        "elevation_m": 2623,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 3891186291)"
+    },
+    {
+        "name": "Gunung Patuha",
+        "type": "mountain",
+        "lat": -7.161022,
+        "lon": 107.400022,
+        "elevation_m": 2434,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 3891186293)"
+    },
+    {
+        "name": "Poco Leok",
+        "type": "mountain",
+        "lat": -8.68,
+        "lon": 120.48,
+        "elevation_m": 1675,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 3891186298)"
+    },
+    {
+        "name": "Ranau",
+        "type": "mountain",
+        "lat": -4.83,
+        "lon": 103.92,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 3891186302)"
+    },
+    {
+        "name": "Sarik-Gajah",
+        "type": "mountain",
+        "lat": 0.08,
+        "lon": 100.2,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 3891186309)"
+    },
+    {
+        "name": "Sekincau Belirang",
+        "type": "mountain",
+        "lat": -5.094266,
+        "lon": 104.319223,
+        "elevation_m": 1719,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 3891186310)"
+    },
+    {
+        "name": "Sibualbuali",
+        "type": "mountain",
+        "lat": 1.556,
+        "lon": 99.255,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 3891186316)"
+    },
+    {
+        "name": "Gunung Soputan",
+        "type": "mountain",
+        "lat": 1.115211,
+        "lon": 124.737266,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 3891186320)"
+    },
+    {
+        "name": "Sukaria Caldera",
+        "type": "mountain",
+        "lat": -8.792,
+        "lon": 121.77,
+        "elevation_m": 1500,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 3891186322)"
+    },
+    {
+        "name": "Gunung Telagabodas",
+        "type": "mountain",
+        "lat": -7.21081,
+        "lon": 108.064936,
+        "elevation_m": 2201,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 3891186327)"
+    },
+    {
+        "name": "Tambora",
+        "type": "mountain",
+        "lat": -8.24794,
+        "lon": 117.995129,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 3891186330)"
+    },
+    {
+        "name": "Tampomas",
+        "type": "mountain",
+        "lat": -6.76446,
+        "lon": 107.960407,
+        "elevation_m": 1684,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 3891186331)"
+    },
+    {
+        "name": "Toba Supervolcano",
+        "type": "mountain",
+        "lat": 2.58,
+        "lon": 98.83,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 3891186341)"
+    },
+    {
+        "name": "Tondano Caldera",
+        "type": "mountain",
+        "lat": 1.23,
+        "lon": 124.83,
+        "elevation_m": 1202,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 3891186344)"
+    },
+    {
+        "name": "Wayang-Windu",
+        "type": "mountain",
+        "lat": -7.211278,
+        "lon": 107.639817,
+        "elevation_m": 2198,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 3891186347)"
+    },
+    {
+        "name": "Sabale",
+        "type": "mountain",
+        "lat": 0.723522,
+        "lon": 127.425085,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 3948049114)"
+    },
+    {
+        "name": "Ili Mandiri",
+        "type": "mountain",
+        "lat": -8.31275,
+        "lon": 122.96758,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 4458884349)"
+    },
+    {
+        "name": "Gunung Merapi",
+        "type": "mountain",
+        "lat": -7.541289,
+        "lon": 110.446201,
+        "elevation_m": 2930,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 4512725255)"
+    },
+    {
+        "name": "Wawomudha",
+        "type": "mountain",
+        "lat": -8.740709,
+        "lon": 120.976681,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 5283610837)"
+    },
+    {
+        "name": "Kawah Panas",
+        "type": "mountain",
+        "lat": -8.749053,
+        "lon": 121.830131,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 5289475148)"
+    },
+    {
+        "name": "Kawah Timbang",
+        "type": "mountain",
+        "lat": -7.19758,
+        "lon": 109.840961,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 5390039039)"
+    },
+    {
+        "name": "Rajabasa",
+        "type": "mountain",
+        "lat": -5.780602,
+        "lon": 105.631293,
+        "elevation_m": 1281,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 5443930275)"
+    },
+    {
+        "name": "Buku Sibela",
+        "type": "mountain",
+        "lat": -0.737025,
+        "lon": 127.524363,
+        "elevation_m": 2111,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 5819827218)"
+    },
+    {
+        "name": "Ili Boleng",
+        "type": "mountain",
+        "lat": -8.343062,
+        "lon": 123.25294,
+        "elevation_m": 1658,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 5829583205)"
+    },
+    {
+        "name": "Doro Ora",
+        "type": "mountain",
+        "lat": -8.76508,
+        "lon": 119.681577,
+        "elevation_m": 735,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 5829780010)"
+    },
+    {
+        "name": "Olet Sangenges",
+        "type": "mountain",
+        "lat": -8.580304,
+        "lon": 117.122409,
+        "elevation_m": 1840,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 5829780012)"
+    },
+    {
+        "name": "Baluran",
+        "type": "mountain",
+        "lat": -7.836195,
+        "lon": 114.37794,
+        "elevation_m": 1247,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 5846266477)"
+    },
+    {
+        "name": "Raung",
+        "type": "mountain",
+        "lat": -8.125567,
+        "lon": 114.046665,
+        "elevation_m": 3332,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 5846266478)"
+    },
+    {
+        "name": "Gunung Slamet",
+        "type": "mountain",
+        "lat": -7.241469,
+        "lon": 109.21497,
+        "elevation_m": 3428,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 5963919037)"
+    },
+    {
+        "name": "Liman",
+        "type": "mountain",
+        "lat": -7.824312,
+        "lon": 111.751492,
+        "elevation_m": 2563,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 5963919041)"
+    },
+    {
+        "name": "Gunung Pulosari",
+        "type": "mountain",
+        "lat": -6.341659,
+        "lon": 105.978338,
+        "elevation_m": 1346,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 5964072248)"
+    },
+    {
+        "name": "Way Belerang Simpur",
+        "type": "mountain",
+        "lat": -5.751998,
+        "lon": 105.634404,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 6737701339)"
+    },
+    {
+        "name": "Gunung Karang",
+        "type": "mountain",
+        "lat": -6.273199,
+        "lon": 106.046807,
+        "elevation_m": 1778,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 9258618410)"
+    },
+    {
+        "name": "Kawah Candradimuka Gunung Lawu",
+        "type": "mountain",
+        "lat": -7.63776,
+        "lon": 111.190182,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 10108296103)"
+    },
+    {
+        "name": "Gunung Telomoyo",
+        "type": "mountain",
+        "lat": -7.361109,
+        "lon": 110.399958,
+        "elevation_m": 1894,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 10186542120)"
+    },
+    {
+        "name": "Emperor of China",
+        "type": "mountain",
+        "lat": -6.616268,
+        "lon": 124.218764,
+        "elevation_m": -2850,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 10265083397)"
+    },
+    {
+        "name": "Nieuwerkerk",
+        "type": "mountain",
+        "lat": -6.611238,
+        "lon": 124.660492,
+        "elevation_m": -2285,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 10265083398)"
+    },
+    {
+        "name": "Kezi Pui",
+        "type": "mountain",
+        "lat": -8.862408,
+        "lon": 121.655806,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 10265119254)"
+    },
+    {
+        "name": "Yersey",
+        "type": "mountain",
+        "lat": -7.529659,
+        "lon": 123.951144,
+        "elevation_m": -3800,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 10266106283)"
+    },
+    {
+        "name": "Rano",
+        "type": "mountain",
+        "lat": 1.254643,
+        "lon": 127.482347,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 10670079954)"
+    },
+    {
+        "name": "Gunung Tarakan Itji",
+        "type": "mountain",
+        "lat": 1.845792,
+        "lon": 127.819212,
+        "elevation_m": 205,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 10682953496)"
+    },
+    {
+        "name": "Gunung Ungaran",
+        "type": "mountain",
+        "lat": -7.18562,
+        "lon": 110.34709,
+        "elevation_m": 2050,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 10844002009)"
+    },
+    {
+        "name": "Kawah Masigit",
+        "type": "mountain",
+        "lat": -7.144268,
+        "lon": 107.840153,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 12049009001)"
+    },
+    {
+        "name": "Lumpur Gunung Anyar",
+        "type": "mountain",
+        "lat": -7.337209,
+        "lon": 112.782394,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 13387532921)"
+    },
+    {
+        "name": "Bledug Kramesan",
+        "type": "mountain",
+        "lat": -7.098439,
+        "lon": 111.147139,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 13387532962)"
+    },
+    {
+        "name": "Bledug Cangkring",
+        "type": "mountain",
+        "lat": -7.11892,
+        "lon": 111.109707,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 13387532963)"
+    },
+    {
+        "name": "Bledug Kuwu",
+        "type": "mountain",
+        "lat": -7.117882,
+        "lon": 111.120567,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 13387532964)"
+    },
+    {
+        "name": "Bledug Kuwu",
+        "type": "mountain",
+        "lat": -7.11756,
+        "lon": 111.12341,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 13387532965)"
+    },
+    {
+        "name": "Bledug Kuwu",
+        "type": "mountain",
+        "lat": -7.117703,
+        "lon": 111.121683,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 13387532966)"
+    },
+    {
+        "name": "Bledug Kesongo",
+        "type": "mountain",
+        "lat": -7.155229,
+        "lon": 111.254232,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 13387532983)"
+    },
+    {
+        "name": "Kawah Kopi Susu",
+        "type": "mountain",
+        "lat": -5.239689,
+        "lon": 104.262807,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (gunung berapi, osm node 14056941078)"
+    },
+    {
+        "name": "Gunung Sumbing",
+        "type": "mountain",
+        "lat": -2.414609,
+        "lon": 101.729531,
+        "elevation_m": 2507,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 545700623)"
+    },
+    {
+        "name": "Gunung Hulu Jujuhan",
+        "type": "mountain",
+        "lat": -1.695286,
+        "lon": 101.436282,
+        "elevation_m": 2732,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 545740296)"
+    },
+    {
+        "name": "Gunung Kendang",
+        "type": "mountain",
+        "lat": -7.245263,
+        "lon": 107.708569,
+        "elevation_m": 2608,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 546560517)"
+    },
+    {
+        "name": "Gunung Kemiri",
+        "type": "mountain",
+        "lat": 3.773868,
+        "lon": 97.482806,
+        "elevation_m": 3234,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 652725058)"
+    },
+    {
+        "name": "Gunung Sanghyang south peak",
+        "type": "mountain",
+        "lat": -8.31116,
+        "lon": 115.103123,
+        "elevation_m": 2093,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 990952731)"
+    },
+    {
+        "name": "Gunung Pucak Mangu \/ Gunung Catur",
+        "type": "mountain",
+        "lat": -8.2552,
+        "lon": 115.1901,
+        "elevation_m": 2096,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070155350)"
+    },
+    {
+        "name": "Gunung Kawi (Puncak Redi Kawi)",
+        "type": "mountain",
+        "lat": -7.917904,
+        "lon": 112.451837,
+        "elevation_m": 2651,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070156650)"
+    },
+    {
+        "name": "Gunung Sengkereang",
+        "type": "mountain",
+        "lat": -8.3799,
+        "lon": 116.416,
+        "elevation_m": 2919,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070156809)"
+    },
+    {
+        "name": "Yaramaniapuka",
+        "type": "mountain",
+        "lat": -4.1,
+        "lon": 135.733333,
+        "elevation_m": 3250,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070156936)"
+    },
+    {
+        "name": "Gunung Tambora",
+        "type": "mountain",
+        "lat": -8.246691,
+        "lon": 117.958472,
+        "elevation_m": 2690,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070157211)"
+    },
+    {
+        "name": "Gunung Selandir",
+        "type": "mountain",
+        "lat": -8.4046,
+        "lon": 116.3825,
+        "elevation_m": 2617,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070158954)"
+    },
+    {
+        "name": "Otakwa",
+        "type": "mountain",
+        "lat": -4.237888,
+        "lon": 137.294252,
+        "elevation_m": 3540,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070159223)"
+    },
+    {
+        "name": "Gunung Raya",
+        "type": "mountain",
+        "lat": -2.227844,
+        "lon": 101.427782,
+        "elevation_m": 2543,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070159423)"
+    },
+    {
+        "name": "Gunung Bandahara",
+        "type": "mountain",
+        "lat": 3.749,
+        "lon": 97.7818,
+        "elevation_m": 3000,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070160248)"
+    },
+    {
+        "name": "Gunung Iyasa",
+        "type": "mountain",
+        "lat": -8.3883,
+        "lon": 116.5706,
+        "elevation_m": 2039,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070160678)"
+    },
+    {
+        "name": "Gunung Niefeb",
+        "type": "mountain",
+        "lat": -1.164098,
+        "lon": 133.580152,
+        "elevation_m": 2493,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070160917)"
+    },
+    {
+        "name": "Bukii Galang",
+        "type": "mountain",
+        "lat": 1.0605,
+        "lon": 120.9341,
+        "elevation_m": 2230,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070161384)"
+    },
+    {
+        "name": "Gunung Masigit",
+        "type": "mountain",
+        "lat": -7.142629,
+        "lon": 107.841241,
+        "elevation_m": 2249,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070162016)"
+    },
+    {
+        "name": "Gunung Timanuk",
+        "type": "mountain",
+        "lat": -8.4444,
+        "lon": 116.4028,
+        "elevation_m": 2946,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070163530)"
+    },
+    {
+        "name": "Gunung Tujuh",
+        "type": "mountain",
+        "lat": -1.677433,
+        "lon": 101.427863,
+        "elevation_m": 2604,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070164039)"
+    },
+    {
+        "name": "Gunung Tweelingen",
+        "type": "mountain",
+        "lat": -4.33855,
+        "lon": 139.275631,
+        "elevation_m": 3210,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070164211)"
+    },
+    {
+        "name": "Gunung Sampurarung",
+        "type": "mountain",
+        "lat": -8.3606,
+        "lon": 116.3823,
+        "elevation_m": 2030,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070164409)"
+    },
+    {
+        "name": "Gunung Seblat",
+        "type": "mountain",
+        "lat": -2.880519,
+        "lon": 102.1481,
+        "elevation_m": 2383,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070164630)"
+    },
+    {
+        "name": "Gunung Widodaren",
+        "type": "mountain",
+        "lat": -7.950708,
+        "lon": 112.937215,
+        "elevation_m": 2614,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070164732)"
+    },
+    {
+        "name": "Pasir Cadaspanjang",
+        "type": "mountain",
+        "lat": -7.125716,
+        "lon": 107.379584,
+        "elevation_m": 2066,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070165020)"
+    },
+    {
+        "name": "Gunung Tanakiabang",
+        "type": "mountain",
+        "lat": -8.4272,
+        "lon": 116.5552,
+        "elevation_m": 2259,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070167144)"
+    },
+    {
+        "name": "Gunung Sanghyang north peak",
+        "type": "mountain",
+        "lat": -8.307661,
+        "lon": 115.10067,
+        "elevation_m": 2074,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070167254)"
+    },
+    {
+        "name": "Gunung Puncaklawang",
+        "type": "mountain",
+        "lat": -7.1738,
+        "lon": 107.4571,
+        "elevation_m": 2187,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070167306)"
+    },
+    {
+        "name": "Gunung Masigit",
+        "type": "mountain",
+        "lat": -7.1035,
+        "lon": 107.3706,
+        "elevation_m": 2094,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070168223)"
+    },
+    {
+        "name": "Gunung Keronsong",
+        "type": "mountain",
+        "lat": -2.109778,
+        "lon": 101.348834,
+        "elevation_m": 2261,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070168351)"
+    },
+    {
+        "name": "Gunung Pandan",
+        "type": "mountain",
+        "lat": -2.741604,
+        "lon": 101.847681,
+        "elevation_m": 2168,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070168562)"
+    },
+    {
+        "name": "Bukit Raya",
+        "type": "mountain",
+        "lat": -0.659544,
+        "lon": 112.688311,
+        "elevation_m": 2300,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070168571)"
+    },
+    {
+        "name": "Wachter",
+        "type": "mountain",
+        "lat": -4.457789,
+        "lon": 139.463008,
+        "elevation_m": 3730,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070168805)"
+    },
+    {
+        "name": "Buyu Balease",
+        "type": "mountain",
+        "lat": -2.406837,
+        "lon": 120.542172,
+        "elevation_m": 2985,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070170232)"
+    },
+    {
+        "name": "Gunung Nangi",
+        "type": "mountain",
+        "lat": -8.4246,
+        "lon": 116.5848,
+        "elevation_m": 2213,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070170517)"
+    },
+    {
+        "name": "Gunung Abang",
+        "type": "mountain",
+        "lat": -8.2802,
+        "lon": 115.4295,
+        "elevation_m": 2151,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070170547)"
+    },
+    {
+        "name": "Gunung Santong",
+        "type": "mountain",
+        "lat": -8.3957,
+        "lon": 116.3874,
+        "elevation_m": 2627,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070170621)"
+    },
+    {
+        "name": "Puncak Gunung Patuha",
+        "type": "mountain",
+        "lat": -7.162503,
+        "lon": 107.4,
+        "elevation_m": 2434,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070170837)"
+    },
+    {
+        "name": "Gunung Patah Sembilan",
+        "type": "mountain",
+        "lat": -1.686164,
+        "lon": 101.137721,
+        "elevation_m": 2591,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070171573)"
+    },
+    {
+        "name": "Bukit Runcing",
+        "type": "mountain",
+        "lat": -2.919474,
+        "lon": 102.204246,
+        "elevation_m": 2221,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070171615)"
+    },
+    {
+        "name": "Gunung Boleng",
+        "type": "mountain",
+        "lat": -1.252031,
+        "lon": 100.800643,
+        "elevation_m": 2560,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070172455)"
+    },
+    {
+        "name": "Gunung Leuser",
+        "type": "mountain",
+        "lat": 3.741455,
+        "lon": 97.155133,
+        "elevation_m": 3466,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070173083)"
+    },
+    {
+        "name": "Buyu Kondorung",
+        "type": "mountain",
+        "lat": -1.298517,
+        "lon": 121.543177,
+        "elevation_m": 2855,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070173217)"
+    },
+    {
+        "name": "Keli Ebulobo",
+        "type": "mountain",
+        "lat": -8.8172,
+        "lon": 121.1904,
+        "elevation_m": 2137,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070173264)"
+    },
+    {
+        "name": "Gunung Lembah",
+        "type": "mountain",
+        "lat": -8.4133,
+        "lon": 116.5159,
+        "elevation_m": 2194,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070173524)"
+    },
+    {
+        "name": "Gunung Sibuatan",
+        "type": "mountain",
+        "lat": 2.917721,
+        "lon": 98.429637,
+        "elevation_m": 2430,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070173565)"
+    },
+    {
+        "name": "Gunung Pengelengan",
+        "type": "mountain",
+        "lat": -8.246506,
+        "lon": 115.185966,
+        "elevation_m": 2153,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070173728)"
+    },
+    {
+        "name": "Mamaipiri",
+        "type": "mountain",
+        "lat": -4.056273,
+        "lon": 135.958794,
+        "elevation_m": 3047,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070173778)"
+    },
+    {
+        "name": "Gunung Buthak",
+        "type": "mountain",
+        "lat": -7.955393,
+        "lon": 112.465156,
+        "elevation_m": 2868,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070174439)"
+    },
+    {
+        "name": "Gunung Gambung Sedaningsih",
+        "type": "mountain",
+        "lat": -7.178754,
+        "lon": 107.649285,
+        "elevation_m": 2194,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070175021)"
+    },
+    {
+        "name": "Gunung Bukittunggul",
+        "type": "mountain",
+        "lat": -6.811101,
+        "lon": 107.726375,
+        "elevation_m": 2209,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070175357)"
+    },
+    {
+        "name": "Gunung Batuijo",
+        "type": "mountain",
+        "lat": -8.41,
+        "lon": 116.3821,
+        "elevation_m": 2680,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070177031)"
+    },
+    {
+        "name": "Bukit Daun",
+        "type": "mountain",
+        "lat": -3.385333,
+        "lon": 102.374449,
+        "elevation_m": 2467,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070177366)"
+    },
+    {
+        "name": "Bukit Regas",
+        "type": "mountain",
+        "lat": -3.127046,
+        "lon": 102.342518,
+        "elevation_m": 2024,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070177861)"
+    },
+    {
+        "name": "Gunung Mongkrang",
+        "type": "mountain",
+        "lat": -7.689171,
+        "lon": 111.186039,
+        "elevation_m": 2194,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070178525)"
+    },
+    {
+        "name": "Gunung Beuticanar",
+        "type": "mountain",
+        "lat": -7.23444,
+        "lon": 108.069065,
+        "elevation_m": 2240,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070178752)"
+    },
+    {
+        "name": "Gunung Togwormeri",
+        "type": "mountain",
+        "lat": -1.209545,
+        "lon": 133.532834,
+        "elevation_m": 2311,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070179127)"
+    },
+    {
+        "name": "Gunung Sorikmarapi",
+        "type": "mountain",
+        "lat": 0.683633,
+        "lon": 99.542812,
+        "elevation_m": 2145,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070179429)"
+    },
+    {
+        "name": "Buntu Rantemario",
+        "type": "mountain",
+        "lat": -3.384885,
+        "lon": 120.024246,
+        "elevation_m": 3478,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070179668)"
+    },
+    {
+        "name": "Gunung Pusuk",
+        "type": "mountain",
+        "lat": -8.4079,
+        "lon": 116.5267,
+        "elevation_m": 2144,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070179787)"
+    },
+    {
+        "name": "Bukit Atap Ijuk",
+        "type": "mountain",
+        "lat": -2.333084,
+        "lon": 101.601164,
+        "elevation_m": 2021,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070179910)"
+    },
+    {
+        "name": "Gunung Bungkuk",
+        "type": "mountain",
+        "lat": -2.025442,
+        "lon": 101.591551,
+        "elevation_m": 2139,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070180496)"
+    },
+    {
+        "name": "Gunung Pohen",
+        "type": "mountain",
+        "lat": -8.2971,
+        "lon": 115.138,
+        "elevation_m": 2063,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070180761)"
+    },
+    {
+        "name": "Gunung Gedang",
+        "type": "mountain",
+        "lat": -2.736218,
+        "lon": 101.919602,
+        "elevation_m": 2446,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070180961)"
+    },
+    {
+        "name": "Gunung Masurai",
+        "type": "mountain",
+        "lat": -2.50253,
+        "lon": 101.858083,
+        "elevation_m": 2935,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070181649)"
+    },
+    {
+        "name": "Gunung Binaiya",
+        "type": "mountain",
+        "lat": -3.173175,
+        "lon": 129.454507,
+        "elevation_m": 3027,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070181681)"
+    },
+    {
+        "name": "Gunung Salak Satu",
+        "type": "mountain",
+        "lat": -6.716036,
+        "lon": 106.733578,
+        "elevation_m": 2211,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070181978)"
+    },
+    {
+        "name": "Gunung Karangtengah",
+        "type": "mountain",
+        "lat": -7.203395,
+        "lon": 107.497352,
+        "elevation_m": 2157,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070182742)"
+    },
+    {
+        "name": "Gunung Windu",
+        "type": "mountain",
+        "lat": -7.223889,
+        "lon": 107.630556,
+        "elevation_m": 2147,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070184090)"
+    },
+    {
+        "name": "Gunung Penanjakan",
+        "type": "mountain",
+        "lat": -7.903725,
+        "lon": 112.952136,
+        "elevation_m": 2782,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070185538)"
+    },
+    {
+        "name": "Gunung Tumpu",
+        "type": "mountain",
+        "lat": -1.064837,
+        "lon": 122.190879,
+        "elevation_m": 2565,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070186204)"
+    },
+    {
+        "name": "Gunung Pantai Carmin",
+        "type": "mountain",
+        "lat": -1.277739,
+        "lon": 100.801981,
+        "elevation_m": 2690,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070186350)"
+    },
+    {
+        "name": "Gunung Kanji",
+        "type": "mountain",
+        "lat": -8.3986,
+        "lon": 116.5236,
+        "elevation_m": 2065,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070186404)"
+    },
+    {
+        "name": "Tafelberg",
+        "type": "mountain",
+        "lat": -4.033333,
+        "lon": 136.583333,
+        "elevation_m": 2310,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070186435)"
+    },
+    {
+        "name": "Gunung Lopok",
+        "type": "mountain",
+        "lat": -8.402,
+        "lon": 116.5263,
+        "elevation_m": 2029,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070186701)"
+    },
+    {
+        "name": "Gunung Kursi",
+        "type": "mountain",
+        "lat": -7.959698,
+        "lon": 112.956109,
+        "elevation_m": 2581,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070187415)"
+    },
+    {
+        "name": "Gunung Rasam",
+        "type": "mountain",
+        "lat": -1.177151,
+        "lon": 100.750321,
+        "elevation_m": 2565,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070187540)"
+    },
+    {
+        "name": "Gunung Hijau",
+        "type": "mountain",
+        "lat": -2.896738,
+        "lon": 102.301049,
+        "elevation_m": 2068,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070187641)"
+    },
+    {
+        "name": "Gunung Burangrang",
+        "type": "mountain",
+        "lat": -6.77404,
+        "lon": 107.555698,
+        "elevation_m": 2064,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070187662)"
+    },
+    {
+        "name": "Poco Ranaka",
+        "type": "mountain",
+        "lat": -8.636639,
+        "lon": 120.530951,
+        "elevation_m": 2292,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070187690)"
+    },
+    {
+        "name": "Gunung Lumut",
+        "type": "mountain",
+        "lat": -1.909797,
+        "lon": 101.400431,
+        "elevation_m": 2192,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070187722)"
+    },
+    {
+        "name": "Gunung Kurik",
+        "type": "mountain",
+        "lat": 4.2517,
+        "lon": 97.4199,
+        "elevation_m": 3060,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070187829)"
+    },
+    {
+        "name": "Fuyul Sojol",
+        "type": "mountain",
+        "lat": 0.577297,
+        "lon": 120.205445,
+        "elevation_m": 2856,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070187830)"
+    },
+    {
+        "name": "Angemuk",
+        "type": "mountain",
+        "lat": -3.525135,
+        "lon": 138.59375,
+        "elevation_m": 3962,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070187846)"
+    },
+    {
+        "name": "Montongkeliun",
+        "type": "mountain",
+        "lat": -8.4185,
+        "lon": 116.5717,
+        "elevation_m": 2326,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070187891)"
+    },
+    {
+        "name": "Gunung Malenggok",
+        "type": "mountain",
+        "lat": -1.597977,
+        "lon": 101.009851,
+        "elevation_m": 2114,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070188092)"
+    },
+    {
+        "name": "Gunung Batugerantung",
+        "type": "mountain",
+        "lat": -8.3883,
+        "lon": 116.392,
+        "elevation_m": 2615,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070188190)"
+    },
+    {
+        "name": "Gunung Bonduri",
+        "type": "mountain",
+        "lat": -8.4257,
+        "lon": 116.5186,
+        "elevation_m": 2085,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070188302)"
+    },
+    {
+        "name": "Gunung Tembesi",
+        "type": "mountain",
+        "lat": -8.435,
+        "lon": 116.4161,
+        "elevation_m": 2853,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070188375)"
+    },
+    {
+        "name": "Goliath",
+        "type": "mountain",
+        "lat": -4.700256,
+        "lon": 139.852285,
+        "elevation_m": 3320,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070189502)"
+    },
+    {
+        "name": "Gunung Manderubian",
+        "type": "mountain",
+        "lat": -1.471332,
+        "lon": 100.941745,
+        "elevation_m": 2009,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070189730)"
+    },
+    {
+        "name": "Gunung Layur",
+        "type": "mountain",
+        "lat": -8.4213,
+        "lon": 116.3845,
+        "elevation_m": 2913,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070190018)"
+    },
+    {
+        "name": "Puncak Syarief",
+        "type": "mountain",
+        "lat": -7.449753,
+        "lon": 110.442638,
+        "elevation_m": 3137,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070190212)"
+    },
+    {
+        "name": "Keli Inerie",
+        "type": "mountain",
+        "lat": -8.878031,
+        "lon": 120.954425,
+        "elevation_m": 2245,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070191088)"
+    },
+    {
+        "name": "Tanete Gandangdewata",
+        "type": "mountain",
+        "lat": -2.742,
+        "lon": 119.3781,
+        "elevation_m": 3074,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070191211)"
+    },
+    {
+        "name": "Gunung Patah Tiga",
+        "type": "mountain",
+        "lat": -1.933869,
+        "lon": 101.533086,
+        "elevation_m": 2293,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070191332)"
+    },
+    {
+        "name": "Bukit Gombak",
+        "type": "mountain",
+        "lat": -1.053337,
+        "lon": 100.628042,
+        "elevation_m": 2034,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070191791)"
+    },
+    {
+        "name": "Gunung Bedil",
+        "type": "mountain",
+        "lat": -7.202222,
+        "lon": 107.637778,
+        "elevation_m": 2066,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070193227)"
+    },
+    {
+        "name": "Gunung Wayang",
+        "type": "mountain",
+        "lat": -7.212561,
+        "lon": 107.636522,
+        "elevation_m": 2182,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070193255)"
+    },
+    {
+        "name": "Gunung Urug",
+        "type": "mountain",
+        "lat": -7.1818,
+        "lon": 107.4344,
+        "elevation_m": 2205,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070193445)"
+    },
+    {
+        "name": "Gunung Kondo",
+        "type": "mountain",
+        "lat": -8.4348,
+        "lon": 116.4061,
+        "elevation_m": 2713,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070195457)"
+    },
+    {
+        "name": "Mutis",
+        "type": "mountain",
+        "lat": -9.560519,
+        "lon": 124.227562,
+        "elevation_m": 2417,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070196499)"
+    },
+    {
+        "name": "Gunung Sanggar",
+        "type": "mountain",
+        "lat": -8.4188,
+        "lon": 116.4587,
+        "elevation_m": 3564,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1070197042)"
+    },
+    {
+        "name": "Puncak Jaya",
+        "type": "mountain",
+        "lat": -4.078605,
+        "lon": 137.158613,
+        "elevation_m": 4884,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1248787509)"
+    },
+    {
+        "name": "Gunung Hulu Sungai Kapur",
+        "type": "mountain",
+        "lat": -1.676019,
+        "lon": 101.191011,
+        "elevation_m": 2241,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 1895221812)"
+    },
+    {
+        "name": "Gunung Agung",
+        "type": "mountain",
+        "lat": -8.341492,
+        "lon": 115.503266,
+        "elevation_m": 3031,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 2209572545)"
+    },
+    {
+        "name": "Mandala",
+        "type": "mountain",
+        "lat": -4.70844,
+        "lon": 140.28927,
+        "elevation_m": 4760,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 2330327978)"
+    },
+    {
+        "name": "Y-Chain",
+        "type": "mountain",
+        "lat": -3.558032,
+        "lon": 137.558868,
+        "elevation_m": 3285,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 3018088169)"
+    },
+    {
+        "name": "Puncak Malabar 1 (Junghuhn)",
+        "type": "mountain",
+        "lat": -7.126531,
+        "lon": 107.635863,
+        "elevation_m": 2321,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 3221549068)"
+    },
+    {
+        "name": "Kapalatmada",
+        "type": "mountain",
+        "lat": -3.300573,
+        "lon": 126.219892,
+        "elevation_m": 2700,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 3241588345)"
+    },
+    {
+        "name": "Puncak Kenteng Songo",
+        "type": "mountain",
+        "lat": -7.453758,
+        "lon": 110.440651,
+        "elevation_m": 3142,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 4342402789)"
+    },
+    {
+        "name": "Gunung Hulu Sangir",
+        "type": "mountain",
+        "lat": -1.715076,
+        "lon": 101.396629,
+        "elevation_m": 2270,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5225067725)"
+    },
+    {
+        "name": "Arfak",
+        "type": "mountain",
+        "lat": -1.156944,
+        "lon": 133.978871,
+        "elevation_m": 2955,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5311172316)"
+    },
+    {
+        "name": "Bukit Pangonan",
+        "type": "mountain",
+        "lat": -7.210598,
+        "lon": 109.899046,
+        "elevation_m": 2308,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5387446872)"
+    },
+    {
+        "name": "Puncak Yamin",
+        "type": "mountain",
+        "lat": -4.682735,
+        "lon": 140.081229,
+        "elevation_m": 4510,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5594208199)"
+    },
+    {
+        "name": "Trikora",
+        "type": "mountain",
+        "lat": -4.262042,
+        "lon": 138.681664,
+        "elevation_m": 4730,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5605456107)"
+    },
+    {
+        "name": "Pegunungan Wondiwoi",
+        "type": "mountain",
+        "lat": -2.733194,
+        "lon": 134.584736,
+        "elevation_m": 2251,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5610234491)"
+    },
+    {
+        "name": "Antares",
+        "type": "mountain",
+        "lat": -4.895699,
+        "lon": 140.903723,
+        "elevation_m": 3970,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5666640739)"
+    },
+    {
+        "name": "Gunung Gaijunan",
+        "type": "mountain",
+        "lat": -1.729158,
+        "lon": 101.455229,
+        "elevation_m": 2338,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5706168865)"
+    },
+    {
+        "name": "Gunung Hulu Kemarau",
+        "type": "mountain",
+        "lat": -1.701258,
+        "lon": 101.439141,
+        "elevation_m": 2397,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5706168866)"
+    },
+    {
+        "name": "Gunung Tarpanggang",
+        "type": "mountain",
+        "lat": -1.679931,
+        "lon": 101.402964,
+        "elevation_m": 2460,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5706168867)"
+    },
+    {
+        "name": "Gunung Silasi",
+        "type": "mountain",
+        "lat": -1.673438,
+        "lon": 101.373999,
+        "elevation_m": 2281,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5706168868)"
+    },
+    {
+        "name": "Gunung Mandurai Basi",
+        "type": "mountain",
+        "lat": -1.684186,
+        "lon": 101.381099,
+        "elevation_m": 2481,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5706168869)"
+    },
+    {
+        "name": "Gunung Hulu Tebo Kanan",
+        "type": "mountain",
+        "lat": -1.731736,
+        "lon": 101.418885,
+        "elevation_m": 2524,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5706168870)"
+    },
+    {
+        "name": "Gunung Magager",
+        "type": "mountain",
+        "lat": -1.720637,
+        "lon": 101.234648,
+        "elevation_m": 2400,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5706168873)"
+    },
+    {
+        "name": "Gunung Terembun",
+        "type": "mountain",
+        "lat": -1.722465,
+        "lon": 101.213502,
+        "elevation_m": 2576,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5706168874)"
+    },
+    {
+        "name": "Gunung Malenggok",
+        "type": "mountain",
+        "lat": -1.692693,
+        "lon": 101.183603,
+        "elevation_m": 2330,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5706168895)"
+    },
+    {
+        "name": "Gunung Halagop",
+        "type": "mountain",
+        "lat": -4.308424,
+        "lon": 139.083197,
+        "elevation_m": 2730,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5761146544)"
+    },
+    {
+        "name": "Gunung Sogosa",
+        "type": "mountain",
+        "lat": -4.288024,
+        "lon": 139.197639,
+        "elevation_m": 3590,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5761146547)"
+    },
+    {
+        "name": "Gunung Inggiki",
+        "type": "mountain",
+        "lat": -4.390493,
+        "lon": 139.2469,
+        "elevation_m": 3430,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5761147495)"
+    },
+    {
+        "name": "Gunung Mu",
+        "type": "mountain",
+        "lat": -4.318434,
+        "lon": 139.17785,
+        "elevation_m": 3350,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5761147496)"
+    },
+    {
+        "name": "Gunung Soila",
+        "type": "mountain",
+        "lat": -4.340768,
+        "lon": 139.149088,
+        "elevation_m": 3200,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5761147497)"
+    },
+    {
+        "name": "Gunung Wenebim",
+        "type": "mountain",
+        "lat": -4.360475,
+        "lon": 139.197363,
+        "elevation_m": 2730,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5761147499)"
+    },
+    {
+        "name": "Puncak Coen",
+        "type": "mountain",
+        "lat": -4.304562,
+        "lon": 139.63177,
+        "elevation_m": 4480,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5761706514)"
+    },
+    {
+        "name": "Valentijn",
+        "type": "mountain",
+        "lat": -4.41949,
+        "lon": 139.735611,
+        "elevation_m": 4450,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5761706515)"
+    },
+    {
+        "name": "Saw Mountain",
+        "type": "mountain",
+        "lat": -4.550207,
+        "lon": 139.918349,
+        "elevation_m": 4380,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5761706521)"
+    },
+    {
+        "name": "Osua Annin",
+        "type": "mountain",
+        "lat": -4.661539,
+        "lon": 140.052015,
+        "elevation_m": 4180,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5761706525)"
+    },
+    {
+        "name": "Sumantri",
+        "type": "mountain",
+        "lat": -4.059647,
+        "lon": 137.174773,
+        "elevation_m": 4870,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5761940214)"
+    },
+    {
+        "name": "Ngga Pulu",
+        "type": "mountain",
+        "lat": -4.059773,
+        "lon": 137.185051,
+        "elevation_m": 4800,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5761940215)"
+    },
+    {
+        "name": "Carstensz Timur",
+        "type": "mountain",
+        "lat": -4.083079,
+        "lon": 137.184347,
+        "elevation_m": 4820,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5761940216)"
+    },
+    {
+        "name": "Ngga Pilimsit",
+        "type": "mountain",
+        "lat": -4.039234,
+        "lon": 137.060772,
+        "elevation_m": 4717,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5761940217)"
+    },
+    {
+        "name": "Akimuga",
+        "type": "mountain",
+        "lat": -4.113064,
+        "lon": 137.465529,
+        "elevation_m": 4390,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5761940218)"
+    },
+    {
+        "name": "Ubia",
+        "type": "mountain",
+        "lat": -4.006055,
+        "lon": 136.802465,
+        "elevation_m": 4340,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5761940219)"
+    },
+    {
+        "name": "Gunung Elit",
+        "type": "mountain",
+        "lat": -3.993845,
+        "lon": 139.18568,
+        "elevation_m": 3960,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5761940220)"
+    },
+    {
+        "name": "Ablim",
+        "type": "mountain",
+        "lat": -4.574493,
+        "lon": 140.137426,
+        "elevation_m": 4540,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5761940221)"
+    },
+    {
+        "name": "Rumphius",
+        "type": "mountain",
+        "lat": -4.295522,
+        "lon": 138.809455,
+        "elevation_m": 4320,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5761940707)"
+    },
+    {
+        "name": "Ngga Nggulumbulu",
+        "type": "mountain",
+        "lat": -3.758383,
+        "lon": 137.311092,
+        "elevation_m": 4060,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5761940708)"
+    },
+    {
+        "name": "Tom Ukul",
+        "type": "mountain",
+        "lat": -4.223049,
+        "lon": 138.919879,
+        "elevation_m": 4200,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5761940711)"
+    },
+    {
+        "name": "Frederik Hendrik",
+        "type": "mountain",
+        "lat": -4.091366,
+        "lon": 137.767195,
+        "elevation_m": 4020,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5761940724)"
+    },
+    {
+        "name": "Johan Willem Friso",
+        "type": "mountain",
+        "lat": -4.169983,
+        "lon": 138.025833,
+        "elevation_m": 4000,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5761940725)"
+    },
+    {
+        "name": "Pengunungan Tiom",
+        "type": "mountain",
+        "lat": -3.766932,
+        "lon": 138.266958,
+        "elevation_m": 3915,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5761940728)"
+    },
+    {
+        "name": "Wairima",
+        "type": "mountain",
+        "lat": -3.58607,
+        "lon": 138.259698,
+        "elevation_m": 3856,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5761940731)"
+    },
+    {
+        "name": "Dugudok",
+        "type": "mountain",
+        "lat": -3.543412,
+        "lon": 137.82935,
+        "elevation_m": 3801,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5761940734)"
+    },
+    {
+        "name": "Jumbul Ambera",
+        "type": "mountain",
+        "lat": -3.867611,
+        "lon": 139.003649,
+        "elevation_m": 3785,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5761940736)"
+    },
+    {
+        "name": "Z-Chain",
+        "type": "mountain",
+        "lat": -3.633049,
+        "lon": 136.923363,
+        "elevation_m": 3774,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5761940737)"
+    },
+    {
+        "name": "Pengunungan Koboyre",
+        "type": "mountain",
+        "lat": -3.870781,
+        "lon": 135.870553,
+        "elevation_m": 3750,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5761940739)"
+    },
+    {
+        "name": "Jimliek",
+        "type": "mountain",
+        "lat": -3.802831,
+        "lon": 138.825638,
+        "elevation_m": 3150,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5762756117)"
+    },
+    {
+        "name": "Gambu",
+        "type": "mountain",
+        "lat": -4.206519,
+        "lon": 138.597668,
+        "elevation_m": 4200,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5762756131)"
+    },
+    {
+        "name": "Gunung Merapi",
+        "type": "mountain",
+        "lat": -8.06265,
+        "lon": 114.261935,
+        "elevation_m": 2803,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5781995958)"
+    },
+    {
+        "name": "Gunung Wasikpo",
+        "type": "mountain",
+        "lat": -4.332436,
+        "lon": 139.201076,
+        "elevation_m": 2890,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5793923942)"
+    },
+    {
+        "name": "Gunung Peno",
+        "type": "mountain",
+        "lat": -4.362454,
+        "lon": 139.151531,
+        "elevation_m": 2560,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5793923945)"
+    },
+    {
+        "name": "Gauttier",
+        "type": "mountain",
+        "lat": -2.603719,
+        "lon": 138.949268,
+        "elevation_m": 2230,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5817133824)"
+    },
+    {
+        "name": "Gunung Deiyai",
+        "type": "mountain",
+        "lat": -3.969174,
+        "lon": 136.195058,
+        "elevation_m": 3340,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5817133825)"
+    },
+    {
+        "name": "Undundi-Wandandi",
+        "type": "mountain",
+        "lat": -3.506695,
+        "lon": 136.422708,
+        "elevation_m": 3640,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5817133826)"
+    },
+    {
+        "name": "Kobowre",
+        "type": "mountain",
+        "lat": -3.890566,
+        "lon": 135.747083,
+        "elevation_m": 3750,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5817133827)"
+    },
+    {
+        "name": "Tohkier",
+        "type": "mountain",
+        "lat": -0.653769,
+        "lon": 132.31291,
+        "elevation_m": 2460,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5818000054)"
+    },
+    {
+        "name": "Irau",
+        "type": "mountain",
+        "lat": -0.661666,
+        "lon": 132.889159,
+        "elevation_m": 2500,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5818000055)"
+    },
+    {
+        "name": "Niefeb",
+        "type": "mountain",
+        "lat": -1.125841,
+        "lon": 133.543339,
+        "elevation_m": 2726,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5818000056)"
+    },
+    {
+        "name": "Gunung Taria",
+        "type": "mountain",
+        "lat": -3.753842,
+        "lon": 138.657632,
+        "elevation_m": 3100,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5893954890)"
+    },
+    {
+        "name": "Tangkuban Parahu",
+        "type": "mountain",
+        "lat": -6.753314,
+        "lon": 107.607921,
+        "elevation_m": 2086,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5964072249)"
+    },
+    {
+        "name": "Puncak Besar",
+        "type": "mountain",
+        "lat": -7.151429,
+        "lon": 107.625128,
+        "elevation_m": 2343,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5964072251)"
+    },
+    {
+        "name": "Gunung Malang",
+        "type": "mountain",
+        "lat": -7.328938,
+        "lon": 107.715851,
+        "elevation_m": 2675,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 5964072252)"
+    },
+    {
+        "name": "Bukit Paninjauan Laut",
+        "type": "mountain",
+        "lat": -1.66235,
+        "lon": 101.080195,
+        "elevation_m": 2099,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 6005466486)"
+    },
+    {
+        "name": "Gunung Kapur",
+        "type": "mountain",
+        "lat": -1.709989,
+        "lon": 101.16891,
+        "elevation_m": 2405,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 6005466488)"
+    },
+    {
+        "name": "Gunung Kuduk Jawi",
+        "type": "mountain",
+        "lat": -1.793761,
+        "lon": 101.101856,
+        "elevation_m": 2057,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 6005466491)"
+    },
+    {
+        "name": "Gunung Karang Benteng",
+        "type": "mountain",
+        "lat": -1.803852,
+        "lon": 101.114291,
+        "elevation_m": 2039,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 6005466492)"
+    },
+    {
+        "name": "Gunung Hulu Nilo",
+        "type": "mountain",
+        "lat": -2.425301,
+        "lon": 101.781807,
+        "elevation_m": 2469,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 6005710204)"
+    },
+    {
+        "name": "Bukit Bamban",
+        "type": "mountain",
+        "lat": -2.216497,
+        "lon": 101.466143,
+        "elevation_m": 2169,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 6013083877)"
+    },
+    {
+        "name": "Gunung Tarasih",
+        "type": "mountain",
+        "lat": -2.169303,
+        "lon": 101.344049,
+        "elevation_m": 2050,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 6013083883)"
+    },
+    {
+        "name": "Menkongga",
+        "type": "mountain",
+        "lat": -3.664915,
+        "lon": 121.236537,
+        "elevation_m": 2650,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 6053110786)"
+    },
+    {
+        "name": "Prins Maurits",
+        "type": "mountain",
+        "lat": -4.101927,
+        "lon": 137.652679,
+        "elevation_m": 4040,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 6444824254)"
+    },
+    {
+        "name": "Alut Bitip",
+        "type": "mountain",
+        "lat": -4.667088,
+        "lon": 140.723265,
+        "elevation_m": 2710,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 6627077628)"
+    },
+    {
+        "name": "Gunung Ming",
+        "type": "mountain",
+        "lat": -4.717045,
+        "lon": 140.683129,
+        "elevation_m": 3190,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 6627082931)"
+    },
+    {
+        "name": "Boloh",
+        "type": "mountain",
+        "lat": -4.585401,
+        "lon": 140.671762,
+        "elevation_m": 2440,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 6633541318)"
+    },
+    {
+        "name": "Kelabo",
+        "type": "mountain",
+        "lat": -3.955173,
+        "lon": 137.730789,
+        "elevation_m": 4040,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 6639181822)"
+    },
+    {
+        "name": "Gunung Probcia",
+        "type": "mountain",
+        "lat": -7.97303,
+        "lon": 112.950194,
+        "elevation_m": 2123,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 8561248043)"
+    },
+    {
+        "name": "Bukit Belirang",
+        "type": "mountain",
+        "lat": -4.297166,
+        "lon": 103.320018,
+        "elevation_m": 2527,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 9078571317)"
+    },
+    {
+        "name": "Bukit Hulu Air Pupus",
+        "type": "mountain",
+        "lat": -4.315081,
+        "lon": 103.377137,
+        "elevation_m": 2567,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 9078571318)"
+    },
+    {
+        "name": "Bukit Besar",
+        "type": "mountain",
+        "lat": -4.237446,
+        "lon": 103.385506,
+        "elevation_m": 2430,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 9078571327)"
+    },
+    {
+        "name": "Pematang Kayu Ara",
+        "type": "mountain",
+        "lat": -4.285321,
+        "lon": 103.451295,
+        "elevation_m": 2125,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 9078571328)"
+    },
+    {
+        "name": "Bukit Raja Mendara",
+        "type": "mountain",
+        "lat": -4.230785,
+        "lon": 103.179502,
+        "elevation_m": 2225,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 9078571330)"
+    },
+    {
+        "name": "Gunung Hulu Palik",
+        "type": "mountain",
+        "lat": -3.391561,
+        "lon": 102.342546,
+        "elevation_m": 2493,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 9100107186)"
+    },
+    {
+        "name": "Bukit Gedang Hulu Lais",
+        "type": "mountain",
+        "lat": -3.246944,
+        "lon": 102.238414,
+        "elevation_m": 2130,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 9137375942)"
+    },
+    {
+        "name": "Gunung Bujang Juaro",
+        "type": "mountain",
+        "lat": -1.304566,
+        "lon": 100.840833,
+        "elevation_m": 2480,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 9143826478)"
+    },
+    {
+        "name": "Gunung Pandan",
+        "type": "mountain",
+        "lat": -2.820858,
+        "lon": 102.325252,
+        "elevation_m": 2000,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 9510016116)"
+    },
+    {
+        "name": "Puncak Banteng Raiders",
+        "type": "mountain",
+        "lat": -7.183552,
+        "lon": 110.348324,
+        "elevation_m": 2050,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 9895078689)"
+    },
+    {
+        "name": "Puncak Botak",
+        "type": "mountain",
+        "lat": -7.18733,
+        "lon": 110.344824,
+        "elevation_m": 2050,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 9895078690)"
+    },
+    {
+        "name": "Puncak Merpati",
+        "type": "mountain",
+        "lat": -0.393527,
+        "lon": 100.457194,
+        "elevation_m": 2711,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 9952219078)"
+    },
+    {
+        "name": "Gunung Bisma",
+        "type": "mountain",
+        "lat": -7.239174,
+        "lon": 109.888826,
+        "elevation_m": 2365,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 10794707567)"
+    },
+    {
+        "name": "Puncak Patakbanteng",
+        "type": "mountain",
+        "lat": -7.191244,
+        "lon": 109.927523,
+        "elevation_m": 2590,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 10807903393)"
+    },
+    {
+        "name": "Gunung Prau",
+        "type": "mountain",
+        "lat": -7.197286,
+        "lon": 109.932231,
+        "elevation_m": 2600,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 10807912529)"
+    },
+    {
+        "name": "Watu Gubuk",
+        "type": "mountain",
+        "lat": -7.438869,
+        "lon": 110.438371,
+        "elevation_m": 2723,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 10837163804)"
+    },
+    {
+        "name": "Puncak B29",
+        "type": "mountain",
+        "lat": -7.959237,
+        "lon": 112.994851,
+        "elevation_m": 2900,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 11037611711)"
+    },
+    {
+        "name": "Puncak Sigandul",
+        "type": "mountain",
+        "lat": -7.251866,
+        "lon": 109.987468,
+        "elevation_m": 2145,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 11055669484)"
+    },
+    {
+        "name": "Gunung Hulu Sako",
+        "type": "mountain",
+        "lat": -2.672205,
+        "lon": 101.964963,
+        "elevation_m": 2000,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 11111619363)"
+    },
+    {
+        "name": "Bukit Candi",
+        "type": "mountain",
+        "lat": -7.67886,
+        "lon": 111.184983,
+        "elevation_m": 2065,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 11361337985)"
+    },
+    {
+        "name": "Puncak Pemancar 2847mdpl",
+        "type": "mountain",
+        "lat": -7.442254,
+        "lon": 110.436829,
+        "elevation_m": 2847,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 11900080740)"
+    },
+    {
+        "name": "Puncak Mega Gunung Puntang",
+        "type": "mountain",
+        "lat": -7.121392,
+        "lon": 107.621291,
+        "elevation_m": 2223,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 12048409418)"
+    },
+    {
+        "name": "Puncak Cipanas",
+        "type": "mountain",
+        "lat": -7.1524,
+        "lon": 107.848689,
+        "elevation_m": 2059,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 12049008998)"
+    },
+    {
+        "name": "Puncak 2",
+        "type": "mountain",
+        "lat": -7.149386,
+        "lon": 107.845919,
+        "elevation_m": 2135,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 12049008999)"
+    },
+    {
+        "name": "Puncak 3",
+        "type": "mountain",
+        "lat": -7.144614,
+        "lon": 107.843972,
+        "elevation_m": 2213,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 12049009000)"
+    },
+    {
+        "name": "Gunung Kawi (Puncak Selatan)",
+        "type": "mountain",
+        "lat": -7.922886,
+        "lon": 112.452193,
+        "elevation_m": 2646,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 12062614355)"
+    },
+    {
+        "name": "Puncak Sejati Gunung Arjuno",
+        "type": "mountain",
+        "lat": -7.765419,
+        "lon": 112.591016,
+        "elevation_m": 3339,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 12071219872)"
+    },
+    {
+        "name": "Puncak Sejati Ijen-Merapi",
+        "type": "mountain",
+        "lat": -8.062984,
+        "lon": 114.262059,
+        "elevation_m": 2803,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 12096868184)"
+    },
+    {
+        "name": "Puncak Malabar 2",
+        "type": "mountain",
+        "lat": -7.130231,
+        "lon": 107.638272,
+        "elevation_m": 2329,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 12248358374)"
+    },
+    {
+        "name": "Puncak Malabar 3",
+        "type": "mountain",
+        "lat": -7.131754,
+        "lon": 107.639376,
+        "elevation_m": 2321,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 12248358375)"
+    },
+    {
+        "name": "Puncak Malabar 4",
+        "type": "mountain",
+        "lat": -7.135046,
+        "lon": 107.639927,
+        "elevation_m": 2319,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 12248358376)"
+    },
+    {
+        "name": "Puncak Malabar 5",
+        "type": "mountain",
+        "lat": -7.140454,
+        "lon": 107.638897,
+        "elevation_m": 2270,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 12248358377)"
+    },
+    {
+        "name": "Puncak Malabar 6",
+        "type": "mountain",
+        "lat": -7.145299,
+        "lon": 107.635479,
+        "elevation_m": 2300,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 12248358378)"
+    },
+    {
+        "name": "Gunung Paseban",
+        "type": "mountain",
+        "lat": -7.146944,
+        "lon": 107.633846,
+        "elevation_m": 2284,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 12248358379)"
+    },
+    {
+        "name": "Puncak Upas",
+        "type": "mountain",
+        "lat": -6.761025,
+        "lon": 107.604749,
+        "elevation_m": 2084,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 12248419635)"
+    },
+    {
+        "name": "Gunung Sagara",
+        "type": "mountain",
+        "lat": -7.221652,
+        "lon": 108.058,
+        "elevation_m": 2171,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 12765447522)"
+    },
+    {
+        "name": "Gunung Canar",
+        "type": "mountain",
+        "lat": -7.225035,
+        "lon": 108.058967,
+        "elevation_m": 2211,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 12765447523)"
+    },
+    {
+        "name": "Tebo Pengabisan Panjang",
+        "type": "mountain",
+        "lat": -2.79774,
+        "lon": 102.076682,
+        "elevation_m": 2193,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 12850703314)"
+    },
+    {
+        "name": "Bukit Lumut",
+        "type": "mountain",
+        "lat": -2.781093,
+        "lon": 102.107019,
+        "elevation_m": 2103,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 12850703315)"
+    },
+    {
+        "name": "Puncak Rengganis",
+        "type": "mountain",
+        "lat": -7.964963,
+        "lon": 113.572887,
+        "elevation_m": 3059,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 13201390332)"
+    },
+    {
+        "name": "Gunung Waringin",
+        "type": "mountain",
+        "lat": -7.195241,
+        "lon": 107.494468,
+        "elevation_m": 2035,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 13267119295)"
+    },
+    {
+        "name": "Gunung Haruman",
+        "type": "mountain",
+        "lat": -7.134354,
+        "lon": 107.609791,
+        "elevation_m": 2141,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 13285124696)"
+    },
+    {
+        "name": "Gunung Waja",
+        "type": "mountain",
+        "lat": -8.372625,
+        "lon": 116.422186,
+        "elevation_m": 2623,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 13304794952)"
+    },
+    {
+        "name": "Siel",
+        "type": "mountain",
+        "lat": -3.33221,
+        "lon": 126.478014,
+        "elevation_m": 2070,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (puncak gunung, osm node 13991129827)"
+    },
+    {
+        "name": "Rawa Pening",
+        "type": "lake",
+        "lat": -7.285852,
+        "lon": 110.430586,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (danau, luas approx 16.4 km2, osm way 24222566)"
+    },
+    {
+        "name": "Danau Dibawah",
+        "type": "lake",
+        "lat": -1.011734,
+        "lon": 100.733112,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (danau, luas approx 11 km2, osm way 31305087)"
+    },
+    {
+        "name": "Danau Diatas",
+        "type": "lake",
+        "lat": -1.074078,
+        "lon": 100.750895,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (danau, luas approx 12.3 km2, osm way 33120107)"
+    },
+    {
+        "name": "Danau Gunung Tujuh",
+        "type": "lake",
+        "lat": -1.700282,
+        "lon": 101.410815,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (danau, luas approx 10 km2, osm way 43363898)"
+    },
+    {
+        "name": "Danau Dampelas",
+        "type": "lake",
+        "lat": 0.186636,
+        "lon": 119.849561,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (danau, luas approx 5.8 km2, osm way 245623949)"
+    },
+    {
+        "name": "Tasik Serai",
+        "type": "lake",
+        "lat": 1.207094,
+        "lon": 101.539253,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (danau, luas approx 7.8 km2, osm way 316117125)"
+    },
+    {
+        "name": "Tasik Besar Serkap",
+        "type": "lake",
+        "lat": 0.575757,
+        "lon": 102.652404,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (danau, luas approx 5.3 km2, osm way 547160050)"
+    },
+    {
+        "name": "Waduk Tembesi",
+        "type": "lake",
+        "lat": 1.00664,
+        "lon": 104.039256,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (danau, luas approx 6.5 km2, osm way 575319676)"
+    },
+    {
+        "name": "Tigi",
+        "type": "lake",
+        "lat": -4.044883,
+        "lon": 136.239787,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (danau, luas approx 29.6 km2, osm way 583396702)"
+    },
+    {
+        "name": "Tage",
+        "type": "lake",
+        "lat": -3.960833,
+        "lon": 136.302599,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (danau, luas approx 16.8 km2, osm way 583396703)"
+    },
+    {
+        "name": "Segara Anak",
+        "type": "lake",
+        "lat": -8.407699,
+        "lon": 116.411108,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (danau, luas approx 10 km2, osm way 1423367938)"
+    },
+    {
+        "name": "Danau Sentani",
+        "type": "lake",
+        "lat": -2.603856,
+        "lon": 140.498419,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (danau, relation multipolygon, luas approx 77.9 km2, osm relation 299579)"
+    },
+    {
+        "name": "Danau Toba",
+        "type": "lake",
+        "lat": 2.564835,
+        "lon": 98.825187,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (danau, relation multipolygon, luas approx 1645.3 km2, osm relation 306034 | wiki: id:Danau Toba)"
+    },
+    {
+        "name": "Danau Jempang",
+        "type": "lake",
+        "lat": -0.468667,
+        "lon": 116.174037,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (danau, relation multipolygon, luas approx 130 km2, osm relation 1352166)"
+    },
+    {
+        "name": "Waduk Duriangkang",
+        "type": "lake",
+        "lat": 1.068643,
+        "lon": 104.075782,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (danau, relation multipolygon, luas approx 23.2 km2, osm relation 1640666)"
+    },
+    {
+        "name": "Danau Kerinci",
+        "type": "lake",
+        "lat": -2.145637,
+        "lon": 101.485817,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (danau, relation multipolygon, luas approx 45.4 km2, osm relation 2233032 | wiki: id:Danau Kerinci)"
+    },
+    {
+        "name": "Danau Laut Tawar",
+        "type": "lake",
+        "lat": 4.614615,
+        "lon": 96.896714,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (danau, relation multipolygon, luas approx 58.6 km2, osm relation 3061065)"
+    },
+    {
+        "name": "Danau Towuti",
+        "type": "lake",
+        "lat": -2.750982,
+        "lon": 121.479455,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (danau, relation multipolygon, luas approx 288.3 km2, osm relation 4265690 | wiki: id:Danau Towuti)"
+    },
+    {
+        "name": "Bulalo Limboto",
+        "type": "lake",
+        "lat": 0.574303,
+        "lon": 122.987137,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (danau, relation multipolygon, luas approx 20.8 km2, osm relation 4275077)"
+    },
+    {
+        "name": "Waduk Batutegi",
+        "type": "lake",
+        "lat": -5.219212,
+        "lon": 104.758552,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (danau, relation multipolygon, luas approx 20.1 km2, osm relation 4866587)"
+    },
+    {
+        "name": "Danau Pulau Besar",
+        "type": "lake",
+        "lat": 0.655886,
+        "lon": 102.224214,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (danau, relation multipolygon, luas approx 20 km2, osm relation 6889710)"
+    },
+    {
+        "name": "Lake Paniai",
+        "type": "lake",
+        "lat": -3.881362,
+        "lon": 136.313318,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (danau, relation multipolygon, luas approx 142.9 km2, osm relation 8244840)"
+    },
+    {
+        "name": "Danau Aiwasa",
+        "type": "lake",
+        "lat": -3.62358,
+        "lon": 134.283761,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (danau, relation multipolygon, luas approx 38.8 km2, osm relation 8246959)"
+    },
+    {
+        "name": "Danau Laamora",
+        "type": "lake",
+        "lat": -3.674365,
+        "lon": 134.313356,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (danau, relation multipolygon, luas approx 33.3 km2, osm relation 8247502)"
+    },
+    {
+        "name": "Danau Kamakawalor",
+        "type": "lake",
+        "lat": -3.755279,
+        "lon": 134.206326,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (danau, relation multipolygon, luas approx 25 km2, osm relation 8250008)"
+    },
+    {
+        "name": "Danau Holmes",
+        "type": "lake",
+        "lat": -2.464837,
+        "lon": 137.991766,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (danau, relation multipolygon, luas approx 5.9 km2, osm relation 9599611)"
+    },
+    {
+        "name": "Danau Batur",
+        "type": "lake",
+        "lat": -8.253453,
+        "lon": 115.405094,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (danau, relation multipolygon, luas approx 16.5 km2, osm relation 9747883 | wiki: en:Lake Batur)"
+    },
+    {
+        "name": "Danau Melintang",
+        "type": "lake",
+        "lat": -0.299121,
+        "lon": 116.352586,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (danau, relation multipolygon, luas approx 85.9 km2, osm relation 12239375)"
+    },
+    {
+        "name": "Danau Semayang",
+        "type": "lake",
+        "lat": -0.230995,
+        "lon": 116.455514,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (danau, relation multipolygon, luas approx 103 km2, osm relation 12243379)"
+    },
+    {
+        "name": "Danau Sidenreng",
+        "type": "lake",
+        "lat": -3.986676,
+        "lon": 119.872421,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (danau, relation multipolygon, luas approx 35.7 km2, osm relation 12247745)"
+    },
+    {
+        "name": "Danau Singkarak",
+        "type": "lake",
+        "lat": -0.63014,
+        "lon": 100.545645,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (danau, relation multipolygon, luas approx 33.4 km2, osm relation 12403059 | wiki: id:Danau Singkarak)"
+    },
+    {
+        "name": "Danau Tempe",
+        "type": "lake",
+        "lat": -4.09125,
+        "lon": 119.947655,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (danau, relation multipolygon, luas approx 121.8 km2, osm relation 12413535)"
+    },
+    {
+        "name": "Danau Poso",
+        "type": "lake",
+        "lat": -1.911253,
+        "lon": 120.615231,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (danau, relation multipolygon, luas approx 261.3 km2, osm relation 12460135)"
+    },
+    {
+        "name": "Danau Ranau",
+        "type": "lake",
+        "lat": -4.883188,
+        "lon": 103.932734,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (danau, relation multipolygon, luas approx 127.3 km2, osm relation 12464761 | wiki: id:Danau Ranau)"
+    },
+    {
+        "name": "Danau Maninjau",
+        "type": "lake",
+        "lat": -0.320437,
+        "lon": 100.18876,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (danau, relation multipolygon, luas approx 98.5 km2, osm relation 12476459)"
+    },
+    {
+        "name": "Danau Laet",
+        "type": "lake",
+        "lat": -0.002707,
+        "lon": 109.922987,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (danau, relation multipolygon, luas approx 5.5 km2, osm relation 12954631)"
+    },
+    {
+        "name": "Danau Lindu",
+        "type": "lake",
+        "lat": -1.317788,
+        "lon": 120.08144,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (danau, relation multipolygon, luas approx 35.1 km2, osm relation 12954828)"
+    },
+    {
+        "name": "Jamur",
+        "type": "lake",
+        "lat": -3.666621,
+        "lon": 134.932902,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (danau, relation multipolygon, luas approx 37.6 km2, osm relation 15525597)"
+    },
+    {
+        "name": "Danau Siran",
+        "type": "lake",
+        "lat": -0.058207,
+        "lon": 116.577204,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (danau, relation multipolygon, luas approx 19.2 km2, osm relation 17085688)"
+    },
+    {
+        "name": "Danau Tondano",
+        "type": "lake",
+        "lat": 1.216487,
+        "lon": 124.895825,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (danau, relation multipolygon, luas approx 45.1 km2, osm relation 17728141)"
+    },
+    {
+        "name": "Jakarta",
+        "type": "city",
+        "lat": -6.175405,
+        "lon": 106.827168,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~10467629, osm node 29939632)"
+    },
+    {
+        "name": "Semarang",
+        "type": "city",
+        "lat": -6.990399,
+        "lon": 110.42291,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~1702768, osm node 256555232)"
+    },
+    {
+        "name": "Surakarta",
+        "type": "city",
+        "lat": -7.569249,
+        "lon": 110.828448,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~503421, osm node 260119406)"
+    },
+    {
+        "name": "Kudus",
+        "type": "city",
+        "lat": -6.807823,
+        "lon": 110.841687,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~90341, osm node 262265665)"
+    },
+    {
+        "name": "Kupang",
+        "type": "city",
+        "lat": -10.163221,
+        "lon": 123.601776,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~450360, osm node 262314145)"
+    },
+    {
+        "name": "Bandung",
+        "type": "city",
+        "lat": -6.921846,
+        "lon": 107.607083,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~2390120, osm node 264158895)"
+    },
+    {
+        "name": "Medan",
+        "type": "city",
+        "lat": 3.589462,
+        "lon": 98.674162,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~2097610, osm node 267554214)"
+    },
+    {
+        "name": "Banda Aceh",
+        "type": "city",
+        "lat": 5.552846,
+        "lon": 95.319291,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~223446, osm node 267556063)"
+    },
+    {
+        "name": "Denpasar",
+        "type": "city",
+        "lat": -8.665335,
+        "lon": 115.217619,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~788445, osm node 274113797)"
+    },
+    {
+        "name": "Ambon",
+        "type": "city",
+        "lat": -3.695943,
+        "lon": 128.178785,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~275888, osm node 293644383)"
+    },
+    {
+        "name": "Palu",
+        "type": "city",
+        "lat": -0.895779,
+        "lon": 119.867997,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~335297, osm node 296110116)"
+    },
+    {
+        "name": "Makassar",
+        "type": "city",
+        "lat": -5.134296,
+        "lon": 119.412428,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~1427619, osm node 297406682)"
+    },
+    {
+        "name": "Manado",
+        "type": "city",
+        "lat": 1.490045,
+        "lon": 124.840767,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~423257, osm node 317529477)"
+    },
+    {
+        "name": "Tangerang",
+        "type": "city",
+        "lat": -6.176192,
+        "lon": 106.638216,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~2185304, osm node 318881337)"
+    },
+    {
+        "name": "Bekasi",
+        "type": "city",
+        "lat": -6.234986,
+        "lon": 106.994544,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~2334871, osm node 318882209)"
+    },
+    {
+        "name": "Bogor",
+        "type": "city",
+        "lat": -6.596356,
+        "lon": 106.797319,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~1083776, osm node 319887585)"
+    },
+    {
+        "name": "Payakumbuh",
+        "type": "city",
+        "lat": -0.224269,
+        "lon": 100.631942,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~133639, osm node 336643439)"
+    },
+    {
+        "name": "Bukittinggi",
+        "type": "city",
+        "lat": -0.305195,
+        "lon": 100.369492,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~100254, osm node 336643803)"
+    },
+    {
+        "name": "Tebing Tinggi",
+        "type": "city",
+        "lat": 3.327369,
+        "lon": 99.162303,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~135000, osm node 342092420)"
+    },
+    {
+        "name": "Mataram",
+        "type": "city",
+        "lat": -8.583773,
+        "lon": 116.10685,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~402843, osm node 413451054)"
+    },
+    {
+        "name": "Blora",
+        "type": "city",
+        "lat": -6.969153,
+        "lon": 111.413052,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~50000, osm node 450552097)"
+    },
+    {
+        "name": "Tanjungpinang",
+        "type": "city",
+        "lat": 0.923692,
+        "lon": 104.446094,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~239854, osm node 503789390)"
+    },
+    {
+        "name": "Batam",
+        "type": "city",
+        "lat": 1.103082,
+        "lon": 104.03837,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~1196396, osm node 506735403)"
+    },
+    {
+        "name": "Samarinda",
+        "type": "city",
+        "lat": -0.50178,
+        "lon": 117.139309,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~726223, osm node 525277257)"
+    },
+    {
+        "name": "Bontang",
+        "type": "city",
+        "lat": 0.123655,
+        "lon": 117.471708,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~161413, osm node 536415772)"
+    },
+    {
+        "name": "Gorontalo",
+        "type": "city",
+        "lat": 0.538443,
+        "lon": 123.059497,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~150000, osm node 542116772)"
+    },
+    {
+        "name": "Pontianak",
+        "type": "city",
+        "lat": -0.02269,
+        "lon": 109.344749,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~690277, osm node 544513863)"
+    },
+    {
+        "name": "Banjarmasin",
+        "type": "city",
+        "lat": -3.31875,
+        "lon": 114.592583,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~662320, osm node 544517373)"
+    },
+    {
+        "name": "Bandar Lampung",
+        "type": "city",
+        "lat": -5.446071,
+        "lon": 105.264374,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~921087, osm node 544519673)"
+    },
+    {
+        "name": "Padangsidimpuan",
+        "type": "city",
+        "lat": 1.372696,
+        "lon": 99.272717,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~178818, osm node 545624718)"
+    },
+    {
+        "name": "Sabang",
+        "type": "city",
+        "lat": 5.892745,
+        "lon": 95.322575,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~43391, osm node 545741079)"
+    },
+    {
+        "name": "Ternate",
+        "type": "city",
+        "lat": 0.785204,
+        "lon": 127.383234,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~255100, osm node 545807270)"
+    },
+    {
+        "name": "Kediri",
+        "type": "city",
+        "lat": -7.811106,
+        "lon": 112.004605,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~301815, osm node 558877091)"
+    },
+    {
+        "name": "Padang Panjang",
+        "type": "city",
+        "lat": -0.465464,
+        "lon": 100.393244,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~104499, osm node 595344601)"
+    },
+    {
+        "name": "Purwokerto",
+        "type": "city",
+        "lat": -7.427901,
+        "lon": 109.24085,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~292782, osm node 620786541)"
+    },
+    {
+        "name": "Solok",
+        "type": "city",
+        "lat": -0.799117,
+        "lon": 100.652983,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~59317, osm node 638322810)"
+    },
+    {
+        "name": "Sawahlunto",
+        "type": "city",
+        "lat": -0.681814,
+        "lon": 100.778552,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~61427, osm node 638322885)"
+    },
+    {
+        "name": "Lhokseumawe",
+        "type": "city",
+        "lat": 5.178966,
+        "lon": 97.148054,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~190624, osm node 653399882)"
+    },
+    {
+        "name": "Sibolga",
+        "type": "city",
+        "lat": 1.736957,
+        "lon": 98.78461,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~95471, osm node 721235772)"
+    },
+    {
+        "name": "Tanjungbalai",
+        "type": "city",
+        "lat": 2.970342,
+        "lon": 99.80209,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~176027, osm node 736405240)"
+    },
+    {
+        "name": "Pematang Siantar",
+        "type": "city",
+        "lat": 2.958863,
+        "lon": 99.065365,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~247411, osm node 736405241)"
+    },
+    {
+        "name": "Langsa",
+        "type": "city",
+        "lat": 4.473089,
+        "lon": 97.968184,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~182424, osm node 746731552)"
+    },
+    {
+        "name": "Binjai",
+        "type": "city",
+        "lat": 3.606396,
+        "lon": 98.489987,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~267901, osm node 763976609)"
+    },
+    {
+        "name": "Sorong",
+        "type": "city",
+        "lat": -0.863411,
+        "lon": 131.254481,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~255100, osm node 806841357)"
+    },
+    {
+        "name": "Palangka Raya",
+        "type": "city",
+        "lat": -2.207292,
+        "lon": 113.916437,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~220962, osm node 861117370)"
+    },
+    {
+        "name": "Bitung",
+        "type": "city",
+        "lat": 1.44344,
+        "lon": 125.194084,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~218520, osm node 976683837)"
+    },
+    {
+        "name": "Tomohon",
+        "type": "city",
+        "lat": 1.325591,
+        "lon": 124.838605,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~100373, osm node 976750838)"
+    },
+    {
+        "name": "Kotamobagu",
+        "type": "city",
+        "lat": 0.735223,
+        "lon": 124.315406,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~116194, osm node 1183444041)"
+    },
+    {
+        "name": "Pare Pare",
+        "type": "city",
+        "lat": -4.005706,
+        "lon": 119.62361,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~152922, osm node 1256313302)"
+    },
+    {
+        "name": "Kendari",
+        "type": "city",
+        "lat": -3.991807,
+        "lon": 122.518007,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~289709, osm node 1271864187)"
+    },
+    {
+        "name": "Palopo",
+        "type": "city",
+        "lat": -2.999631,
+        "lon": 120.192068,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~187331, osm node 1279966686)"
+    },
+    {
+        "name": "Subulussalam",
+        "type": "city",
+        "lat": 2.640315,
+        "lon": 98.005246,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~67316, osm node 1308402757)"
+    },
+    {
+        "name": "Prabumulih",
+        "type": "city",
+        "lat": -3.438269,
+        "lon": 104.231018,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~188082, osm node 1308469970)"
+    },
+    {
+        "name": "Kuala Kurun",
+        "type": "city",
+        "lat": -1.101603,
+        "lon": 113.866369,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~1223, osm node 1308624347)"
+    },
+    {
+        "name": "Banjar",
+        "type": "city",
+        "lat": -7.369565,
+        "lon": 108.541523,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~178638, osm node 1308642693)"
+    },
+    {
+        "name": "Magelang",
+        "type": "city",
+        "lat": -7.477075,
+        "lon": 110.218216,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~118227, osm node 1308686196)"
+    },
+    {
+        "name": "Cimahi",
+        "type": "city",
+        "lat": -6.873153,
+        "lon": 107.54231,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~561386, osm node 1308696523)"
+    },
+    {
+        "name": "Purwodadi",
+        "type": "city",
+        "lat": -7.081126,
+        "lon": 110.917287,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~141939, osm node 1308712305)"
+    },
+    {
+        "name": "Yogyakarta",
+        "type": "city",
+        "lat": -7.801349,
+        "lon": 110.364735,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~636660, osm node 1390375711)"
+    },
+    {
+        "name": "Bima",
+        "type": "city",
+        "lat": -8.453409,
+        "lon": 118.727689,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~136492, osm node 1406939048)"
+    },
+    {
+        "name": "Pangkalpinang",
+        "type": "city",
+        "lat": -2.120673,
+        "lon": 106.11346,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~209383, osm node 1432744791)"
+    },
+    {
+        "name": "Depok",
+        "type": "city",
+        "lat": -6.40719,
+        "lon": 106.815837,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~1738570, osm node 1641250216)"
+    },
+    {
+        "name": "Jepara",
+        "type": "city",
+        "lat": -6.589915,
+        "lon": 110.667299,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~96940, osm node 1811389215)"
+    },
+    {
+        "name": "Tarakan",
+        "type": "city",
+        "lat": 3.300017,
+        "lon": 117.633016,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~239973, osm node 1811755606)"
+    },
+    {
+        "name": "Jayapura",
+        "type": "city",
+        "lat": -2.538754,
+        "lon": 140.703739,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~233859, osm node 2036439111)"
+    },
+    {
+        "name": "Palembang",
+        "type": "city",
+        "lat": -2.988824,
+        "lon": 104.756851,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~1708413, osm node 2081450443)"
+    },
+    {
+        "name": "Cirebon",
+        "type": "city",
+        "lat": -6.713704,
+        "lon": 108.560848,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~318741, osm node 2142261809)"
+    },
+    {
+        "name": "Indramayu",
+        "type": "city",
+        "lat": -6.326544,
+        "lon": 108.322885,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~125226, osm node 2401281742)"
+    },
+    {
+        "name": "Sukabumi",
+        "type": "city",
+        "lat": -6.919929,
+        "lon": 106.92651,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~320970, osm node 2413854179)"
+    },
+    {
+        "name": "Balikpapan",
+        "type": "city",
+        "lat": -1.239871,
+        "lon": 116.859338,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~701066, osm node 2417847197)"
+    },
+    {
+        "name": "Malang",
+        "type": "city",
+        "lat": -7.977131,
+        "lon": 112.634027,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~889359, osm node 2518173352)"
+    },
+    {
+        "name": "Singkawang",
+        "type": "city",
+        "lat": 0.906986,
+        "lon": 108.988966,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~239260, osm node 2531732319)"
+    },
+    {
+        "name": "Madiun",
+        "type": "city",
+        "lat": -7.629084,
+        "lon": 111.516882,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~175767, osm node 2535859348)"
+    },
+    {
+        "name": "Pacitan",
+        "type": "city",
+        "lat": -8.194723,
+        "lon": 111.103572,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~587970, osm node 2565956172)"
+    },
+    {
+        "name": "Salatiga",
+        "type": "city",
+        "lat": -7.330264,
+        "lon": 110.499535,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~201369, osm node 2576644117)"
+    },
+    {
+        "name": "Majalengka",
+        "type": "city",
+        "lat": -6.835187,
+        "lon": 108.227762,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~1363755, osm node 2613117002)"
+    },
+    {
+        "name": "Garut",
+        "type": "city",
+        "lat": -7.216277,
+        "lon": 107.901491,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~2748699, osm node 2623323553)"
+    },
+    {
+        "name": "Cilegon",
+        "type": "city",
+        "lat": -6.017389,
+        "lon": 106.053769,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~374559, osm node 2623323572)"
+    },
+    {
+        "name": "Serang",
+        "type": "city",
+        "lat": -6.116966,
+        "lon": 106.151808,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~618802, osm node 2623323577)"
+    },
+    {
+        "name": "Bengkulu",
+        "type": "city",
+        "lat": -3.792286,
+        "lon": 102.26238,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~319098, osm node 2781151358)"
+    },
+    {
+        "name": "Padang",
+        "type": "city",
+        "lat": -0.924759,
+        "lon": 100.363256,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~1000096, osm node 2781151359)"
+    },
+    {
+        "name": "Surabaya",
+        "type": "city",
+        "lat": -7.246284,
+        "lon": 112.737767,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~2765487, osm node 2886429652)"
+    },
+    {
+        "name": "Tangerang Selatan",
+        "type": "city",
+        "lat": -6.322702,
+        "lon": 106.708574,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~1747906, osm node 3060343521)"
+    },
+    {
+        "name": "Baubau",
+        "type": "city",
+        "lat": -5.46203,
+        "lon": 122.605766,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~154877, osm node 3380624457)"
+    },
+    {
+        "name": "Tasikmalaya",
+        "type": "city",
+        "lat": -7.326248,
+        "lon": 108.220115,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~733467, osm node 3419455375)"
+    },
+    {
+        "name": "Pagar Alam",
+        "type": "city",
+        "lat": -4.02122,
+        "lon": 103.251678,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~133862, osm node 3461715028)"
+    },
+    {
+        "name": "Metro",
+        "type": "city",
+        "lat": -5.107884,
+        "lon": 105.307864,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~149361, osm node 3514132563)"
+    },
+    {
+        "name": "Banjarbaru",
+        "type": "city",
+        "lat": -3.44305,
+        "lon": 114.830848,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~258753, osm node 3555451768)"
+    },
+    {
+        "name": "Nunukan",
+        "type": "city",
+        "lat": 4.140405,
+        "lon": 117.651138,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~87877, osm node 3818323246)"
+    },
+    {
+        "name": "Lubuklinggau",
+        "type": "city",
+        "lat": -3.291697,
+        "lon": 102.870187,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~214952, osm node 4396427794)"
+    },
+    {
+        "name": "Gunungsitoli",
+        "type": "city",
+        "lat": 1.290057,
+        "lon": 97.615077,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~139281, osm node 5654023575)"
+    },
+    {
+        "name": "Pekanbaru",
+        "type": "city",
+        "lat": 0.526246,
+        "lon": 101.451573,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~1167599, osm node 5654074539)"
+    },
+    {
+        "name": "Dumai",
+        "type": "city",
+        "lat": 1.663197,
+        "lon": 101.447037,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~343597, osm node 5654083439)"
+    },
+    {
+        "name": "Sungai Penuh",
+        "type": "city",
+        "lat": -2.07068,
+        "lon": 101.396105,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~82293, osm node 5654090135)"
+    },
+    {
+        "name": "Jambi",
+        "type": "city",
+        "lat": -1.629692,
+        "lon": 103.607781,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~750857, osm node 5654100228)"
+    },
+    {
+        "name": "Kuningan",
+        "type": "city",
+        "lat": -6.982145,
+        "lon": 108.476804,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~1225493, osm node 5925540969)"
+    },
+    {
+        "name": "Pariaman",
+        "type": "city",
+        "lat": -0.626389,
+        "lon": 100.117778,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~97901, osm node 5971681088)"
+    },
+    {
+        "name": "Tual",
+        "type": "city",
+        "lat": -5.638993,
+        "lon": 132.742925,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~67783, osm node 6390287481)"
+    },
+    {
+        "name": "Tuban",
+        "type": "city",
+        "lat": -6.896408,
+        "lon": 112.065029,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~1266396, osm node 6634921246)"
+    },
+    {
+        "name": "Tanjung Selor",
+        "type": "city",
+        "lat": 2.841759,
+        "lon": 117.36873,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~56569, osm node 8396123456)"
+    },
+    {
+        "name": "Pangandaran",
+        "type": "city",
+        "lat": -7.685214,
+        "lon": 108.649955,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~436494, osm node 9820106104)"
+    },
+    {
+        "name": "Ngawi",
+        "type": "city",
+        "lat": -7.404409,
+        "lon": 111.445739,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (populasi ~858170, osm node 13979718277)"
+    },
+    {
+        "name": "Danau Matano",
+        "type": "lake",
+        "lat": -2.496007,
+        "lon": 121.344604,
+        "elevation_m": null,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), via Overpass API (2026-08-02). (danau, relation id 7805220 - luas dihitung manual ~164 km2 dari sumber umum krn geometri multipolygon-nya terlalu kompleks utk shoelace otomatis, koordinat dari Overpass center)"
+    }
+]

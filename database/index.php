@@ -76,6 +76,33 @@ if ($cat === 'airport') {
         $editItem = $stmt->fetch();
         if ($editItem) $mode = 'edit';
     }
+} elseif ($cat === 'landmark') {
+    $q = trim($_GET['q'] ?? '');
+    $type = $_GET['type'] ?? '';
+
+    $where = [];
+    $params = [];
+    if ($q !== '') {
+        $where[] = 'name LIKE :q';
+        $params[':q'] = '%' . $q . '%';
+    }
+    if ($type !== '' && in_array($type, landmark_types(), true)) {
+        $where[] = 'type = :t';
+        $params[':t'] = $type;
+    }
+    $sql = 'SELECT * FROM landmarks' . ($where ? ' WHERE ' . implode(' AND ', $where) : '') . ' ORDER BY name LIMIT 1000';
+    $stmt = $pdo->prepare($sql);
+    $stmt->execute($params);
+    $items = $stmt->fetchAll();
+
+    if (isset($_GET['new']) && $canEdit) {
+        $mode = 'create';
+    } elseif (isset($_GET['edit']) && $canEdit) {
+        $stmt = $pdo->prepare('SELECT * FROM landmarks WHERE id = :id');
+        $stmt->execute([':id' => (int)$_GET['edit']]);
+        $editItem = $stmt->fetch();
+        if ($editItem) $mode = 'edit';
+    }
 }
 
 $page_title = 'Indonesia Database';
@@ -109,7 +136,7 @@ require __DIR__ . '/../partials/header.php';
     <div class="flash <?= e($f['type']) ?>"><?= e($f['message']) ?></div>
 <?php endforeach; ?>
 
-<?php if (!in_array($cat, ['airport', 'reporting_point'], true)): ?>
+<?php if (!in_array($cat, ['airport', 'reporting_point', 'landmark'], true)): ?>
     <div class="card">
         <h2 style="margin-top:0;"><?= e($cats[$cat]['label']) ?></h2>
         <p class="muted">Coming soon — kategori ini sedang dalam pengembangan.</p>
@@ -345,6 +372,105 @@ require __DIR__ . '/../partials/header.php';
         </div>
     </div>
 </div>
+<?php elseif ($cat === 'landmark'): ?>
+<div class="db-layout">
+    <div class="db-sidebar">
+        <div class="card">
+            <h3 style="margin-top:0;">Filter Landmark</h3>
+            <form method="get">
+                <input type="hidden" name="cat" value="landmark">
+                <label>Cari nama</label>
+                <input name="q" value="<?= e($q) ?>" placeholder="Semeru / Toba / Jayapura">
+                <label>Tipe</label>
+                <select name="type">
+                    <option value="">Semua Tipe</option>
+                    <?php foreach (landmark_types() as $t): ?>
+                        <option value="<?= e($t) ?>" <?= $type === $t ? 'selected' : '' ?>><?= e(landmark_type_label($t)) ?></option>
+                    <?php endforeach; ?>
+                </select>
+                <button type="submit" class="btn-ghost">Filter</button>
+            </form>
+
+            <?php if ($canEdit): ?>
+                <a class="btn" href="<?= url('/database/index.php?cat=landmark&new=1') ?>" style="width:100%;text-align:center;box-sizing:border-box;">+ Add Landmark</a>
+            <?php endif; ?>
+
+            <p class="muted" style="font-size:12px;margin-top:10px;"><?= count($items) ?> landmark ditampilkan (maks 1000).</p>
+
+            <div class="item-list">
+                <?php foreach ($items as $it): ?>
+                    <div class="item-row">
+                        <div>
+                            <b><?= e($it['name']) ?></b>
+                            <span class="cat-chip"><?= e(landmark_type_label($it['type'])) ?></span>
+                            <div class="meta"><?= $it['elevation_m'] ? number_format((int)$it['elevation_m']) . ' m' : '' ?></div>
+                        </div>
+                        <?php if ($canEdit): ?>
+                            <div style="display:flex;gap:6px;">
+                                <a class="btn btn-ghost" style="margin:0;padding:4px 8px;font-size:12px;" href="<?= url('/database/index.php?cat=landmark&edit=' . (int)$it['id']) ?>">Edit</a>
+                                <form method="post" action="<?= url('/database/delete.php') ?>" onsubmit="return confirm('Hapus <?= e(addslashes($it['name'])) ?>?');">
+                                    <?= csrf_field() ?>
+                                    <input type="hidden" name="cat" value="landmark">
+                                    <input type="hidden" name="id" value="<?= (int)$it['id'] ?>">
+                                    <button type="submit" class="btn-danger">Del</button>
+                                </form>
+                            </div>
+                        <?php endif; ?>
+                    </div>
+                <?php endforeach; ?>
+                <?php if (!$items): ?><div style="padding:14px;" class="muted">Tidak ada hasil.</div><?php endif; ?>
+            </div>
+        </div>
+    </div>
+
+    <div class="db-main">
+        <?php if ($mode === 'create' || $mode === 'edit'): ?>
+            <div class="card" style="max-width:520px;">
+                <h3 style="margin-top:0;"><?= $mode === 'edit' ? 'Edit Landmark' : 'Add Landmark' ?></h3>
+                <p class="muted">Klik peta untuk isi koordinat otomatis, atau isi manual.</p>
+                <form method="post" action="<?= url('/database/landmark-save.php') ?>" id="lmForm">
+                    <?= csrf_field() ?>
+                    <input type="hidden" name="id" value="<?= (int)($editItem['id'] ?? 0) ?>">
+                    <div class="row">
+                        <div>
+                            <label>Nama</label>
+                            <input name="name" value="<?= e($editItem['name'] ?? '') ?>" required>
+                        </div>
+                        <div>
+                            <label>Tipe</label>
+                            <select name="type">
+                                <?php foreach (landmark_types() as $t): ?>
+                                    <option value="<?= e($t) ?>" <?= ($editItem['type'] ?? '') === $t ? 'selected' : '' ?>><?= e(landmark_type_label($t)) ?></option>
+                                <?php endforeach; ?>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div>
+                            <label>Latitude</label>
+                            <input name="lat" id="lm_lat" value="<?= e($editItem['lat'] ?? '') ?>" required>
+                        </div>
+                        <div>
+                            <label>Longitude</label>
+                            <input name="lon" id="lm_lon" value="<?= e($editItem['lon'] ?? '') ?>" required>
+                        </div>
+                        <div>
+                            <label>Elevasi (m) <span class="muted">(opsional)</span></label>
+                            <input name="elevation_m" value="<?= e($editItem['elevation_m'] ?? '') ?>" inputmode="numeric">
+                        </div>
+                    </div>
+                    <label>Notes</label>
+                    <textarea name="notes"><?= e($editItem['notes'] ?? '') ?></textarea>
+                    <button type="submit">Save Landmark</button>
+                    <a class="btn btn-ghost" href="<?= url('/database/index.php?cat=landmark') ?>">Batal</a>
+                </form>
+            </div>
+        <?php endif; ?>
+        <div class="card">
+            <div id="map"></div>
+        </div>
+    </div>
+</div>
 <?php endif; ?>
 
 <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
@@ -355,7 +481,8 @@ const canEdit = <?= json_encode($canEdit) ?>;
 const editMode = <?= json_encode($mode === 'create' || $mode === 'edit') ?>;
 const typeColorsByCat = {
     airport: <?= json_encode(array_combine(airport_types(), array_map('airport_type_color', airport_types()))) ?>,
-    reporting_point: <?= json_encode(array_combine(reporting_point_types(), array_map('reporting_point_type_color', reporting_point_types()))) ?>
+    reporting_point: <?= json_encode(array_combine(reporting_point_types(), array_map('reporting_point_type_color', reporting_point_types()))) ?>,
+    landmark: <?= json_encode(array_combine(landmark_types(), array_map('landmark_type_color', landmark_types()))) ?>
 };
 const typeColors = typeColorsByCat[cat] || {};
 
@@ -375,6 +502,9 @@ items.forEach(it => {
         popup = '<b>' + it.ident + '</b><br>' + it.type;
         if (it.frequency) popup += ' · ' + it.frequency;
         if (it.region) popup += '<br>' + it.region;
+    } else if (cat === 'landmark') {
+        popup = '<b>' + it.name + '</b><br>' + it.type;
+        if (it.elevation_m) popup += ' · ' + it.elevation_m + ' m';
     } else {
         popup = '<b>' + it.name + '</b>';
         if (it.icao) popup += '<br>ICAO: ' + it.icao;
@@ -389,9 +519,11 @@ if (items.length > 1) {
 }
 
 if (editMode && canEdit) {
+    const latFieldId = cat === 'reporting_point' ? 'rp_lat' : cat === 'landmark' ? 'lm_lat' : 'af_lat';
+    const lonFieldId = cat === 'reporting_point' ? 'rp_lon' : cat === 'landmark' ? 'lm_lon' : 'af_lon';
     map.on('click', e => {
-        const latField = document.getElementById(cat === 'reporting_point' ? 'rp_lat' : 'af_lat');
-        const lonField = document.getElementById(cat === 'reporting_point' ? 'rp_lon' : 'af_lon');
+        const latField = document.getElementById(latFieldId);
+        const lonField = document.getElementById(lonFieldId);
         if (latField) latField.value = e.latlng.lat.toFixed(6);
         if (lonField) lonField.value = e.latlng.lng.toFixed(6);
     });
