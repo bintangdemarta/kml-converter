@@ -126,4 +126,81 @@ function init_schema(PDO $pdo): void
     $pdo->exec('CREATE INDEX IF NOT EXISTS idx_taxi_edges_icao ON taxi_edges(icao)');
     $pdo->exec('CREATE INDEX IF NOT EXISTS idx_taxi_edges_from ON taxi_edges(from_node_id)');
     $pdo->exec('CREATE INDEX IF NOT EXISTS idx_taxi_edges_to ON taxi_edges(to_node_id)');
+
+    $pdo->exec("
+        CREATE TABLE IF NOT EXISTS airports (
+            id            INTEGER PRIMARY KEY AUTOINCREMENT,
+            icao          TEXT,
+            iata          TEXT,
+            name          TEXT NOT NULL,
+            type          TEXT NOT NULL,
+            lat           REAL NOT NULL,
+            lon           REAL NOT NULL,
+            elevation_ft  INTEGER,
+            municipality  TEXT,
+            province      TEXT,
+            source        TEXT NOT NULL DEFAULT 'manual',
+            external_id   TEXT,
+            notes         TEXT,
+            created_at    TEXT NOT NULL,
+            updated_at    TEXT NOT NULL
+        )
+    ");
+    $pdo->exec('CREATE UNIQUE INDEX IF NOT EXISTS idx_airports_source_extid ON airports(source, external_id) WHERE external_id IS NOT NULL');
+    $pdo->exec('CREATE INDEX IF NOT EXISTS idx_airports_icao ON airports(icao)');
+    $pdo->exec('CREATE INDEX IF NOT EXISTS idx_airports_province ON airports(province)');
+
+    $pdo->exec("
+        CREATE TABLE IF NOT EXISTS reporting_points (
+            id            INTEGER PRIMARY KEY AUTOINCREMENT,
+            ident         TEXT NOT NULL,
+            type          TEXT NOT NULL,
+            lat           REAL NOT NULL,
+            lon           REAL NOT NULL,
+            frequency     TEXT,
+            region        TEXT,
+            source        TEXT NOT NULL DEFAULT 'manual',
+            external_id   TEXT,
+            notes         TEXT,
+            created_at    TEXT NOT NULL,
+            updated_at    TEXT NOT NULL
+        )
+    ");
+    $pdo->exec('CREATE UNIQUE INDEX IF NOT EXISTS idx_rpt_source_extid ON reporting_points(source, external_id) WHERE external_id IS NOT NULL');
+    $pdo->exec('CREATE INDEX IF NOT EXISTS idx_rpt_ident ON reporting_points(ident)');
+
+    $pdo->exec("
+        CREATE TABLE IF NOT EXISTS airspaces (
+            id            INTEGER PRIMARY KEY AUTOINCREMENT,
+            name          TEXT NOT NULL,
+            type          TEXT NOT NULL,
+            icao_class    TEXT,
+            floor_ft      TEXT,
+            ceiling_ft    TEXT,
+            boundary      TEXT NOT NULL,
+            source        TEXT NOT NULL DEFAULT 'manual',
+            external_id   TEXT,
+            notes         TEXT,
+            created_at    TEXT NOT NULL,
+            updated_at    TEXT NOT NULL
+        )
+    ");
+    $pdo->exec('CREATE UNIQUE INDEX IF NOT EXISTS idx_airspaces_source_extid ON airspaces(source, external_id) WHERE external_id IS NOT NULL');
+
+    $pdo->exec("
+        CREATE TABLE IF NOT EXISTS landmarks (
+            id            INTEGER PRIMARY KEY AUTOINCREMENT,
+            name          TEXT NOT NULL,
+            type          TEXT NOT NULL,
+            lat           REAL NOT NULL,
+            lon           REAL NOT NULL,
+            elevation_m   INTEGER,
+            source        TEXT NOT NULL DEFAULT 'manual',
+            external_id   TEXT,
+            notes         TEXT,
+            created_at    TEXT NOT NULL,
+            updated_at    TEXT NOT NULL
+        )
+    ");
+    $pdo->exec('CREATE UNIQUE INDEX IF NOT EXISTS idx_landmarks_source_extid ON landmarks(source, external_id) WHERE external_id IS NOT NULL');
 }
