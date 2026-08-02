@@ -19,15 +19,25 @@
 |     <400m
 |   - Node "runway_threshold": endpoint way aeroway=runway (mengisi gap yang
 |     dulu belum ada koordinat threshold 07R/25L & 06/24)
+|   - 17 edge tambahan "Inferred connector (auto-bridge, unverified vs
+|     AIP/imagery)": dibuat otomatis dgn cari pasangan node junction/exit/
+|     holding_point terdekat ANTAR komponen graph yang terpisah (jarak
+|     <=200m), utk menyambungkan pulau-pulau taxiway yang di OSM aslinya
+|     tidak nyambung. Garis lurus perkiraan, BUKAN hasil trace jalur taxi
+|     asli - taxiway_name-nya sengaja dikasih label ini supaya gampang
+|     dikenali & diverifikasi/diganti manual nanti.
 |
 | KETERBATASAN YANG DIKETAHUI (bukan bug, tapi batasan sumber data):
 |   - BUKAN data survey AIP resmi - re-verifikasi sebelum dipakai operasional
-|     serius, terutama holding point & runway exit
-|   - Graph belum 100% tersambung: peta OSM WIII punya beberapa "pulau"
-|     taxiway yang belum lengkap terhubung satu sama lain (~41 komponen
-|     terpisah, komponen terbesar 67 node). Routing WORK dalam satu
-|     komponen, tapi gate/holding point di komponen berbeda belum bisa
-|     dicari rutenya sampai dijembatani manual
+|     serius, terutama holding point, runway exit, dan SEMUA edge "Inferred
+|     connector"
+|   - Setelah auto-bridge: graph masih ~24 komponen terpisah (dari awalnya
+|     ~41), komponen terbesar naik jadi 166 dari 267 node. Sisa gap yang
+|     TIDAK dijembatani otomatis berjarak >200m antar node terdekatnya -
+|     sengaja tidak disambung paksa karena di jarak segitu kemungkinan
+|     memang bukan 1 segmen taxiway yang hilang, tapi area yang beda.
+|     Routing antar 2 titik di komponen berbeda akan return "tidak ada
+|     jalur" sampai dijembatani manual
 |   - 13 node terisolasi total tanpa edge sama sekali: 6 runway threshold
 |     (memang disengaja, cuma titik referensi), 6 gate yang jaraknya >400m
 |     dari taxiway terdekat, 1 junction

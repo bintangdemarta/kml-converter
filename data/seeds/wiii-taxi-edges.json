@@ -1783,5 +1783,124 @@
         "taxiway_name": "Apron connector (approx, straight-line)",
         "bidirectional": 1,
         "distance_m": 155.4
+    },
+    {
+        "from_ref": "J108",
+        "to_ref": "J168",
+        "taxiway_name": "Inferred connector (auto-bridge, unverified vs AIP\/imagery)",
+        "bidirectional": 1,
+        "distance_m": 23
+    },
+    {
+        "from_ref": "J89",
+        "to_ref": "J87",
+        "taxiway_name": "Inferred connector (auto-bridge, unverified vs AIP\/imagery)",
+        "bidirectional": 1,
+        "distance_m": 36.7
+    },
+    {
+        "from_ref": "J74",
+        "to_ref": "J112",
+        "taxiway_name": "Inferred connector (auto-bridge, unverified vs AIP\/imagery)",
+        "bidirectional": 1,
+        "distance_m": 41
+    },
+    {
+        "from_ref": "J8",
+        "to_ref": "J130",
+        "taxiway_name": "Inferred connector (auto-bridge, unverified vs AIP\/imagery)",
+        "bidirectional": 1,
+        "distance_m": 45.3
+    },
+    {
+        "from_ref": "J26",
+        "to_ref": "J148",
+        "taxiway_name": "Inferred connector (auto-bridge, unverified vs AIP\/imagery)",
+        "bidirectional": 1,
+        "distance_m": 45.7
+    },
+    {
+        "from_ref": "J2",
+        "to_ref": "J180",
+        "taxiway_name": "Inferred connector (auto-bridge, unverified vs AIP\/imagery)",
+        "bidirectional": 1,
+        "distance_m": 46.1
+    },
+    {
+        "from_ref": "J7",
+        "to_ref": "J55",
+        "taxiway_name": "Inferred connector (auto-bridge, unverified vs AIP\/imagery)",
+        "bidirectional": 1,
+        "distance_m": 47.7
+    },
+    {
+        "from_ref": "J28",
+        "to_ref": "J126",
+        "taxiway_name": "Inferred connector (auto-bridge, unverified vs AIP\/imagery)",
+        "bidirectional": 1,
+        "distance_m": 55
+    },
+    {
+        "from_ref": "J45",
+        "to_ref": "J139",
+        "taxiway_name": "Inferred connector (auto-bridge, unverified vs AIP\/imagery)",
+        "bidirectional": 1,
+        "distance_m": 58.5
+    },
+    {
+        "from_ref": "J82",
+        "to_ref": "J47",
+        "taxiway_name": "Inferred connector (auto-bridge, unverified vs AIP\/imagery)",
+        "bidirectional": 1,
+        "distance_m": 69.4
+    },
+    {
+        "from_ref": "J5",
+        "to_ref": "J141",
+        "taxiway_name": "Inferred connector (auto-bridge, unverified vs AIP\/imagery)",
+        "bidirectional": 1,
+        "distance_m": 98.2
+    },
+    {
+        "from_ref": "J92",
+        "to_ref": "J165",
+        "taxiway_name": "Inferred connector (auto-bridge, unverified vs AIP\/imagery)",
+        "bidirectional": 1,
+        "distance_m": 98.5
+    },
+    {
+        "from_ref": "J38",
+        "to_ref": "J100",
+        "taxiway_name": "Inferred connector (auto-bridge, unverified vs AIP\/imagery)",
+        "bidirectional": 1,
+        "distance_m": 98.8
+    },
+    {
+        "from_ref": "J44",
+        "to_ref": "J87",
+        "taxiway_name": "Inferred connector (auto-bridge, unverified vs AIP\/imagery)",
+        "bidirectional": 1,
+        "distance_m": 104.6
+    },
+    {
+        "from_ref": "J42",
+        "to_ref": "J60",
+        "taxiway_name": "Inferred connector (auto-bridge, unverified vs AIP\/imagery)",
+        "bidirectional": 1,
+        "distance_m": 123.2
+    },
+    {
+        "from_ref": "J41",
+        "to_ref": "J158",
+        "taxiway_name": "Inferred connector (auto-bridge, unverified vs AIP\/imagery)",
+        "bidirectional": 1,
+        "distance_m": 148.1
+    },
+    {
+        "from_ref": "J16",
+        "to_ref": "J143",
+        "taxiway_name": "Inferred connector (auto-bridge, unverified vs AIP\/imagery)",
+        "bidirectional": 1,
+        "distance_m": 162.4
     }
 ]
