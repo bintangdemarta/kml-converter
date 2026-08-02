@@ -1,0 +1,1787 @@
+[
+    {
+        "from_ref": "J4",
+        "to_ref": "J5",
+        "taxiway_name": "NPW",
+        "bidirectional": 1,
+        "distance_m": 694.2
+    },
+    {
+        "from_ref": "J6",
+        "to_ref": "J7",
+        "taxiway_name": "WC1",
+        "bidirectional": 1,
+        "distance_m": 1973.4
+    },
+    {
+        "from_ref": "IHP1",
+        "to_ref": "J8",
+        "taxiway_name": "S7",
+        "bidirectional": 1,
+        "distance_m": 51.4
+    },
+    {
+        "from_ref": "J9",
+        "to_ref": "J10",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 72.4
+    },
+    {
+        "from_ref": "J11",
+        "to_ref": "J12",
+        "taxiway_name": "NC2",
+        "bidirectional": 1,
+        "distance_m": 1543.1
+    },
+    {
+        "from_ref": "J4",
+        "to_ref": "J14",
+        "taxiway_name": "NCZ",
+        "bidirectional": 1,
+        "distance_m": 224.2
+    },
+    {
+        "from_ref": "J17",
+        "to_ref": "J18",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 480.3
+    },
+    {
+        "from_ref": "IHP4",
+        "to_ref": "J20",
+        "taxiway_name": "S3",
+        "bidirectional": 1,
+        "distance_m": 51.5
+    },
+    {
+        "from_ref": "J21",
+        "to_ref": "J19",
+        "taxiway_name": "SCX",
+        "bidirectional": 1,
+        "distance_m": 642.7
+    },
+    {
+        "from_ref": "J22",
+        "to_ref": "J23",
+        "taxiway_name": "N4",
+        "bidirectional": 1,
+        "distance_m": 163.7
+    },
+    {
+        "from_ref": "J23",
+        "to_ref": "J24",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 78.3
+    },
+    {
+        "from_ref": "J26",
+        "to_ref": "IHP22",
+        "taxiway_name": "S4",
+        "bidirectional": 1,
+        "distance_m": 52.9
+    },
+    {
+        "from_ref": "J27",
+        "to_ref": "IHP5",
+        "taxiway_name": "S5",
+        "bidirectional": 1,
+        "distance_m": 54.3
+    },
+    {
+        "from_ref": "IHP8",
+        "to_ref": "J28",
+        "taxiway_name": "S6",
+        "bidirectional": 1,
+        "distance_m": 52.1
+    },
+    {
+        "from_ref": "J8",
+        "to_ref": "J29",
+        "taxiway_name": "WC2",
+        "bidirectional": 1,
+        "distance_m": 1970.2
+    },
+    {
+        "from_ref": "IHP19",
+        "to_ref": "J15",
+        "taxiway_name": "S9",
+        "bidirectional": 1,
+        "distance_m": 98.9
+    },
+    {
+        "from_ref": "J31",
+        "to_ref": "IHP11",
+        "taxiway_name": "NC1",
+        "bidirectional": 1,
+        "distance_m": 116.4
+    },
+    {
+        "from_ref": "J32",
+        "to_ref": "J33",
+        "taxiway_name": "NC3",
+        "bidirectional": 1,
+        "distance_m": 343.2
+    },
+    {
+        "from_ref": "J2",
+        "to_ref": "J34",
+        "taxiway_name": "N5",
+        "bidirectional": 1,
+        "distance_m": 234.2
+    },
+    {
+        "from_ref": "J35",
+        "to_ref": "J36",
+        "taxiway_name": "N6",
+        "bidirectional": 1,
+        "distance_m": 244.3
+    },
+    {
+        "from_ref": "J37",
+        "to_ref": "IHP6",
+        "taxiway_name": "N9",
+        "bidirectional": 1,
+        "distance_m": 143
+    },
+    {
+        "from_ref": "J39",
+        "to_ref": "J37",
+        "taxiway_name": "NP2",
+        "bidirectional": 1,
+        "distance_m": 3549.4
+    },
+    {
+        "from_ref": "J18",
+        "to_ref": "J27",
+        "taxiway_name": "SC5",
+        "bidirectional": 1,
+        "distance_m": 155.4
+    },
+    {
+        "from_ref": "J40",
+        "to_ref": "J21",
+        "taxiway_name": "SCX",
+        "bidirectional": 1,
+        "distance_m": 108.7
+    },
+    {
+        "from_ref": "J19",
+        "to_ref": "J26",
+        "taxiway_name": "SC4",
+        "bidirectional": 1,
+        "distance_m": 321
+    },
+    {
+        "from_ref": "J41",
+        "to_ref": "J42",
+        "taxiway_name": "SP2",
+        "bidirectional": 1,
+        "distance_m": 1811.8
+    },
+    {
+        "from_ref": "J43",
+        "to_ref": "J41",
+        "taxiway_name": "SP2",
+        "bidirectional": 1,
+        "distance_m": 951.7
+    },
+    {
+        "from_ref": "J44",
+        "to_ref": "J43",
+        "taxiway_name": "SP2",
+        "bidirectional": 1,
+        "distance_m": 826.7
+    },
+    {
+        "from_ref": "J28",
+        "to_ref": "J45",
+        "taxiway_name": "SC6",
+        "bidirectional": 1,
+        "distance_m": 409.9
+    },
+    {
+        "from_ref": "J46",
+        "to_ref": "J47",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 149.9
+    },
+    {
+        "from_ref": "J47",
+        "to_ref": "J48",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 73.1
+    },
+    {
+        "from_ref": "J49",
+        "to_ref": "J31",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 70.1
+    },
+    {
+        "from_ref": "J39",
+        "to_ref": "J51",
+        "taxiway_name": "EC2",
+        "bidirectional": 1,
+        "distance_m": 633.6
+    },
+    {
+        "from_ref": "J38",
+        "to_ref": "J52",
+        "taxiway_name": "EC1",
+        "bidirectional": 1,
+        "distance_m": 1155.1
+    },
+    {
+        "from_ref": "J37",
+        "to_ref": "J53",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 94.5
+    },
+    {
+        "from_ref": "J54",
+        "to_ref": "J55",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 76.7
+    },
+    {
+        "from_ref": "J56",
+        "to_ref": "J55",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 75.4
+    },
+    {
+        "from_ref": "J57",
+        "to_ref": "J56",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 76.7
+    },
+    {
+        "from_ref": "J57",
+        "to_ref": "J54",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 77.8
+    },
+    {
+        "from_ref": "J9",
+        "to_ref": "J58",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 72.5
+    },
+    {
+        "from_ref": "J60",
+        "to_ref": "J61",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 91
+    },
+    {
+        "from_ref": "J60",
+        "to_ref": "J62",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 118.6
+    },
+    {
+        "from_ref": "J61",
+        "to_ref": "IHP23",
+        "taxiway_name": "S2",
+        "bidirectional": 1,
+        "distance_m": 94.2
+    },
+    {
+        "from_ref": "IHP23",
+        "to_ref": "J63",
+        "taxiway_name": "S2",
+        "bidirectional": 1,
+        "distance_m": 59.5
+    },
+    {
+        "from_ref": "J64",
+        "to_ref": "J20",
+        "taxiway_name": "SC3",
+        "bidirectional": 1,
+        "distance_m": 61
+    },
+    {
+        "from_ref": "J65",
+        "to_ref": "J66",
+        "taxiway_name": "SPE",
+        "bidirectional": 1,
+        "distance_m": 445.8
+    },
+    {
+        "from_ref": "J51",
+        "to_ref": "J67",
+        "taxiway_name": "EC2",
+        "bidirectional": 1,
+        "distance_m": 676.5
+    },
+    {
+        "from_ref": "J68",
+        "to_ref": "J69",
+        "taxiway_name": "EC1",
+        "bidirectional": 1,
+        "distance_m": 1369.1
+    },
+    {
+        "from_ref": "J70",
+        "to_ref": "J11",
+        "taxiway_name": "NC4",
+        "bidirectional": 1,
+        "distance_m": 252.3
+    },
+    {
+        "from_ref": "J71",
+        "to_ref": "IHP2",
+        "taxiway_name": "M2",
+        "bidirectional": 1,
+        "distance_m": 109.6
+    },
+    {
+        "from_ref": "J72",
+        "to_ref": "IHP14",
+        "taxiway_name": "N8M",
+        "bidirectional": 1,
+        "distance_m": 76.1
+    },
+    {
+        "from_ref": "IHP14",
+        "to_ref": "J73",
+        "taxiway_name": "N8M",
+        "bidirectional": 1,
+        "distance_m": 128.1
+    },
+    {
+        "from_ref": "J74",
+        "to_ref": "IHP7",
+        "taxiway_name": "M7",
+        "bidirectional": 1,
+        "distance_m": 151.7
+    },
+    {
+        "from_ref": "J75",
+        "to_ref": "J36",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 138.3
+    },
+    {
+        "from_ref": "J76",
+        "to_ref": "J77",
+        "taxiway_name": "N4M",
+        "bidirectional": 1,
+        "distance_m": 124.4
+    },
+    {
+        "from_ref": "J78",
+        "to_ref": "J1",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 145.5
+    },
+    {
+        "from_ref": "J79",
+        "to_ref": "IHP15",
+        "taxiway_name": "N7M",
+        "bidirectional": 1,
+        "distance_m": 75.7
+    },
+    {
+        "from_ref": "IHP15",
+        "to_ref": "J74",
+        "taxiway_name": "N7M",
+        "bidirectional": 1,
+        "distance_m": 83.9
+    },
+    {
+        "from_ref": "J80",
+        "to_ref": "IHP18",
+        "taxiway_name": "M1",
+        "bidirectional": 1,
+        "distance_m": 180.1
+    },
+    {
+        "from_ref": "J31",
+        "to_ref": "J39",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 74
+    },
+    {
+        "from_ref": "IHP9",
+        "to_ref": "J73",
+        "taxiway_name": "M8",
+        "bidirectional": 1,
+        "distance_m": 112.9
+    },
+    {
+        "from_ref": "J67",
+        "to_ref": "J81",
+        "taxiway_name": "EC2",
+        "bidirectional": 1,
+        "distance_m": 163.8
+    },
+    {
+        "from_ref": "J52",
+        "to_ref": "J68",
+        "taxiway_name": "EC1",
+        "bidirectional": 1,
+        "distance_m": 165.2
+    },
+    {
+        "from_ref": "J83",
+        "to_ref": "J84",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 78.6
+    },
+    {
+        "from_ref": "J86",
+        "to_ref": "J87",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 124.6
+    },
+    {
+        "from_ref": "J87",
+        "to_ref": "J86",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 120.6
+    },
+    {
+        "from_ref": "J89",
+        "to_ref": "IHP21",
+        "taxiway_name": "S8",
+        "bidirectional": 1,
+        "distance_m": 101.5
+    },
+    {
+        "from_ref": "IHP21",
+        "to_ref": "J90",
+        "taxiway_name": "S8",
+        "bidirectional": 1,
+        "distance_m": 55.3
+    },
+    {
+        "from_ref": "J91",
+        "to_ref": "J92",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 76.3
+    },
+    {
+        "from_ref": "J92",
+        "to_ref": "J93",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 74.4
+    },
+    {
+        "from_ref": "J35",
+        "to_ref": "J95",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 74.9
+    },
+    {
+        "from_ref": "J96",
+        "to_ref": "J35",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 75.5
+    },
+    {
+        "from_ref": "J12",
+        "to_ref": "J97",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 150.4
+    },
+    {
+        "from_ref": "J97",
+        "to_ref": "J99",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 73.6
+    },
+    {
+        "from_ref": "J100",
+        "to_ref": "J97",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 75.6
+    },
+    {
+        "from_ref": "J101",
+        "to_ref": "J102",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 146.1
+    },
+    {
+        "from_ref": "J103",
+        "to_ref": "J101",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 70.9
+    },
+    {
+        "from_ref": "J104",
+        "to_ref": "IHP13",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 71.3
+    },
+    {
+        "from_ref": "IHP13",
+        "to_ref": "J106",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 72.4
+    },
+    {
+        "from_ref": "J23",
+        "to_ref": "J107",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 75.4
+    },
+    {
+        "from_ref": "J108",
+        "to_ref": "J107",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 75.1
+    },
+    {
+        "from_ref": "J34",
+        "to_ref": "J77",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 112.6
+    },
+    {
+        "from_ref": "J111",
+        "to_ref": "J112",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 66.8
+    },
+    {
+        "from_ref": "J113",
+        "to_ref": "J114",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 64.6
+    },
+    {
+        "from_ref": "J116",
+        "to_ref": "J117",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 158.4
+    },
+    {
+        "from_ref": "J117",
+        "to_ref": "J118",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 78.9
+    },
+    {
+        "from_ref": "J122",
+        "to_ref": "J119",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 544.7
+    },
+    {
+        "from_ref": "IHP8",
+        "to_ref": "J124",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 69.2
+    },
+    {
+        "from_ref": "J125",
+        "to_ref": "J124",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 144.4
+    },
+    {
+        "from_ref": "J126",
+        "to_ref": "J127",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 70.8
+    },
+    {
+        "from_ref": "J128",
+        "to_ref": "J127",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 70.2
+    },
+    {
+        "from_ref": "J128",
+        "to_ref": "J129",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 68.9
+    },
+    {
+        "from_ref": "J6",
+        "to_ref": "J132",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 68.4
+    },
+    {
+        "from_ref": "J133",
+        "to_ref": "J132",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 69.2
+    },
+    {
+        "from_ref": "J134",
+        "to_ref": "J135",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 71.1
+    },
+    {
+        "from_ref": "J136",
+        "to_ref": "J130",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 67.1
+    },
+    {
+        "from_ref": "J143",
+        "to_ref": "J144",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 68.6
+    },
+    {
+        "from_ref": "J145",
+        "to_ref": "J143",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 70
+    },
+    {
+        "from_ref": "J144",
+        "to_ref": "J142",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 69.5
+    },
+    {
+        "from_ref": "J59",
+        "to_ref": "J69",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 72.8
+    },
+    {
+        "from_ref": "IHP3",
+        "to_ref": "J69",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 76.5
+    },
+    {
+        "from_ref": "J147",
+        "to_ref": "J148",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 70.7
+    },
+    {
+        "from_ref": "J147",
+        "to_ref": "J149",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 143.7
+    },
+    {
+        "from_ref": "J148",
+        "to_ref": "J151",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 73.9
+    },
+    {
+        "from_ref": "J152",
+        "to_ref": "J151",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 72.3
+    },
+    {
+        "from_ref": "J148",
+        "to_ref": "J153",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 74.8
+    },
+    {
+        "from_ref": "J154",
+        "to_ref": "J21",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 72.7
+    },
+    {
+        "from_ref": "J156",
+        "to_ref": "J21",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 74.5
+    },
+    {
+        "from_ref": "J154",
+        "to_ref": "J156",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 142.3
+    },
+    {
+        "from_ref": "J41",
+        "to_ref": "J40",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 71.1
+    },
+    {
+        "from_ref": "IHP5",
+        "to_ref": "J158",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 70.6
+    },
+    {
+        "from_ref": "J159",
+        "to_ref": "J158",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 70.2
+    },
+    {
+        "from_ref": "J160",
+        "to_ref": "J159",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 71.6
+    },
+    {
+        "from_ref": "J159",
+        "to_ref": "J162",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 75.3
+    },
+    {
+        "from_ref": "J18",
+        "to_ref": "J164",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 72
+    },
+    {
+        "from_ref": "J167",
+        "to_ref": "J168",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 65.2
+    },
+    {
+        "from_ref": "J14",
+        "to_ref": "J169",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 68.8
+    },
+    {
+        "from_ref": "J170",
+        "to_ref": "J14",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 68.1
+    },
+    {
+        "from_ref": "J117",
+        "to_ref": "J170",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 67.4
+    },
+    {
+        "from_ref": "J169",
+        "to_ref": "J117",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 67.8
+    },
+    {
+        "from_ref": "J51",
+        "to_ref": "J82",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 72.8
+    },
+    {
+        "from_ref": "J172",
+        "to_ref": "J82",
+        "taxiway_name": "NPE",
+        "bidirectional": 1,
+        "distance_m": 328.1
+    },
+    {
+        "from_ref": "J130",
+        "to_ref": "J135",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 69.6
+    },
+    {
+        "from_ref": "J136",
+        "to_ref": "J134",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 68.7
+    },
+    {
+        "from_ref": "J6",
+        "to_ref": "J135",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 70.5
+    },
+    {
+        "from_ref": "J135",
+        "to_ref": "J133",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 71.2
+    },
+    {
+        "from_ref": "J138",
+        "to_ref": "J142",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 70.7
+    },
+    {
+        "from_ref": "J142",
+        "to_ref": "J145",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 70.5
+    },
+    {
+        "from_ref": "J129",
+        "to_ref": "J126",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 68.8
+    },
+    {
+        "from_ref": "IHP8",
+        "to_ref": "J125",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 71.3
+    },
+    {
+        "from_ref": "J164",
+        "to_ref": "J159",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 70.4
+    },
+    {
+        "from_ref": "J162",
+        "to_ref": "J18",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 73.7
+    },
+    {
+        "from_ref": "IHP5",
+        "to_ref": "J160",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 71.4
+    },
+    {
+        "from_ref": "J153",
+        "to_ref": "J152",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 73.1
+    },
+    {
+        "from_ref": "J149",
+        "to_ref": "J148",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 71.1
+    },
+    {
+        "from_ref": "J20",
+        "to_ref": "J174",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 94.1
+    },
+    {
+        "from_ref": "J20",
+        "to_ref": "J175",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 95.1
+    },
+    {
+        "from_ref": "J176",
+        "to_ref": "J174",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 59.5
+    },
+    {
+        "from_ref": "J176",
+        "to_ref": "J175",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 60.5
+    },
+    {
+        "from_ref": "J61",
+        "to_ref": "J62",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 91.6
+    },
+    {
+        "from_ref": "J84",
+        "to_ref": "J85",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 76.9
+    },
+    {
+        "from_ref": "J65",
+        "to_ref": "J83",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 74.8
+    },
+    {
+        "from_ref": "J48",
+        "to_ref": "J46",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 77.7
+    },
+    {
+        "from_ref": "J177",
+        "to_ref": "J100",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 79
+    },
+    {
+        "from_ref": "J99",
+        "to_ref": "J177",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 78.1
+    },
+    {
+        "from_ref": "J102",
+        "to_ref": "J103",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 73.9
+    },
+    {
+        "from_ref": "J101",
+        "to_ref": "J104",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 74.2
+    },
+    {
+        "from_ref": "J106",
+        "to_ref": "J101",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 75.2
+    },
+    {
+        "from_ref": "J168",
+        "to_ref": "J179",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 50.7
+    },
+    {
+        "from_ref": "J24",
+        "to_ref": "J108",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 67.8
+    },
+    {
+        "from_ref": "J93",
+        "to_ref": "J180",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 71.4
+    },
+    {
+        "from_ref": "J180",
+        "to_ref": "J91",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 74.2
+    },
+    {
+        "from_ref": "J181",
+        "to_ref": "J96",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 76.4
+    },
+    {
+        "from_ref": "J95",
+        "to_ref": "J181",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 75.7
+    },
+    {
+        "from_ref": "J114",
+        "to_ref": "J111",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 68
+    },
+    {
+        "from_ref": "J112",
+        "to_ref": "J113",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 62.7
+    },
+    {
+        "from_ref": "J10",
+        "to_ref": "J57",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 68
+    },
+    {
+        "from_ref": "J118",
+        "to_ref": "J116",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 80
+    },
+    {
+        "from_ref": "J12",
+        "to_ref": "IHP10",
+        "taxiway_name": "N2",
+        "bidirectional": 1,
+        "distance_m": 40.2
+    },
+    {
+        "from_ref": "J23",
+        "to_ref": "J70",
+        "taxiway_name": "NC4",
+        "bidirectional": 1,
+        "distance_m": 151.5
+    },
+    {
+        "from_ref": "J13",
+        "to_ref": "J35",
+        "taxiway_name": "NC6",
+        "bidirectional": 1,
+        "distance_m": 158.2
+    },
+    {
+        "from_ref": "J94",
+        "to_ref": "J3",
+        "taxiway_name": "NCY",
+        "bidirectional": 1,
+        "distance_m": 57.2
+    },
+    {
+        "from_ref": "J14",
+        "to_ref": "J115",
+        "taxiway_name": "NC7",
+        "bidirectional": 1,
+        "distance_m": 145.5
+    },
+    {
+        "from_ref": "J66",
+        "to_ref": "J172",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 238.7
+    },
+    {
+        "from_ref": "J109",
+        "to_ref": "IHP17",
+        "taxiway_name": "N3M",
+        "bidirectional": 1,
+        "distance_m": 38.9
+    },
+    {
+        "from_ref": "IHP17",
+        "to_ref": "J78",
+        "taxiway_name": "N3M",
+        "bidirectional": 1,
+        "distance_m": 69.6
+    },
+    {
+        "from_ref": "J110",
+        "to_ref": "IHP16",
+        "taxiway_name": "N6M",
+        "bidirectional": 1,
+        "distance_m": 36.4
+    },
+    {
+        "from_ref": "IHP16",
+        "to_ref": "J75",
+        "taxiway_name": "N6M",
+        "bidirectional": 1,
+        "distance_m": 74.1
+    },
+    {
+        "from_ref": "J38",
+        "to_ref": "J31",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 68.7
+    },
+    {
+        "from_ref": "J77",
+        "to_ref": "J22",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 101.8
+    },
+    {
+        "from_ref": "J33",
+        "to_ref": "IHP13",
+        "taxiway_name": "N3",
+        "bidirectional": 1,
+        "distance_m": 57.9
+    },
+    {
+        "from_ref": "IHP13",
+        "to_ref": "J1",
+        "taxiway_name": "N3",
+        "bidirectional": 1,
+        "distance_m": 144.2
+    },
+    {
+        "from_ref": "J58",
+        "to_ref": "J57",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 69.4
+    },
+    {
+        "from_ref": "J17",
+        "to_ref": "J45",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 58.5
+    },
+    {
+        "from_ref": "J43",
+        "to_ref": "J6",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 68.5
+    },
+    {
+        "from_ref": "J120",
+        "to_ref": "J121",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 103.2
+    },
+    {
+        "from_ref": "J119",
+        "to_ref": "J120",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 53.3
+    },
+    {
+        "from_ref": "J44",
+        "to_ref": "J15",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 101.1
+    },
+    {
+        "from_ref": "IHP19",
+        "to_ref": "J44",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 91.5
+    },
+    {
+        "from_ref": "J88",
+        "to_ref": "J89",
+        "taxiway_name": "SC8",
+        "bidirectional": 1,
+        "distance_m": 55.6
+    },
+    {
+        "from_ref": "J59",
+        "to_ref": "J42",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 72.1
+    },
+    {
+        "from_ref": "J69",
+        "to_ref": "J42",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 101
+    },
+    {
+        "from_ref": "J59",
+        "to_ref": "IHP3",
+        "taxiway_name": null,
+        "bidirectional": 1,
+        "distance_m": 91.3
+    },
+    {
+        "from_ref": "GATE-F1",
+        "to_ref": "J3",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 348.7
+    },
+    {
+        "from_ref": "GATE-F2",
+        "to_ref": "J3",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 351.1
+    },
+    {
+        "from_ref": "GATE-F3",
+        "to_ref": "J165",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 337.4
+    },
+    {
+        "from_ref": "GATE-F4",
+        "to_ref": "J165",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 329.8
+    },
+    {
+        "from_ref": "GATE-F5",
+        "to_ref": "J165",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 391.9
+    },
+    {
+        "from_ref": "GATE-E1",
+        "to_ref": "J13",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 256.5
+    },
+    {
+        "from_ref": "GATE-E2",
+        "to_ref": "J13",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 201.1
+    },
+    {
+        "from_ref": "GATE-E3",
+        "to_ref": "J13",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 172.1
+    },
+    {
+        "from_ref": "GATE-E4",
+        "to_ref": "J13",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 181.8
+    },
+    {
+        "from_ref": "GATE-E5",
+        "to_ref": "J3",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 174.7
+    },
+    {
+        "from_ref": "GATE-E6",
+        "to_ref": "J3",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 205.7
+    },
+    {
+        "from_ref": "GATE-E7",
+        "to_ref": "J3",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 258.5
+    },
+    {
+        "from_ref": "GATE-D1",
+        "to_ref": "J4",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 292.7
+    },
+    {
+        "from_ref": "GATE-D2",
+        "to_ref": "J4",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 234.8
+    },
+    {
+        "from_ref": "GATE-D3",
+        "to_ref": "J4",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 189.5
+    },
+    {
+        "from_ref": "GATE-D4",
+        "to_ref": "J4",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 145.3
+    },
+    {
+        "from_ref": "GATE-D5",
+        "to_ref": "J4",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 192.8
+    },
+    {
+        "from_ref": "GATE-D6",
+        "to_ref": "J4",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 238.5
+    },
+    {
+        "from_ref": "GATE-D7",
+        "to_ref": "J4",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 297.3
+    },
+    {
+        "from_ref": "GATE-A2",
+        "to_ref": "J19",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 365.6
+    },
+    {
+        "from_ref": "GATE-A3",
+        "to_ref": "J19",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 318.4
+    },
+    {
+        "from_ref": "GATE-A4",
+        "to_ref": "J19",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 259.6
+    },
+    {
+        "from_ref": "GATE-A5",
+        "to_ref": "J19",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 273.5
+    },
+    {
+        "from_ref": "GATE-A6",
+        "to_ref": "J19",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 310.5
+    },
+    {
+        "from_ref": "GATE-A7",
+        "to_ref": "J19",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 366.2
+    },
+    {
+        "from_ref": "GATE-B1",
+        "to_ref": "J21",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 242.2
+    },
+    {
+        "from_ref": "GATE-B2",
+        "to_ref": "J21",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 188.4
+    },
+    {
+        "from_ref": "GATE-B3",
+        "to_ref": "J21",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 154.5
+    },
+    {
+        "from_ref": "GATE-B4",
+        "to_ref": "J21",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 160.3
+    },
+    {
+        "from_ref": "GATE-B5",
+        "to_ref": "J18",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 155.9
+    },
+    {
+        "from_ref": "GATE-B6",
+        "to_ref": "J18",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 188.2
+    },
+    {
+        "from_ref": "GATE-B7",
+        "to_ref": "J18",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 241.8
+    },
+    {
+        "from_ref": "GATE-C1",
+        "to_ref": "J17",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 221.6
+    },
+    {
+        "from_ref": "GATE-C2",
+        "to_ref": "J17",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 168.1
+    },
+    {
+        "from_ref": "GATE-C3",
+        "to_ref": "J17",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 137.8
+    },
+    {
+        "from_ref": "GATE-C4",
+        "to_ref": "J45",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 139.9
+    },
+    {
+        "from_ref": "GATE-C5",
+        "to_ref": "J139",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 199.8
+    },
+    {
+        "from_ref": "GATE-C6",
+        "to_ref": "J16",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 210.1
+    },
+    {
+        "from_ref": "GATE-C7",
+        "to_ref": "J16",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 235
+    },
+    {
+        "from_ref": "GATE-10",
+        "to_ref": "J32",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 240.3
+    },
+    {
+        "from_ref": "GATE-9",
+        "to_ref": "J32",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 241.2
+    },
+    {
+        "from_ref": "GATE-8",
+        "to_ref": "J32",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 273.2
+    },
+    {
+        "from_ref": "GATE-13",
+        "to_ref": "J32",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 380.7
+    },
+    {
+        "from_ref": "GATE-12",
+        "to_ref": "J32",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 317.3
+    },
+    {
+        "from_ref": "GATE-11",
+        "to_ref": "J32",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 266.1
+    },
+    {
+        "from_ref": "GATE-7",
+        "to_ref": "J11",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 322.5
+    },
+    {
+        "from_ref": "GATE-6",
+        "to_ref": "J11",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 267.5
+    },
+    {
+        "from_ref": "GATE-5",
+        "to_ref": "J11",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 231
+    },
+    {
+        "from_ref": "GATE-4",
+        "to_ref": "J11",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 183.2
+    },
+    {
+        "from_ref": "GATE-3",
+        "to_ref": "J11",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 157.3
+    },
+    {
+        "from_ref": "GATE-2",
+        "to_ref": "J11",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 139.6
+    },
+    {
+        "from_ref": "GATE-1",
+        "to_ref": "J11",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 132.9
+    },
+    {
+        "from_ref": "GATE-27",
+        "to_ref": "J172",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 132.7
+    },
+    {
+        "from_ref": "GATE-25",
+        "to_ref": "J172",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 130.2
+    },
+    {
+        "from_ref": "GATE-23",
+        "to_ref": "J172",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 143.1
+    },
+    {
+        "from_ref": "GATE-21",
+        "to_ref": "J172",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 166.7
+    },
+    {
+        "from_ref": "GATE-20",
+        "to_ref": "J66",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 156.1
+    },
+    {
+        "from_ref": "GATE-19",
+        "to_ref": "J66",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 136
+    },
+    {
+        "from_ref": "GATE-18",
+        "to_ref": "J66",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 126.6
+    },
+    {
+        "from_ref": "GATE-24",
+        "to_ref": "J172",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 167.5
+    },
+    {
+        "from_ref": "GATE-26",
+        "to_ref": "J172",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 167
+    },
+    {
+        "from_ref": "GATE-22",
+        "to_ref": "J172",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 181
+    },
+    {
+        "from_ref": "GATE-28",
+        "to_ref": "J172",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 175.9
+    },
+    {
+        "from_ref": "GATE-17",
+        "to_ref": "J66",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 306.8
+    },
+    {
+        "from_ref": "GATE-16",
+        "to_ref": "J66",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 385.7
+    },
+    {
+        "from_ref": "GATE-2C",
+        "to_ref": "J11",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 378.8
+    },
+    {
+        "from_ref": "GATE-2B",
+        "to_ref": "J11",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 328.3
+    },
+    {
+        "from_ref": "GATE-2A",
+        "to_ref": "J11",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 287.5
+    },
+    {
+        "from_ref": "GATE-1D",
+        "to_ref": "J11",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 257.6
+    },
+    {
+        "from_ref": "GATE-1C",
+        "to_ref": "J165",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 236.3
+    },
+    {
+        "from_ref": "GATE-1B",
+        "to_ref": "J165",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 182.8
+    },
+    {
+        "from_ref": "GATE-1A",
+        "to_ref": "J165",
+        "taxiway_name": "Apron connector (approx, straight-line)",
+        "bidirectional": 1,
+        "distance_m": 155.4
+    }
+]

@@ -1,0 +1,1871 @@
+{
+    "THR-07L": {
+        "name": "Runway Threshold 07L",
+        "type": "runway_threshold",
+        "lat": -6.1209858,
+        "lon": 106.6388829,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (runway way id 28141931)"
+    },
+    "THR-25R": {
+        "name": "Runway Threshold 25R",
+        "type": "runway_threshold",
+        "lat": -6.1089588,
+        "lon": 106.6690617,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (runway way id 28141931)"
+    },
+    "THR-07R": {
+        "name": "Runway Threshold 07R",
+        "type": "runway_threshold",
+        "lat": -6.1425269,
+        "lon": 106.6436997,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (runway way id 28142088)"
+    },
+    "THR-25L": {
+        "name": "Runway Threshold 25L",
+        "type": "runway_threshold",
+        "lat": -6.1302809,
+        "lon": 106.6743844,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (runway way id 28142088)"
+    },
+    "THR-06": {
+        "name": "Runway Threshold 06",
+        "type": "runway_threshold",
+        "lat": -6.1138634,
+        "lon": 106.6446203,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (runway way id 724617239)"
+    },
+    "THR-24": {
+        "name": "Runway Threshold 24",
+        "type": "runway_threshold",
+        "lat": -6.1038368,
+        "lon": 106.6697436,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (runway way id 724617239)"
+    },
+    "IHP1": {
+        "name": "Holding Point IHP1 (near RWY 07R\/25L)",
+        "type": "holding_point",
+        "lat": -6.1385572,
+        "lon": 106.6500011,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 309104467, holding_position:type=runway)"
+    },
+    "IHP2": {
+        "name": "Holding Point IHP2 (near RWY 06\/24)",
+        "type": "holding_point",
+        "lat": -6.1066305,
+        "lon": 106.6663751,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6994196214, holding_position:type=runway)"
+    },
+    "IHP3": {
+        "name": "Holding Point IHP3 (near RWY 07R\/25L)",
+        "type": "holding_point",
+        "lat": -6.1289761,
+        "lon": 106.674072,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 8359463778, holding_position:type=runway)"
+    },
+    "IHP4": {
+        "name": "Holding Point IHP4 (near RWY 07R\/25L)",
+        "type": "holding_point",
+        "lat": -6.1317679,
+        "lon": 106.6670186,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 8359463793, holding_position:type=runway)"
+    },
+    "IHP5": {
+        "name": "Holding Point IHP5 (near RWY 07R\/25L)",
+        "type": "holding_point",
+        "lat": -6.1358527,
+        "lon": 106.6568513,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 8359463985, holding_position:type=runway)"
+    },
+    "IHP6": {
+        "name": "Holding Point IHP6 (near RWY 07L\/25R)",
+        "type": "holding_point",
+        "lat": -6.1219393,
+        "lon": 106.638831,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 8359554539, holding_position:type=runway)"
+    },
+    "IHP7": {
+        "name": "Holding Point IHP7 (near RWY 06\/24)",
+        "type": "holding_point",
+        "lat": -6.1143136,
+        "lon": 106.6470916,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 8359682688, holding_position:type=runway)"
+    },
+    "IHP8": {
+        "name": "Holding Point IHP8 (near RWY 07R\/25L)",
+        "type": "holding_point",
+        "lat": -6.1371783,
+        "lon": 106.653479,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 10259002622, holding_position:type=runway)"
+    },
+    "IHP9": {
+        "name": "Holding Point IHP9 (near RWY 06\/24)",
+        "type": "holding_point",
+        "lat": -6.1154261,
+        "lon": 106.6441966,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 10267041859, holding_position:type=runway)"
+    },
+    "IHP10": {
+        "name": "Holding Point IHP10 (near RWY 07L\/25R)",
+        "type": "holding_point",
+        "lat": -6.1104895,
+        "lon": 106.6679684,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 13204190222, holding_position:type=runway)"
+    },
+    "IHP11": {
+        "name": "Holding Point IHP11 (near RWY 07L\/25R)",
+        "type": "holding_point",
+        "lat": -6.1100648,
+        "lon": 106.6697462,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 13204190223, holding_position:type=runway)"
+    },
+    "IHP13": {
+        "name": "Holding Point IHP13 (near RWY 07L\/25R)",
+        "type": "holding_point",
+        "lat": -6.1128874,
+        "lon": 106.6626556,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 13204190227, holding_position:type=?)"
+    },
+    "IHP14": {
+        "name": "Holding Point IHP14 (near RWY 07L\/25R)",
+        "type": "holding_point",
+        "lat": -6.1174663,
+        "lon": 106.6448646,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 13204190228, holding_position:type=runway)"
+    },
+    "IHP15": {
+        "name": "Holding Point IHP15 (near RWY 07L\/25R)",
+        "type": "holding_point",
+        "lat": -6.116308,
+        "lon": 106.6477537,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 13204190229, holding_position:type=runway)"
+    },
+    "IHP16": {
+        "name": "Holding Point IHP16 (near RWY 07L\/25R)",
+        "type": "holding_point",
+        "lat": -6.1148785,
+        "lon": 106.6513448,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 13204190230, holding_position:type=runway)"
+    },
+    "IHP17": {
+        "name": "Holding Point IHP17 (near RWY 07L\/25R)",
+        "type": "holding_point",
+        "lat": -6.1113943,
+        "lon": 106.6600999,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 13204190232, holding_position:type=runway)"
+    },
+    "IHP18": {
+        "name": "Holding Point IHP18 (near RWY 06\/24)",
+        "type": "holding_point",
+        "lat": -6.1050915,
+        "lon": 106.6701143,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 13204190233, holding_position:type=runway)"
+    },
+    "IHP19": {
+        "name": "Holding Point IHP19 (near RWY 07R\/25L)",
+        "type": "holding_point",
+        "lat": -6.1413735,
+        "lon": 106.6429648,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 13204190272, holding_position:type=runway)"
+    },
+    "IHP21": {
+        "name": "Holding Point IHP21 (near RWY 07R\/25L)",
+        "type": "holding_point",
+        "lat": -6.1410825,
+        "lon": 106.6448878,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 13204190274, holding_position:type=runway)"
+    },
+    "IHP22": {
+        "name": "Holding Point IHP22 (near RWY 07R\/25L)",
+        "type": "holding_point",
+        "lat": -6.1333886,
+        "lon": 106.6630043,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 13204190275, holding_position:type=runway)"
+    },
+    "IHP23": {
+        "name": "Holding Point IHP23 (near RWY 07R\/25L)",
+        "type": "holding_point",
+        "lat": -6.1300225,
+        "lon": 106.6724416,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 13204190276, holding_position:type=runway)"
+    },
+    "J1": {
+        "name": "Junction way28141981\/way680828759\/N3",
+        "type": "junction",
+        "lat": -6.1125419,
+        "lon": 106.6614397,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 309103188; taxiways: way28141981,way680828759,N3)"
+    },
+    "J2": {
+        "name": "Junction NC5\/N5",
+        "type": "junction",
+        "lat": -6.1162715,
+        "lon": 106.655577,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 10266973631; taxiways: NC5,N5)"
+    },
+    "J3": {
+        "name": "Junction NCY",
+        "type": "junction",
+        "lat": -6.1185648,
+        "lon": 106.6524503,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 10269103699; taxiways: NCY)"
+    },
+    "J4": {
+        "name": "Junction NPW\/NCZ",
+        "type": "junction",
+        "lat": -6.1229615,
+        "lon": 106.647709,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 309103474; taxiways: NPW,NCZ)"
+    },
+    "J5": {
+        "name": "Junction NPW\/way899708255\/way899708256",
+        "type": "junction",
+        "lat": -6.1272979,
+        "lon": 106.6459894,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 8359463656; taxiways: NPW,way899708255,way899708256)"
+    },
+    "J6": {
+        "name": "Junction WC1\/way899146212\/way1436606632",
+        "type": "junction",
+        "lat": -6.1374026,
+        "lon": 106.6505165,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 3011792475; taxiways: WC1,way899146212,way1436606632)"
+    },
+    "J7": {
+        "name": "Junction WC1\/N8",
+        "type": "junction",
+        "lat": -6.1209025,
+        "lon": 106.6439453,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 309103587; taxiways: WC1,N8)"
+    },
+    "J8": {
+        "name": "Junction S7\/WC2",
+        "type": "junction",
+        "lat": -6.1381268,
+        "lon": 106.6498324,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 309103740; taxiways: S7,WC2)"
+    },
+    "J9": {
+        "name": "Junction way28142040\/way543011431",
+        "type": "junction",
+        "lat": -6.1221542,
+        "lon": 106.6444423,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 3316133479; taxiways: way28142040,way543011431)"
+    },
+    "J10": {
+        "name": "Junction way28142040\/way1122696120",
+        "type": "junction",
+        "lat": -6.1215962,
+        "lon": 106.6446602,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 3316133473; taxiways: way28142040,way1122696120)"
+    },
+    "J11": {
+        "name": "Junction NC2\/NC4",
+        "type": "junction",
+        "lat": -6.1178657,
+        "lon": 106.6601431,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 3986695110; taxiways: NC2,NC4)"
+    },
+    "J12": {
+        "name": "Junction NC2\/way747840855\/N2",
+        "type": "junction",
+        "lat": -6.1108259,
+        "lon": 106.6681004,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6996767888; taxiways: NC2,way747840855,N2)"
+    },
+    "J13": {
+        "name": "Junction NC6",
+        "type": "junction",
+        "lat": -6.1194865,
+        "lon": 106.6501859,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 10268567833; taxiways: NC6)"
+    },
+    "J14": {
+        "name": "Junction NCZ\/way899728905\/way899728906\/NC7",
+        "type": "junction",
+        "lat": -6.1210659,
+        "lon": 106.6470605,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 8359624827; taxiways: NCZ,way899728905,way899728906,NC7)"
+    },
+    "J15": {
+        "name": "Junction SP1\/S9\/way1436606636",
+        "type": "junction",
+        "lat": -6.1405647,
+        "lon": 106.6425925,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6994180862; taxiways: SP1,S9,way1436606636)"
+    },
+    "J16": {
+        "name": "Junction way28142105\/SPW",
+        "type": "junction",
+        "lat": -6.1309128,
+        "lon": 106.6499504,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 5011224801; taxiways: way28142105,SPW)"
+    },
+    "J17": {
+        "name": "Junction way28142109\/way28142111\/way1436606631",
+        "type": "junction",
+        "lat": -6.1333977,
+        "lon": 106.6524008,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 309104849; taxiways: way28142109,way28142111,way1436606631)"
+    },
+    "J18": {
+        "name": "Junction way28142111\/way28142193\/SC5",
+        "type": "junction",
+        "lat": -6.1340985,
+        "lon": 106.6561538,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 309105172; taxiways: way28142111,way28142193,SC5)"
+    },
+    "J19": {
+        "name": "Junction SC4\/SCX",
+        "type": "junction",
+        "lat": -6.1302598,
+        "lon": 106.6617648,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 309105167; taxiways: SC4,SCX)"
+    },
+    "J20": {
+        "name": "Junction S3\/SC3\/way1121896607\/way1121896608",
+        "type": "junction",
+        "lat": -6.131338,
+        "lon": 106.6668461,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 5615495400; taxiways: S3,SC3,way1121896607,way1121896608)"
+    },
+    "J21": {
+        "name": "Junction SCX\/way1120960521",
+        "type": "junction",
+        "lat": -6.1333045,
+        "lon": 106.6581649,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 309105160; taxiways: SCX,way1120960521)"
+    },
+    "J22": {
+        "name": "Junction N4\/way1272470067\/way1436606621",
+        "type": "junction",
+        "lat": -6.1141449,
+        "lon": 106.6572867,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 2938654214; taxiways: N4,way1272470067,way1436606621)"
+    },
+    "J23": {
+        "name": "Junction N4\/way290309970\/way747840863\/NC4",
+        "type": "junction",
+        "lat": -6.1145595,
+        "lon": 106.6586409,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 2938654217; taxiways: N4,way290309970,way747840863,NC4)"
+    },
+    "J24": {
+        "name": "Junction way290309970\/way1122570255",
+        "type": "junction",
+        "lat": -6.1148172,
+        "lon": 106.6592286,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 2938654220; taxiways: way290309970,way1122570255)"
+    },
+    "J26": {
+        "name": "Junction S4\/SC4",
+        "type": "junction",
+        "lat": -6.1329446,
+        "lon": 106.6628324,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 309105043; taxiways: S4,SC4)"
+    },
+    "J27": {
+        "name": "Junction S5\/SC5",
+        "type": "junction",
+        "lat": -6.1353981,
+        "lon": 106.6566713,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 309104864; taxiways: S5,SC5)"
+    },
+    "J28": {
+        "name": "Junction S6\/SC6",
+        "type": "junction",
+        "lat": -6.1367427,
+        "lon": 106.6533045,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 309104621; taxiways: S6,SC6)"
+    },
+    "J29": {
+        "name": "Junction WC2\/way543011424\/way543011425",
+        "type": "junction",
+        "lat": -6.1216527,
+        "lon": 106.6432713,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 5249634177; taxiways: WC2,way543011424,way543011425)"
+    },
+    "J31": {
+        "name": "Junction NC1\/way543006565\/way1436606620",
+        "type": "junction",
+        "lat": -6.1110398,
+        "lon": 106.6701279,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 309103797; taxiways: NC1,way543006565,way1436606620)"
+    },
+    "J32": {
+        "name": "Junction NC3\/way899736796\/way1122568991",
+        "type": "junction",
+        "lat": -6.1162382,
+        "lon": 106.663998,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 8359696993; taxiways: NC3,way899736796,way1122568991)"
+    },
+    "J33": {
+        "name": "Junction NC3\/N3",
+        "type": "junction",
+        "lat": -6.11337,
+        "lon": 106.6628523,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 309103184; taxiways: NC3,N3)"
+    },
+    "J34": {
+        "name": "Junction N5\/way747840888\/way1436606622",
+        "type": "junction",
+        "lat": -6.1144967,
+        "lon": 106.6562319,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 309103264; taxiways: N5,way747840888,way1436606622)"
+    },
+    "J35": {
+        "name": "Junction N6\/way747840853\/way747840854\/NC6",
+        "type": "junction",
+        "lat": -6.1181631,
+        "lon": 106.6496598,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 309104061; taxiways: N6,way747840853,way747840854,NC6)"
+    },
+    "J36": {
+        "name": "Runway Exit near 07L\/25R (J36)",
+        "type": "runway_exit",
+        "lat": -6.1164322,
+        "lon": 106.6508582,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 309104067; taxiways: N6,way680828757,way1436606624) [reclassified runway_exit, 22.614017704458m from RWY 07L\/25R centerline]"
+    },
+    "J37": {
+        "name": "Junction N9\/NP2\/way543011418",
+        "type": "junction",
+        "lat": -6.1225771,
+        "lon": 106.6397679,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 309103163; taxiways: N9,NP2,way543011418)"
+    },
+    "J38": {
+        "name": "Junction NP1\/EC1\/way1436606620",
+        "type": "junction",
+        "lat": -6.1115472,
+        "lon": 106.6698619,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 309103793; taxiways: NP1,EC1,way1436606620)"
+    },
+    "J39": {
+        "name": "Junction NP2\/EC2\/way715638848",
+        "type": "junction",
+        "lat": -6.1106967,
+        "lon": 106.6695652,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6996767814; taxiways: NP2,EC2,way715638848)"
+    },
+    "J40": {
+        "name": "Junction SCX\/way899708276\/way1121647332",
+        "type": "junction",
+        "lat": -6.1342112,
+        "lon": 106.6585308,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 8359463892; taxiways: SCX,way899708276,way1121647332)"
+    },
+    "J41": {
+        "name": "Junction SP2\/way899708276",
+        "type": "junction",
+        "lat": -6.1347512,
+        "lon": 106.6582978,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 8359463885; taxiways: SP2,way899708276)"
+    },
+    "J42": {
+        "name": "Junction SP2\/way1436606642\/way1436606643",
+        "type": "junction",
+        "lat": -6.1286988,
+        "lon": 106.6735126,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 10261148197; taxiways: SP2,way1436606642,way1436606643)"
+    },
+    "J43": {
+        "name": "Junction SP2\/way1436606632",
+        "type": "junction",
+        "lat": -6.1379329,
+        "lon": 106.6503062,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 309103716; taxiways: SP2,way1436606632)"
+    },
+    "J44": {
+        "name": "Junction SP2\/way1436606636\/way1436606637",
+        "type": "junction",
+        "lat": -6.1407088,
+        "lon": 106.6433699,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 309104446; taxiways: SP2,way1436606636,way1436606637)"
+    },
+    "J45": {
+        "name": "Junction SC6\/way899146191\/way1436606631",
+        "type": "junction",
+        "lat": -6.1333408,
+        "lon": 106.6518961,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 309104940; taxiways: SC6,way899146191,way1436606631)"
+    },
+    "J46": {
+        "name": "Junction way543006568\/way1122254847",
+        "type": "junction",
+        "lat": -6.112289,
+        "lon": 106.6741566,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 5249572759; taxiways: way543006568,way1122254847)"
+    },
+    "J47": {
+        "name": "Junction way543006568\/way543006569",
+        "type": "junction",
+        "lat": -6.1114513,
+        "lon": 106.6738236,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 5249572754; taxiways: way543006568,way543006569)"
+    },
+    "J48": {
+        "name": "Junction way543006569\/way1122254847",
+        "type": "junction",
+        "lat": -6.1120087,
+        "lon": 106.673582,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 5249572761; taxiways: way543006569,way1122254847)"
+    },
+    "J49": {
+        "name": "Junction way543006570\/way1122289729",
+        "type": "junction",
+        "lat": -6.1104695,
+        "lon": 106.6703959,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 5249572768; taxiways: way543006570,way1122289729)"
+    },
+    "J51": {
+        "name": "Junction EC2\/way899736744",
+        "type": "junction",
+        "lat": -6.1111336,
+        "lon": 106.6746681,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 5249572779; taxiways: EC2,way899736744)"
+    },
+    "J52": {
+        "name": "Junction EC1",
+        "type": "junction",
+        "lat": -6.1171062,
+        "lon": 106.6760771,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6946815943; taxiways: EC1)"
+    },
+    "J53": {
+        "name": "Junction way543011418\/way543011421\/way543011422\/NC9",
+        "type": "junction",
+        "lat": -6.1232385,
+        "lon": 106.6394132,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 5249634131; taxiways: way543011418,way543011421,way543011422,NC9)"
+    },
+    "J54": {
+        "name": "Junction way543011426\/way543011429",
+        "type": "junction",
+        "lat": -6.1207432,
+        "lon": 106.6443621,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 5249634192; taxiways: way543011426,way543011429)"
+    },
+    "J55": {
+        "name": "Junction way543011426\/way543011427",
+        "type": "junction",
+        "lat": -6.120503,
+        "lon": 106.6437877,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 5249634187; taxiways: way543011426,way543011427)"
+    },
+    "J56": {
+        "name": "Junction way543011427\/way543011428",
+        "type": "junction",
+        "lat": -6.1210713,
+        "lon": 106.6435378,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 5249634182; taxiways: way543011427,way543011428)"
+    },
+    "J57": {
+        "name": "Junction way543011428\/way543011429",
+        "type": "junction",
+        "lat": -6.1213199,
+        "lon": 106.6441133,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 5249634197; taxiways: way543011428,way543011429)"
+    },
+    "J58": {
+        "name": "Junction way543011431\/way1436606627",
+        "type": "junction",
+        "lat": -6.1219083,
+        "lon": 106.6438926,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 5249634211; taxiways: way543011431,way1436606627)"
+    },
+    "J59": {
+        "name": "Junction SC1\/way899708266\/way1436606642\/way1436606644",
+        "type": "junction",
+        "lat": -6.1281703,
+        "lon": 106.6737887,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 5615495343; taxiways: SC1,way899708266,way1436606642,way1436606644)"
+    },
+    "J60": {
+        "name": "Junction way587910695\/way587910696",
+        "type": "junction",
+        "lat": -6.129098,
+        "lon": 106.6724732,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 5615495358; taxiways: way587910695,way587910696)"
+    },
+    "J61": {
+        "name": "Junction way587910695\/S2\/way587910699\/SC2",
+        "type": "junction",
+        "lat": -6.1292347,
+        "lon": 106.6721271,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 5615495353; taxiways: way587910695,S2,way587910699,SC2,way1121899617)"
+    },
+    "J62": {
+        "name": "Junction way587910696\/way1121899617",
+        "type": "junction",
+        "lat": -6.1293771,
+        "lon": 106.6717668,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 309104448; taxiways: way587910696,way1121899617)"
+    },
+    "J63": {
+        "name": "Junction way587910697\/S2\/way1121901498",
+        "type": "junction",
+        "lat": -6.13052,
+        "lon": 106.6726401,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 5615495376; taxiways: way587910697,S2,way1121901498)"
+    },
+    "J64": {
+        "name": "Junction SC3\/way1121896423\/way1121896424",
+        "type": "junction",
+        "lat": -6.1308293,
+        "lon": 106.6666402,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 5615495405; taxiways: SC3,way1121896423,way1121896424)"
+    },
+    "J65": {
+        "name": "Junction SPE\/way1122252292",
+        "type": "junction",
+        "lat": -6.115479,
+        "lon": 106.67588,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6994150497; taxiways: SPE,way1122252292)"
+    },
+    "J66": {
+        "name": "Junction SPE\/way1157598425",
+        "type": "junction",
+        "lat": -6.1150693,
+        "lon": 106.6728143,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 10264813219; taxiways: SPE,way1157598425)"
+    },
+    "J67": {
+        "name": "Junction EC2",
+        "type": "junction",
+        "lat": -6.1167883,
+        "lon": 106.6769257,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6946815941; taxiways: EC2)"
+    },
+    "J68": {
+        "name": "Junction EC1",
+        "type": "junction",
+        "lat": -6.1184889,
+        "lon": 106.6766239,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6946815942; taxiways: EC1)"
+    },
+    "J69": {
+        "name": "Junction EC1\/way899708266\/way899708267\/way1436606643",
+        "type": "junction",
+        "lat": -6.1283561,
+        "lon": 106.6743571,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6946815946; taxiways: EC1,way899708266,way899708267,way1436606643)"
+    },
+    "J70": {
+        "name": "Junction NC4",
+        "type": "junction",
+        "lat": -6.115773,
+        "lon": 106.6592642,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6321102873; taxiways: NC4)"
+    },
+    "J71": {
+        "name": "Junction M2\/way747478829\/way1436606628",
+        "type": "junction",
+        "lat": -6.1075175,
+        "lon": 106.6667923,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6994196211; taxiways: M2,way747478829,way1436606628)"
+    },
+    "J72": {
+        "name": "Junction N8M\/way1272470066",
+        "type": "junction",
+        "lat": -6.1181052,
+        "lon": 106.6451093,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 10267111616; taxiways: N8M,way1272470066)"
+    },
+    "J73": {
+        "name": "Junction N8M\/M8\/way747840891",
+        "type": "junction",
+        "lat": -6.1163961,
+        "lon": 106.6444363,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6996768426; taxiways: N8M,M8,way747840891)"
+    },
+    "J74": {
+        "name": "Junction M7\/N7M",
+        "type": "junction",
+        "lat": -6.1156062,
+        "lon": 106.6474754,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6375203166; taxiways: M7,N7M)"
+    },
+    "J75": {
+        "name": "Junction way680828757\/N6M",
+        "type": "junction",
+        "lat": -6.1155019,
+        "lon": 106.6515793,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 10266962568; taxiways: way680828757,N6M)"
+    },
+    "J76": {
+        "name": "Junction N4M\/way747840889\/way1436606629",
+        "type": "junction",
+        "lat": -6.1125791,
+        "lon": 106.6561612,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6375203173; taxiways: N4M,way747840889,way1436606629)"
+    },
+    "J77": {
+        "name": "Runway Exit near 07L\/25R (J77)",
+        "type": "runway_exit",
+        "lat": -6.1136148,
+        "lon": 106.656586,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6996768390; taxiways: N4M,way747840888,way1436606621) [reclassified runway_exit, 32.639233621105m from RWY 07L\/25R centerline]"
+    },
+    "J78": {
+        "name": "Junction way680828759\/N3M",
+        "type": "junction",
+        "lat": -6.1119777,
+        "lon": 106.6603284,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6996768366; taxiways: way680828759,N3M)"
+    },
+    "J79": {
+        "name": "Junction N7M\/way1272470065",
+        "type": "junction",
+        "lat": -6.1169424,
+        "lon": 106.6480025,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 10267047597; taxiways: N7M,way1272470065)"
+    },
+    "J80": {
+        "name": "Junction M1\/NP3",
+        "type": "junction",
+        "lat": -6.1065471,
+        "lon": 106.6702759,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6375203178; taxiways: M1,NP3)"
+    },
+    "J81": {
+        "name": "Junction EC2",
+        "type": "junction",
+        "lat": -6.1181568,
+        "lon": 106.6774752,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6946815940; taxiways: EC2)"
+    },
+    "J82": {
+        "name": "Junction way747471891\/way899736744\/NPE",
+        "type": "junction",
+        "lat": -6.1116809,
+        "lon": 106.6744072,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 8359696545; taxiways: way747471891,way899736744,NPE)"
+    },
+    "J83": {
+        "name": "Junction way747471892\/way1122252292",
+        "type": "junction",
+        "lat": -6.116056,
+        "lon": 106.6756576,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6994150492; taxiways: way747471892,way1122252292)"
+    },
+    "J84": {
+        "name": "Junction way747471892\/way1122252190",
+        "type": "junction",
+        "lat": -6.1158054,
+        "lon": 106.6750634,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6994150507; taxiways: way747471892,way1122252190)"
+    },
+    "J85": {
+        "name": "Junction way747471893\/way1122252190",
+        "type": "junction",
+        "lat": -6.1152298,
+        "lon": 106.675328,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6994150502; taxiways: way747471893,way1122252190)"
+    },
+    "J86": {
+        "name": "Junction way747476172\/way747476173",
+        "type": "junction",
+        "lat": -6.1401037,
+        "lon": 106.644878,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6994180835; taxiways: way747476172,way747476173)"
+    },
+    "J87": {
+        "name": "Junction way747476172\/way747476173",
+        "type": "junction",
+        "lat": -6.1403567,
+        "lon": 106.6442477,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6994180827; taxiways: way747476172,way747476173)"
+    },
+    "J88": {
+        "name": "Junction way747476174\/way1125132217\/SC8",
+        "type": "junction",
+        "lat": -6.1397694,
+        "lon": 106.6443629,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6994180847; taxiways: way747476174,way1125132217,SC8)"
+    },
+    "J89": {
+        "name": "Junction S8\/SC8",
+        "type": "junction",
+        "lat": -6.1402315,
+        "lon": 106.6445551,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 10288975287; taxiways: S8,SC8)"
+    },
+    "J90": {
+        "name": "Junction S8\/way1436606639\/way1436606640",
+        "type": "junction",
+        "lat": -6.1415469,
+        "lon": 106.6450663,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6994180856; taxiways: S8,way1436606639,way1436606640)"
+    },
+    "J91": {
+        "name": "Junction way747840849\/way1122577740",
+        "type": "junction",
+        "lat": -6.1164359,
+        "lon": 106.6551625,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6996767832; taxiways: way747840849,way1122577740)"
+    },
+    "J92": {
+        "name": "Junction way747840849\/way747840850",
+        "type": "junction",
+        "lat": -6.1166763,
+        "lon": 106.6557376,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6996767847; taxiways: way747840849,way747840850)"
+    },
+    "J93": {
+        "name": "Junction way747840850\/way1122577397",
+        "type": "junction",
+        "lat": -6.1161163,
+        "lon": 106.6559682,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 309103259; taxiways: way747840850,way1122577397)"
+    },
+    "J94": {
+        "name": "Junction way747840851\/way747840852\/NCY",
+        "type": "junction",
+        "lat": -6.1180868,
+        "lon": 106.6522589,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6996767858; taxiways: way747840851,way747840852,NCY)"
+    },
+    "J95": {
+        "name": "Junction way747840853\/way1122585217",
+        "type": "junction",
+        "lat": -6.1187241,
+        "lon": 106.6494231,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6996767862; taxiways: way747840853,way1122585217)"
+    },
+    "J96": {
+        "name": "Junction way747840854\/way1122584555",
+        "type": "junction",
+        "lat": -6.1184076,
+        "lon": 106.6502212,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6996767872; taxiways: way747840854,way1122584555)"
+    },
+    "J97": {
+        "name": "Junction way747840855\/way747840856",
+        "type": "junction",
+        "lat": -6.1116303,
+        "lon": 106.6684199,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6996767898; taxiways: way747840855,way747840856)"
+    },
+    "J99": {
+        "name": "Junction way747840857\/way1122290989",
+        "type": "junction",
+        "lat": -6.1122159,
+        "lon": 106.6681891,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6996767903; taxiways: way747840857,way1122290989)"
+    },
+    "J100": {
+        "name": "Junction way747840858\/way1122290928",
+        "type": "junction",
+        "lat": -6.1118781,
+        "lon": 106.6690322,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6996767913; taxiways: way747840858,way1122290928)"
+    },
+    "J101": {
+        "name": "Junction way747840859\/way747840860",
+        "type": "junction",
+        "lat": -6.1138393,
+        "lon": 106.6630357,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6996767928; taxiways: way747840859,way747840860)"
+    },
+    "J102": {
+        "name": "Junction way747840859\/way1122476126",
+        "type": "junction",
+        "lat": -6.1146152,
+        "lon": 106.6633469,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6996767938; taxiways: way747840859,way1122476126)"
+    },
+    "J103": {
+        "name": "Junction way747840860\/way1122476126",
+        "type": "junction",
+        "lat": -6.1140514,
+        "lon": 106.6635874,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6996767933; taxiways: way747840860,way1122476126)"
+    },
+    "J104": {
+        "name": "Junction way747840861\/way1122476681",
+        "type": "junction",
+        "lat": -6.1132047,
+        "lon": 106.6632644,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6996767943; taxiways: way747840861,way1122476681)"
+    },
+    "J106": {
+        "name": "Junction way747840862\/way1122477072",
+        "type": "junction",
+        "lat": -6.1135365,
+        "lon": 106.6624341,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6996767953; taxiways: way747840862,way1122477072)"
+    },
+    "J107": {
+        "name": "Junction way747840863\/way747840864",
+        "type": "junction",
+        "lat": -6.1151331,
+        "lon": 106.6584345,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 309103160; taxiways: way747840863,way747840864)"
+    },
+    "J108": {
+        "name": "Junction way747840864\/way1122570255",
+        "type": "junction",
+        "lat": -6.1153107,
+        "lon": 106.6590226,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6996767967; taxiways: way747840864,way1122570255)"
+    },
+    "J109": {
+        "name": "Junction way747840887\/N3M\/way1436606630",
+        "type": "junction",
+        "lat": -6.1110682,
+        "lon": 106.6599722,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6375203172; taxiways: way747840887,N3M,way1436606630)"
+    },
+    "J110": {
+        "name": "Junction way747840890\/way1122576389\/N6M",
+        "type": "junction",
+        "lat": -6.1145742,
+        "lon": 106.651224,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6375203174; taxiways: way747840890,way1122576389,N6M)"
+    },
+    "J111": {
+        "name": "Junction way747840892\/way1122585450",
+        "type": "junction",
+        "lat": -6.1152403,
+        "lon": 106.6473302,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6996768446; taxiways: way747840892,way1122585450)"
+    },
+    "J112": {
+        "name": "Junction way747840892\/way1122586421",
+        "type": "junction",
+        "lat": -6.1157542,
+        "lon": 106.6471354,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6996768440; taxiways: way747840892,way1122586421)"
+    },
+    "J113": {
+        "name": "Junction way747840893\/way1122586421",
+        "type": "junction",
+        "lat": -6.1159605,
+        "lon": 106.6476174,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6996768456; taxiways: way747840893,way1122586421)"
+    },
+    "J114": {
+        "name": "Junction way747840893\/way1122585450",
+        "type": "junction",
+        "lat": -6.1154723,
+        "lon": 106.6478361,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6996768450; taxiways: way747840893,way1122585450)"
+    },
+    "J115": {
+        "name": "Junction N7\/NC7",
+        "type": "junction",
+        "lat": -6.1198487,
+        "lon": 106.6465768,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 309103481; taxiways: N7,NC7)"
+    },
+    "J116": {
+        "name": "Junction way747840895\/way1122755350",
+        "type": "junction",
+        "lat": -6.1194452,
+        "lon": 106.6464163,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6996768481; taxiways: way747840895,way1122755350)"
+    },
+    "J117": {
+        "name": "Junction way747840895\/way747840896",
+        "type": "junction",
+        "lat": -6.1202647,
+        "lon": 106.6467436,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6996768490; taxiways: way747840895,way747840896)"
+    },
+    "J118": {
+        "name": "Junction way747840896\/way1122755350",
+        "type": "junction",
+        "lat": -6.1196892,
+        "lon": 106.6470031,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6996768485; taxiways: way747840896,way1122755350)"
+    },
+    "J119": {
+        "name": "Junction way899137706\/way899137795\/way1436606635",
+        "type": "junction",
+        "lat": -6.1370597,
+        "lon": 106.6458853,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 8354485948; taxiways: way899137706,way899137795,way1436606635)"
+    },
+    "J120": {
+        "name": "Junction way899137733\/way899137736\/way1436606634\/way1436606635",
+        "type": "junction",
+        "lat": -6.1372041,
+        "lon": 106.6463018,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 8354485445; taxiways: way899137733,way899137736,way1436606634,way1436606635)"
+    },
+    "J121": {
+        "name": "Junction way899137794\/way1436606633\/way1436606634",
+        "type": "junction",
+        "lat": -6.1380679,
+        "lon": 106.6466435,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 8354485939; taxiways: way899137794,way1436606633,way1436606634)"
+    },
+    "J122": {
+        "name": "Junction way899137795\/way899137796",
+        "type": "junction",
+        "lat": -6.1388834,
+        "lon": 106.6413126,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 8354485953; taxiways: way899137795,way899137796)"
+    },
+    "J124": {
+        "name": "Junction way899146205\/way899146206",
+        "type": "junction",
+        "lat": -6.1365931,
+        "lon": 106.6536841,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 8354593577; taxiways: way899146205,way899146206)"
+    },
+    "J125": {
+        "name": "Junction way899146206\/way1121640125",
+        "type": "junction",
+        "lat": -6.1369028,
+        "lon": 106.6529048,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 8354593614; taxiways: way899146206,way1121640125)"
+    },
+    "J126": {
+        "name": "Junction way899146207\/way1121639652",
+        "type": "junction",
+        "lat": -6.1362836,
+        "lon": 106.6531199,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 8354593635; taxiways: way899146207,way1121639652)"
+    },
+    "J127": {
+        "name": "Junction way899146207\/way899146208",
+        "type": "junction",
+        "lat": -6.1357476,
+        "lon": 106.653359,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 8354593636; taxiways: way899146207,way899146208)"
+    },
+    "J128": {
+        "name": "Junction way899146208\/way899146209",
+        "type": "junction",
+        "lat": -6.1355251,
+        "lon": 106.6528178,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 8354593647; taxiways: way899146208,way899146209)"
+    },
+    "J129": {
+        "name": "Junction way899146209\/way1121639652",
+        "type": "junction",
+        "lat": -6.1360543,
+        "lon": 106.6525916,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 8354593659; taxiways: way899146209,way1121639652)"
+    },
+    "J130": {
+        "name": "Junction way899146210\/way899146211",
+        "type": "junction",
+        "lat": -6.1377485,
+        "lon": 106.6496808,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 8354593736; taxiways: way899146210,way899146211)"
+    },
+    "J132": {
+        "name": "Junction way899146213\/way899146214",
+        "type": "junction",
+        "lat": -6.1368049,
+        "lon": 106.6507163,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 8354593774; taxiways: way899146213,way899146214)"
+    },
+    "J133": {
+        "name": "Junction way899146214\/way1121231340",
+        "type": "junction",
+        "lat": -6.1365746,
+        "lon": 106.6501848,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 8354593791; taxiways: way899146214,way1121231340)"
+    },
+    "J134": {
+        "name": "Junction way899146215\/way1121231338",
+        "type": "junction",
+        "lat": -6.136901,
+        "lon": 106.6493425,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 8354593818; taxiways: way899146215,way1121231338)"
+    },
+    "J135": {
+        "name": "Junction way899146215\/way1121231337",
+        "type": "junction",
+        "lat": -6.1371333,
+        "lon": 106.6498847,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 3011792467; taxiways: way899146215,way1121231337)"
+    },
+    "J136": {
+        "name": "Junction way899146216\/way1121231338",
+        "type": "junction",
+        "lat": -6.137432,
+        "lon": 106.6491307,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 8354593827; taxiways: way899146216,way1121231338)"
+    },
+    "J138": {
+        "name": "Junction way899146217\/way1121235340",
+        "type": "junction",
+        "lat": -6.1322941,
+        "lon": 106.6475093,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 8354593845; taxiways: way899146217,way1121235340)"
+    },
+    "J139": {
+        "name": "Junction way899155599\/way899155600",
+        "type": "junction",
+        "lat": -6.1332516,
+        "lon": 106.6513748,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 8354588865; taxiways: way899155599,way899155600)"
+    },
+    "J141": {
+        "name": "Junction way899708258\/way899708259",
+        "type": "junction",
+        "lat": -6.126966,
+        "lon": 106.6468127,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 8359463683; taxiways: way899708258,way899708259)"
+    },
+    "J142": {
+        "name": "Junction way899708260\/way1121235340",
+        "type": "junction",
+        "lat": -6.1317542,
+        "lon": 106.6477411,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 8354593837; taxiways: way899708260,way1121235340)"
+    },
+    "J143": {
+        "name": "Junction way899708262\/way899708263",
+        "type": "junction",
+        "lat": -6.1314242,
+        "lon": 106.6485745,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 8359463721; taxiways: way899708262,way899708263)"
+    },
+    "J144": {
+        "name": "Junction way899708262\/way899708264",
+        "type": "junction",
+        "lat": -6.1311986,
+        "lon": 106.6480468,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 8359463713; taxiways: way899708262,way899708264)"
+    },
+    "J145": {
+        "name": "Junction way899708263\/way1121235626",
+        "type": "junction",
+        "lat": -6.1319592,
+        "lon": 106.6483484,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 8359463730; taxiways: way899708263,way1121235626)"
+    },
+    "J147": {
+        "name": "Junction way899708268\/way899708269",
+        "type": "junction",
+        "lat": -6.132787,
+        "lon": 106.6632264,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 8359463812; taxiways: way899708268,way899708269)"
+    },
+    "J148": {
+        "name": "Junction way899708268\/way1121894222",
+        "type": "junction",
+        "lat": -6.1325612,
+        "lon": 106.6626829,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 8359463806; taxiways: way899708268,way1121894222)"
+    },
+    "J149": {
+        "name": "Junction way899708269\/way1121894222",
+        "type": "junction",
+        "lat": -6.1331014,
+        "lon": 106.6624404,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 309104447; taxiways: way899708269,way1121894222)"
+    },
+    "J151": {
+        "name": "Junction way899708270\/way899708271",
+        "type": "junction",
+        "lat": -6.131938,
+        "lon": 106.6629109,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 309104331; taxiways: way899708270,way899708271)"
+    },
+    "J152": {
+        "name": "Junction way899708271\/way1121893434",
+        "type": "junction",
+        "lat": -6.1317314,
+        "lon": 106.6623502,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 8359463845; taxiways: way899708271,way1121893434)"
+    },
+    "J153": {
+        "name": "Junction way899708272\/way1121893434",
+        "type": "junction",
+        "lat": -6.132271,
+        "lon": 106.6620808,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 8359463855; taxiways: way899708272,way1121893434)"
+    },
+    "J154": {
+        "name": "Junction way899708273\/way899708275",
+        "type": "junction",
+        "lat": -6.1339035,
+        "lon": 106.6579839,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 8359463862; taxiways: way899708273,way899708275)"
+    },
+    "J156": {
+        "name": "Junction way899708274\/way899708275",
+        "type": "junction",
+        "lat": -6.1335936,
+        "lon": 106.6587598,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 8359463871; taxiways: way899708274,way899708275)"
+    },
+    "J158": {
+        "name": "Junction way899708277\/way899708278",
+        "type": "junction",
+        "lat": -6.1352469,
+        "lon": 106.6570548,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 8359463917; taxiways: way899708277,way899708278)"
+    },
+    "J159": {
+        "name": "Junction way899708278\/way899708279",
+        "type": "junction",
+        "lat": -6.1350141,
+        "lon": 106.6565175,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 8359463927; taxiways: way899708278,way899708279)"
+    },
+    "J160": {
+        "name": "Junction way899708279\/way1121642138",
+        "type": "junction",
+        "lat": -6.1355572,
+        "lon": 106.6562806,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 8359463907; taxiways: way899708279,way1121642138)"
+    },
+    "J162": {
+        "name": "Junction way899708280\/way1121641163",
+        "type": "junction",
+        "lat": -6.1347261,
+        "lon": 106.6559229,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 8359463978; taxiways: way899708280,way1121641163)"
+    },
+    "J164": {
+        "name": "Junction way899708281\/way1121641162",
+        "type": "junction",
+        "lat": -6.1344114,
+        "lon": 106.6567088,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 8359463959; taxiways: way899708281,way1121641162)"
+    },
+    "J165": {
+        "name": "Junction way899720335\/way899720336",
+        "type": "junction",
+        "lat": -6.1175003,
+        "lon": 106.6560654,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 8359554767; taxiways: way899720335,way899720336)"
+    },
+    "J167": {
+        "name": "Junction way899728896\/way899728897",
+        "type": "junction",
+        "lat": -6.115618,
+        "lon": 106.6596506,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 8359624614; taxiways: way899728896,way899728897)"
+    },
+    "J168": {
+        "name": "Junction way899728897\/way1122569856",
+        "type": "junction",
+        "lat": -6.1154976,
+        "lon": 106.6591116,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 8359624621; taxiways: way899728897,way1122569856)"
+    },
+    "J169": {
+        "name": "Junction way899728905\/way899728908",
+        "type": "junction",
+        "lat": -6.1205446,
+        "lon": 106.6473032,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 8359624806; taxiways: way899728905,way899728908)"
+    },
+    "J170": {
+        "name": "Junction way899728906\/way899728907",
+        "type": "junction",
+        "lat": -6.1208496,
+        "lon": 106.6465335,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 8359624833; taxiways: way899728906,way899728907)"
+    },
+    "J172": {
+        "name": "Junction NPE\/way1157598425",
+        "type": "junction",
+        "lat": -6.1130718,
+        "lon": 106.6720247,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 8359696583; taxiways: NPE,way1157598425)"
+    },
+    "J174": {
+        "name": "Junction way1121896607\/way1121896609",
+        "type": "junction",
+        "lat": -6.1311944,
+        "lon": 106.6672226,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 5615495394; taxiways: way1121896607,way1121896609)"
+    },
+    "J175": {
+        "name": "Junction way1121896608\/way1121896610",
+        "type": "junction",
+        "lat": -6.1314964,
+        "lon": 106.6664516,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 5615495392; taxiways: way1121896608,way1121896610)"
+    },
+    "J176": {
+        "name": "Junction way1121896609\/way1121896610",
+        "type": "junction",
+        "lat": -6.1316302,
+        "lon": 106.666959,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 10261055086; taxiways: way1121896609,way1121896610)"
+    },
+    "J177": {
+        "name": "Junction way1122290928\/way1122290989",
+        "type": "junction",
+        "lat": -6.1124746,
+        "lon": 106.6687768,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6996767918; taxiways: way1122290928,way1122290989)"
+    },
+    "J179": {
+        "name": "Junction way1122569618\/way1122569856",
+        "type": "junction",
+        "lat": -6.1158934,
+        "lon": 106.6589609,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 8359624628; taxiways: way1122569618,way1122569856)"
+    },
+    "J180": {
+        "name": "Junction way1122577397\/way1122577740",
+        "type": "junction",
+        "lat": -6.1158854,
+        "lon": 106.6554248,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6996767837; taxiways: way1122577397,way1122577740)"
+    },
+    "J181": {
+        "name": "Junction way1122584555\/way1122585217",
+        "type": "junction",
+        "lat": -6.1189747,
+        "lon": 106.6499844,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6996767877; taxiways: way1122584555,way1122585217)"
+    },
+    "GATE-F1": {
+        "name": "Gate F1",
+        "type": "gate",
+        "lat": -6.1209741,
+        "lon": 106.6544692,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 495492704)"
+    },
+    "GATE-F2": {
+        "name": "Gate F2",
+        "type": "gate",
+        "lat": -6.1206081,
+        "lon": 106.6548708,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 495492706)"
+    },
+    "GATE-F3": {
+        "name": "Gate F3",
+        "type": "gate",
+        "lat": -6.1204218,
+        "lon": 106.6552418,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 495492707)"
+    },
+    "GATE-F4": {
+        "name": "Gate F4",
+        "type": "gate",
+        "lat": -6.1204604,
+        "lon": 106.6558787,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 495492708)"
+    },
+    "GATE-F5": {
+        "name": "Gate F5",
+        "type": "gate",
+        "lat": -6.1210238,
+        "lon": 106.6561552,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 495492709)"
+    },
+    "GATE-F6": {
+        "name": "Gate F6",
+        "type": "gate",
+        "lat": -6.1214378,
+        "lon": 106.6561275,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 495492711)"
+    },
+    "GATE-F7": {
+        "name": "Gate F7",
+        "type": "gate",
+        "lat": -6.1219529,
+        "lon": 106.655965,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 495492712)"
+    },
+    "GATE-E1": {
+        "name": "Gate E1",
+        "type": "gate",
+        "lat": -6.1214829,
+        "lon": 106.6513483,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 495492713)"
+    },
+    "GATE-E2": {
+        "name": "Gate E2",
+        "type": "gate",
+        "lat": -6.1209367,
+        "lon": 106.6512723,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 495492714)"
+    },
+    "GATE-E3": {
+        "name": "Gate E3",
+        "type": "gate",
+        "lat": -6.1205327,
+        "lon": 106.6513331,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 495492715)"
+    },
+    "GATE-E4": {
+        "name": "Gate E4",
+        "type": "gate",
+        "lat": -6.1200369,
+        "lon": 106.651734,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 495492716)"
+    },
+    "GATE-E5": {
+        "name": "Gate E5",
+        "type": "gate",
+        "lat": -6.1201331,
+        "lon": 106.6523508,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 495492717)"
+    },
+    "GATE-E6": {
+        "name": "Gate E6",
+        "type": "gate",
+        "lat": -6.1204,
+        "lon": 106.6526846,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 495492719)"
+    },
+    "GATE-E7": {
+        "name": "Gate E7",
+        "type": "gate",
+        "lat": -6.1208243,
+        "lon": 106.6529989,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 495492720)"
+    },
+    "GATE-D1": {
+        "name": "Gate D1",
+        "type": "gate",
+        "lat": -6.124352,
+        "lon": 106.6499574,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 495492721)"
+    },
+    "GATE-D2": {
+        "name": "Gate D2",
+        "type": "gate",
+        "lat": -6.1241028,
+        "lon": 106.6494953,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 495492722)"
+    },
+    "GATE-D3": {
+        "name": "Gate D3",
+        "type": "gate",
+        "lat": -6.1238128,
+        "lon": 106.6491939,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 495492723)"
+    },
+    "GATE-D4": {
+        "name": "Gate D4",
+        "type": "gate",
+        "lat": -6.1232011,
+        "lon": 106.6490009,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 495492724)"
+    },
+    "GATE-D5": {
+        "name": "Gate D5",
+        "type": "gate",
+        "lat": -6.1227419,
+        "lon": 106.6494386,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 495492725)"
+    },
+    "GATE-D6": {
+        "name": "Gate D6",
+        "type": "gate",
+        "lat": -6.1226181,
+        "lon": 106.6498387,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 495492726)"
+    },
+    "GATE-D7": {
+        "name": "Gate D7",
+        "type": "gate",
+        "lat": -6.1226024,
+        "lon": 106.6503738,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 495492727)"
+    },
+    "GATE-A1": {
+        "name": "Gate A1",
+        "type": "gate",
+        "lat": -6.1279303,
+        "lon": 106.6587539,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 495492728)"
+    },
+    "GATE-A2": {
+        "name": "Gate A2",
+        "type": "gate",
+        "lat": -6.1281389,
+        "lon": 106.6592383,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 495492729)"
+    },
+    "GATE-A3": {
+        "name": "Gate A3",
+        "type": "gate",
+        "lat": -6.1284057,
+        "lon": 106.6595707,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 495492730)"
+    },
+    "GATE-A4": {
+        "name": "Gate A4",
+        "type": "gate",
+        "lat": -6.1289869,
+        "lon": 106.6597969,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 495492731)"
+    },
+    "GATE-A5": {
+        "name": "Gate A5",
+        "type": "gate",
+        "lat": -6.1294794,
+        "lon": 106.6594192,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 495492732)"
+    },
+    "GATE-A6": {
+        "name": "Gate A6",
+        "type": "gate",
+        "lat": -6.1296299,
+        "lon": 106.6590283,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 495492733)"
+    },
+    "GATE-A7": {
+        "name": "Gate A7",
+        "type": "gate",
+        "lat": -6.1296947,
+        "lon": 106.6585013,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 495492734)"
+    },
+    "GATE-B1": {
+        "name": "Gate B1",
+        "type": "gate",
+        "lat": -6.1313543,
+        "lon": 106.65719,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 495492735)"
+    },
+    "GATE-B2": {
+        "name": "Gate B2",
+        "type": "gate",
+        "lat": -6.1318694,
+        "lon": 106.6572598,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 495492736)"
+    },
+    "GATE-B3": {
+        "name": "Gate B3",
+        "type": "gate",
+        "lat": -6.1322912,
+        "lon": 106.6572083,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 495492737)"
+    },
+    "GATE-B4": {
+        "name": "Gate B4",
+        "type": "gate",
+        "lat": -6.1327833,
+        "lon": 106.6568134,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 495492738)"
+    },
+    "GATE-B5": {
+        "name": "Gate B5",
+        "type": "gate",
+        "lat": -6.1326966,
+        "lon": 106.6561924,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 495492739)"
+    },
+    "GATE-B6": {
+        "name": "Gate B6",
+        "type": "gate",
+        "lat": -6.1324328,
+        "lon": 106.6558543,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 495492740)"
+    },
+    "GATE-B7": {
+        "name": "Gate B7",
+        "type": "gate",
+        "lat": -6.1320119,
+        "lon": 106.655538,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 495492741)"
+    },
+    "GATE-C1": {
+        "name": "Gate C1",
+        "type": "gate",
+        "lat": -6.131705,
+        "lon": 106.6534585,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 495492742)"
+    },
+    "GATE-C2": {
+        "name": "Gate C2",
+        "type": "gate",
+        "lat": -6.1320272,
+        "lon": 106.6530426,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 495492743)"
+    },
+    "GATE-C3": {
+        "name": "Gate C3",
+        "type": "gate",
+        "lat": -6.1321819,
+        "lon": 106.6526419,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 495492744)"
+    },
+    "GATE-C4": {
+        "name": "Gate C4",
+        "type": "gate",
+        "lat": -6.1320885,
+        "lon": 106.6520214,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 495492745)"
+    },
+    "GATE-C5": {
+        "name": "Gate C5",
+        "type": "gate",
+        "lat": -6.1315022,
+        "lon": 106.6517881,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 495492746)"
+    },
+    "GATE-C6": {
+        "name": "Gate C6",
+        "type": "gate",
+        "lat": -6.1310879,
+        "lon": 106.651843,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 495492747)"
+    },
+    "GATE-C7": {
+        "name": "Gate C7",
+        "type": "gate",
+        "lat": -6.1306106,
+        "lon": 106.6520542,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 495492748)"
+    },
+    "GATE-10": {
+        "name": "Gate 10",
+        "type": "gate",
+        "lat": -6.1180617,
+        "lon": 106.6651645,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 5123675521)"
+    },
+    "GATE-9": {
+        "name": "Gate 9",
+        "type": "gate",
+        "lat": -6.118367,
+        "lon": 106.6644147,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 5123900832)"
+    },
+    "GATE-8": {
+        "name": "Gate 8",
+        "type": "gate",
+        "lat": -6.1186717,
+        "lon": 106.6636551,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 5228070331)"
+    },
+    "GATE-13": {
+        "name": "Gate 13",
+        "type": "gate",
+        "lat": -6.1172067,
+        "lon": 106.6673003,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 5228070332)"
+    },
+    "GATE-12": {
+        "name": "Gate 12",
+        "type": "gate",
+        "lat": -6.1175036,
+        "lon": 106.6665703,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 5228070333)"
+    },
+    "GATE-11": {
+        "name": "Gate 11",
+        "type": "gate",
+        "lat": -6.1177996,
+        "lon": 106.6658224,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 5228070334)"
+    },
+    "GATE-7": {
+        "name": "Gate 7",
+        "type": "gate",
+        "lat": -6.1189997,
+        "lon": 106.6628276,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 5228070335)"
+    },
+    "GATE-6": {
+        "name": "Gate 6",
+        "type": "gate",
+        "lat": -6.1193037,
+        "lon": 106.6620828,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 5228070336)"
+    },
+    "GATE-5": {
+        "name": "Gate 5",
+        "type": "gate",
+        "lat": -6.1196335,
+        "lon": 106.6612398,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 5228070337)"
+    },
+    "GATE-14": {
+        "name": "Gate 14",
+        "type": "gate",
+        "lat": -6.1169137,
+        "lon": 106.6680327,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 5228070338)"
+    },
+    "GATE-4": {
+        "name": "Gate 4",
+        "type": "gate",
+        "lat": -6.1193552,
+        "lon": 106.6594346,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 5249600512)"
+    },
+    "GATE-3": {
+        "name": "Gate 3",
+        "type": "gate",
+        "lat": -6.1190144,
+        "lon": 106.6593134,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 5249600513)"
+    },
+    "GATE-2": {
+        "name": "Gate 2",
+        "type": "gate",
+        "lat": -6.1186743,
+        "lon": 106.6591776,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 5249600514)"
+    },
+    "GATE-1": {
+        "name": "Gate 1",
+        "type": "gate",
+        "lat": -6.1183402,
+        "lon": 106.6590396,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 5249600515)"
+    },
+    "GATE-27": {
+        "name": "Gate 27",
+        "type": "gate",
+        "lat": -6.1132559,
+        "lon": 106.6708388,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 5249600516)"
+    },
+    "GATE-25": {
+        "name": "Gate 25",
+        "type": "gate",
+        "lat": -6.1136253,
+        "lon": 106.6709867,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 5249600517)"
+    },
+    "GATE-23": {
+        "name": "Gate 23",
+        "type": "gate",
+        "lat": -6.1140016,
+        "lon": 106.6711302,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 5249600518)"
+    },
+    "GATE-21": {
+        "name": "Gate 21",
+        "type": "gate",
+        "lat": -6.1143795,
+        "lon": 106.6712877,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 5249600519)"
+    },
+    "GATE-20": {
+        "name": "Gate 20",
+        "type": "gate",
+        "lat": -6.1147557,
+        "lon": 106.6714377,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 5249600520)"
+    },
+    "GATE-19": {
+        "name": "Gate 19",
+        "type": "gate",
+        "lat": -6.1151359,
+        "lon": 106.6715861,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 5249609021)"
+    },
+    "GATE-18": {
+        "name": "Gate 18",
+        "type": "gate",
+        "lat": -6.1155176,
+        "lon": 106.6717619,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 5249609022)"
+    },
+    "GATE-24": {
+        "name": "Gate 24",
+        "type": "gate",
+        "lat": -6.1138374,
+        "lon": 106.6707195,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 5249609023)"
+    },
+    "GATE-26": {
+        "name": "Gate 26",
+        "type": "gate",
+        "lat": -6.1134627,
+        "lon": 106.6705662,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 5249609024)"
+    },
+    "GATE-22": {
+        "name": "Gate 22",
+        "type": "gate",
+        "lat": -6.1142228,
+        "lon": 106.6708676,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 5249609025)"
+    },
+    "GATE-28": {
+        "name": "Gate 28",
+        "type": "gate",
+        "lat": -6.1131331,
+        "lon": 106.6704353,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 5249609026)"
+    },
+    "GATE-17": {
+        "name": "Gate 17",
+        "type": "gate",
+        "lat": -6.1160444,
+        "lon": 106.6702186,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 5249609027)"
+    },
+    "GATE-16": {
+        "name": "Gate 16",
+        "type": "gate",
+        "lat": -6.1163026,
+        "lon": 106.6695541,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 5249609028)"
+    },
+    "GATE-15": {
+        "name": "Gate 15",
+        "type": "gate",
+        "lat": -6.1166119,
+        "lon": 106.6687904,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 5249609029)"
+    },
+    "GATE-2D": {
+        "name": "Gate 2D",
+        "type": "gate",
+        "lat": -6.1215831,
+        "lon": 106.6591788,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6269714086)"
+    },
+    "GATE-2C": {
+        "name": "Gate 2C",
+        "type": "gate",
+        "lat": -6.1210685,
+        "lon": 106.6589762,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6269714087)"
+    },
+    "GATE-2B": {
+        "name": "Gate 2B",
+        "type": "gate",
+        "lat": -6.1204641,
+        "lon": 106.658734,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6269714088)"
+    },
+    "GATE-2A": {
+        "name": "Gate 2A",
+        "type": "gate",
+        "lat": -6.1198673,
+        "lon": 106.6584965,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6269714089)"
+    },
+    "GATE-1D": {
+        "name": "Gate 1D",
+        "type": "gate",
+        "lat": -6.1191733,
+        "lon": 106.6582199,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6269714090)"
+    },
+    "GATE-1C": {
+        "name": "Gate 1C",
+        "type": "gate",
+        "lat": -6.1184993,
+        "lon": 106.6579519,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6269714091)"
+    },
+    "GATE-1B": {
+        "name": "Gate 1B",
+        "type": "gate",
+        "lat": -6.1178268,
+        "lon": 106.6576855,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6269714092)"
+    },
+    "GATE-1A": {
+        "name": "Gate 1A",
+        "type": "gate",
+        "lat": -6.1172135,
+        "lon": 106.6574407,
+        "notes": "Sumber: OpenStreetMap contributors (ODbL), bukan survey AIP resmi - verifikasi ulang sebelum dipakai operasional. (osm node 6269714093)"
+    }
+}
