@@ -174,6 +174,7 @@ $canEditActive = $u && $activeRoute && ((int)$activeRoute['owner_id'] === (int)$
 $page_title = 'Map Dashboard';
 require __DIR__ . '/../partials/header.php';
 ?>
+<link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css"/>
 <style>
     .wrap { max-width: 1400px; }
     .map-layout { display: flex; gap: 20px; flex-wrap: wrap; }
