@@ -3,3 +3,6 @@
 /data/*.sqlite-journal
 /data/*.sqlite-wal
 /data/*.sqlite-shm
+
+# Local AI coding assistant config (bukan bagian project)
+/.claude/
