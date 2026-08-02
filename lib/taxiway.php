@@ -28,6 +28,24 @@ function taxi_node_type_label(string $type): string
     return $labels[$type] ?? ucfirst(str_replace('_', ' ', $type));
 }
 
+/** Warna marker per tipe node (legend peta + Leaflet circleMarker). */
+function taxi_type_colors(): array
+{
+    return [
+        'runway_threshold' => '#ef4444',
+        'runway_exit'      => '#f59e0b',
+        'junction'         => '#38bdf8',
+        'gate'             => '#22c55e',
+        'holding_point'    => '#a78bfa',
+        'other'            => '#94a3b8',
+    ];
+}
+
+function taxi_type_color(string $type): string
+{
+    return taxi_type_colors()[$type] ?? '#94a3b8';
+}
+
 /**
  * Jarak great-circle (meter) antar 2 node. Reuse calculateDistanceNM() dari
  * parser.php (tidak menulis ulang haversine) lalu konversi NM -> meter.
