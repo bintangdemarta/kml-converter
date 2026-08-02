@@ -9,10 +9,11 @@ jobs:
   deploy:
     runs-on: [self-hosted, vm100]
     steps:
-      - name: Pull latest code
+      - name: Deploy latest code
         run: |
           cd /var/www/kml-converter
-          git pull origin main
+          git fetch origin main
+          git reset --hard origin/main
 
       - name: Verify site responds
         run: |
