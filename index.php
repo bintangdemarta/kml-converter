@@ -41,6 +41,10 @@ button {
 
 <div class="container">
 
+<div style="margin-bottom:14px;font-size:14px;">
+    <a href="pilot/dashboard.php" style="color:#38bdf8;text-decoration:none;">← IFFI FlightOps Dashboard</a>
+</div>
+
 <h2>KML / GPX / GeoJSON → Infinite Flight</h2>
 
 <input type="file" id="fileInput">

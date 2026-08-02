@@ -68,3 +68,10 @@ function post(string $key, string $default = ''): string
 {
     return trim((string)($_POST[$key] ?? $default));
 }
+
+/** Badge HTML untuk status flight request. */
+function status_badge(string $status): string
+{
+    $s = strtolower($status);
+    return '<span class="badge ' . e($s) . '">' . e($status) . '</span>';
+}
