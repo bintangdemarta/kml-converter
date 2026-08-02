@@ -6,3 +6,6 @@
 
 # Local AI coding assistant config (bukan bagian project)
 /.claude/
+
+# Obsidian workspace config (auto-generate saat vault dibuka, beda per device)
+/docs/.obsidian/
