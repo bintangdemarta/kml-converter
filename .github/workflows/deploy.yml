@@ -1,0 +1,20 @@
+name: Deploy to VM100
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: [self-hosted, vm100]
+    steps:
+      - name: Pull latest code
+        run: |
+          cd /var/www/kml-converter
+          git pull origin main
+
+      - name: Verify site responds
+        run: |
+          sleep 2
+          curl -sf http://localhost/index.php > /dev/null && echo "Site OK" || (echo "Site check failed" && exit 1)
