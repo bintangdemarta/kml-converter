@@ -110,10 +110,15 @@ function id_province_lookup(): array
         'ID-SG' => 'Sulawesi Tenggara', 'ID-SN' => 'Sulawesi Selatan', 'ID-SR' => 'Sulawesi Barat',
         'ID-SS' => 'Sumatera Selatan', 'ID-ST' => 'Sulawesi Tengah', 'ID-SU' => 'Sumatera Utara',
         'ID-YO' => 'DI Yogyakarta',
-        // CATATAN: 4 provinsi hasil DOB Papua (Papua Selatan/Tengah/Pegunungan/Barat Daya, sejak
-        // 2022) belum dimasukkan - kode ISO 3166-2 resminya perlu diverifikasi dari data CSV riil
-        // saat import dijalankan. Fallback raw-code di id_province_name() menangani ini sampai
-        // lookup di-update.
+        // Provinsi hasil DOB Papua (2022-2023), kode diverifikasi dari data riil OurAirports
+        // (dicek municipality tiap bandara per kode, bukan ditebak):
+        'ID-PD' => 'Papua Barat Daya',   // Werur, Marinda (Waisai/Raja Ampat), Teminabuan
+        'ID-PP' => 'Papua Pegunungan',   // Wamena, Oksibil, Dekai
+        'ID-PS' => 'Papua Selatan',      // Merauke, Tanah Merah, Bade
+        'ID-PT' => 'Papua Tengah',       // Timika, Nabire
+        // ID-U-A SENGAJA tidak dipetakan - satu-satunya bandara berkode ini ("(Duplicate)Ranai
+        // Airport") adalah artefak duplikat data di OurAirports sendiri, bukan provinsi asli.
+        // Fallback raw-code di id_province_name() menangani kode lain yang belum dikenal.
     ];
 }
 
