@@ -17,7 +17,7 @@ Index utama dokumentasi project. Mulai dari sini.
 | [[modules/Indonesia Database]] | 🟡 Sebagian (Airport + Landmark selesai, Airspace + Reporting Point menunggu API key OpenAIP) |
 | [[modules/Pilot Profile and Logbook]] | 🟡 Fondasi ada (lewat Flight Request System), belum ada achievement/badge |
 | [[modules/Training Academy]] | ✅ Selesai (versi awal) |
-| [[modules/Community and Events]] | ⬜ Belum digarap |
+| [[modules/Community and Events]] | ✅ Selesai (versi awal) |
 | [[modules/Future Integrations]] | ⬜ Belum digarap |
 
 ## Referensi Data

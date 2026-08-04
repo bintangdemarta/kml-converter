@@ -132,6 +132,7 @@ $title = isset($page_title) ? $page_title . ' - IFFI FlightOps' : 'IFFI FlightOp
             <a href="<?= url('/pilot/history.php') ?>">History</a>
             <a href="<?= url('/logbook/index.php') ?>">Logbook</a>
             <a href="<?= url('/training/my.php') ?>">Training Academy</a>
+            <a href="<?= url('/community/index.php') ?>">Community & Events</a>
             <?php if (is_manager()): ?>
                 <a href="<?= url('/manager/queue.php') ?>">Ticket Queue</a>
             <?php endif; ?>
