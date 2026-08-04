@@ -7,7 +7,7 @@ require_once __DIR__ . '/../lib/auth.php';
 auth_boot();
 
 $u = current_user();
-$title = isset($page_title) ? $page_title . ' — IFFI FlightOps' : 'IFFI FlightOps';
+$title = isset($page_title) ? $page_title . ' - IFFI FlightOps' : 'IFFI FlightOps';
 ?>
 <!DOCTYPE html>
 <html lang="id">
@@ -101,6 +101,9 @@ $title = isset($page_title) ? $page_title . ' — IFFI FlightOps' : 'IFFI Flight
     .badge.rejected   { background: #450a0a; color: #f87171; }
     .badge.dispatched { background: #082f49; color: #38bdf8; }
     .badge.completed  { background: #1e293b; color: #a5b4fc; }
+    .badge.claimed    { background: #082f49; color: #38bdf8; }
+    .badge.passed     { background: #052e2b; color: #34d399; }
+    .badge.failed     { background: #450a0a; color: #f87171; }
     .flash { padding: 12px 16px; border-radius: 8px; margin-bottom: 16px; font-size: 14px; }
     .flash.info  { background: #0c2a3a; color: #7dd3fc; }
     .flash.error { background: #3b0d0d; color: #fca5a5; }
@@ -128,8 +131,14 @@ $title = isset($page_title) ? $page_title . ' — IFFI FlightOps' : 'IFFI Flight
             <a href="<?= url('/pilot/request-new.php') ?>">New Request</a>
             <a href="<?= url('/pilot/history.php') ?>">History</a>
             <a href="<?= url('/logbook/index.php') ?>">Logbook</a>
+            <a href="<?= url('/training/my.php') ?>">Training Academy</a>
+            <?php if (is_instructor()): ?>
+                <a href="<?= url('/training/queue.php') ?>">Instructor Queue</a>
+            <?php endif; ?>
             <?php if (is_manager()): ?>
                 <a href="<?= url('/manager/queue.php') ?>">Ticket Queue</a>
+                <a href="<?= url('/manager/instructors.php') ?>">Instructors</a>
+                <a href="<?= url('/manager/certifications.php') ?>">Certifications</a>
             <?php endif; ?>
             <a href="<?= url('/index.php') ?>">Converter</a>
         <?php endif; ?>

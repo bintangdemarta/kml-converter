@@ -1,7 +1,7 @@
 <?php
 /*
 |--------------------------------------------------------------------------
-| Auth — session, login state, role guard, CSRF
+| Auth - session, login state, role guard, CSRF
 |--------------------------------------------------------------------------
 | Fondasi yang dipakai ulang seluruh modul (Pilot Profile, Logbook, dll.).
 */
@@ -127,6 +127,16 @@ function is_manager(): bool
     return $u !== null && in_array($u['role'], ['manager', 'admin'], true);
 }
 
+/** Instructor Training Academy - flag manual dari manager, atau manager/admin sendiri. */
+function is_instructor(): bool
+{
+    $u = current_user();
+    if ($u === null) {
+        return false;
+    }
+    return (int)($u['is_instructor'] ?? 0) === 1 || in_array($u['role'], ['manager', 'admin'], true);
+}
+
 /** Wajib login, kalau tidak redirect ke halaman login. */
 function require_login(): void
 {
@@ -144,6 +154,17 @@ function require_role(string ...$roles): void
     if (!in_array($u['role'], $roles, true)) {
         http_response_code(403);
         flash('Akses ditolak: kamu tidak punya izin untuk halaman itu.', 'error');
+        redirect('/pilot/dashboard.php');
+    }
+}
+
+/** Wajib jadi instructor Training Academy (atau manager/admin). */
+function require_instructor(): void
+{
+    require_login();
+    if (!is_instructor()) {
+        http_response_code(403);
+        flash('Akses ditolak: kamu bukan instructor Training Academy.', 'error');
         redirect('/pilot/dashboard.php');
     }
 }
