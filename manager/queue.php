@@ -34,6 +34,12 @@ $tabs = ['active' => 'Perlu Tindakan', 'pending' => 'Pending', 'approved' => 'Ap
 $page_title = 'Ticket Queue';
 require __DIR__ . '/../partials/header.php';
 ?>
+<div class="card" style="display:flex;gap:10px;flex-wrap:wrap;align-items:center;">
+    <span class="muted">Manager tools:</span>
+    <a class="btn btn-ghost" style="margin:0;padding:8px 14px;" href="<?= url('/manager/instructors.php') ?>">Kelola Instructor</a>
+    <a class="btn btn-ghost" style="margin:0;padding:8px 14px;" href="<?= url('/manager/certifications.php') ?>">Kelola Sertifikasi</a>
+</div>
+
 <div class="card">
     <h2>Ticket Queue</h2>
     <p class="muted">Kelola flight request dari pilot: approve/reject lalu dispatch.</p>
@@ -58,7 +64,7 @@ require __DIR__ . '/../partials/header.php';
                         <td><?= (int)$r['id'] ?></td>
                         <td><?= e($r['pilot_name']) ?></td>
                         <td><?= e($r['callsign']) ?></td>
-                        <td><?= e($r['dep_icao']) ?> → <?= e($r['arr_icao']) ?></td>
+                        <td><?= e($r['dep_icao']) ?> - <?= e($r['arr_icao']) ?></td>
                         <td><?= e($r['aircraft']) ?></td>
                         <td><?= number_format((float)$r['distance_nm'], 0) ?></td>
                         <td><?= status_badge($r['status']) ?></td>

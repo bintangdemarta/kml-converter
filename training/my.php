@@ -21,6 +21,12 @@ $earned = array_values(array_filter($rows, fn($r) => $r['status'] === 'passed'))
 $page_title = 'Training Academy';
 require __DIR__ . '/../partials/header.php';
 ?>
+<?php if (is_instructor()): ?>
+<div class="card" style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:10px;">
+    <span class="muted">Kamu instructor Training Academy.</span>
+    <a class="btn" href="<?= url('/training/queue.php') ?>">Buka Instructor Queue</a>
+</div>
+<?php endif; ?>
 <div class="card">
     <h2>Sertifikasi Saya</h2>
     <?php if (!$earned): ?>
